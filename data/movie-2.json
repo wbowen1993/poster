@@ -1,0 +1,7697 @@
+{
+    "movies": [
+        {
+            "id": 174733,
+            "adult": 0,
+            "title": "Metro",
+            "budget": 13000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/sp3zk6W6u8lBi1iMf4fWo6csfoZ.jpg",
+            "date": "2013",
+            "duration": 130,
+            "languages": [
+                "ru"
+            ],
+            "rating": 6,
+            "actor": [
+                "6.11",
+                "4.98",
+                "4.86"
+            ],
+            "director": [
+                "5.30"
+            ]
+        },
+        {
+            "id": 412758,
+            "adult": 0,
+            "title": "Eat Locals",
+            "budget": 2073816,
+            "genres": [
+                28,
+                35,
+                27
+            ],
+            "poster_path": "/p8THP9EVfSxilWFB23vvDFrCxgk.jpg",
+            "date": "2017",
+            "duration": 93,
+            "languages": [
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "5.72",
+                "6.15",
+                "6.15"
+            ],
+            "director": [
+                "6.00"
+            ]
+        },
+        {
+            "id": 31002,
+            "adult": 0,
+            "title": "Ticker",
+            "budget": 7000000,
+            "genres": [
+                28,
+                12,
+                80,
+                53
+            ],
+            "poster_path": "/eQ8akZygPmXUeipo3GsE7RnhuCr.jpg",
+            "date": "2001",
+            "duration": 92,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.6,
+            "actor": [
+                "5.21",
+                "5.02",
+                "5.93"
+            ],
+            "director": [
+                "4.56"
+            ]
+        },
+        {
+            "id": 39256,
+            "adult": 0,
+            "title": "Godzilla 1985",
+            "budget": 2000000,
+            "genres": [
+                28,
+                18,
+                27,
+                878,
+                53
+            ],
+            "poster_path": "/wWQmEv8UiGckO4lHyNtOX8tSCQy.jpg",
+            "date": "1984",
+            "duration": 87,
+            "languages": [
+                "en",
+                "ja",
+                "ru"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "7.00",
+                "6.38",
+                "6.95"
+            ],
+            "director": [
+                "5.70"
+            ]
+        },
+        {
+            "id": 44425,
+            "adult": 0,
+            "title": "Dabangg",
+            "budget": 9370000,
+            "genres": [
+                28,
+                35,
+                80
+            ],
+            "poster_path": "/crg2e9j5QuJDeOKikdcJlZlChYQ.jpg",
+            "date": "2010",
+            "duration": 130,
+            "languages": [
+                "hi"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.06",
+                "5.52",
+                "5.60"
+            ],
+            "director": [
+                "4.97"
+            ]
+        },
+        {
+            "id": 13006,
+            "adult": 0,
+            "title": "Split Second",
+            "budget": 7,
+            "genres": [
+                53,
+                28,
+                27,
+                878,
+                80
+            ],
+            "poster_path": "/p4kPTjdNziADHuTXFNl6hLgKpCL.jpg",
+            "date": "1992",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.61",
+                "5.70",
+                "5.70"
+            ],
+            "director": [
+                "5.69"
+            ]
+        },
+        {
+            "id": 15797,
+            "adult": 0,
+            "title": "Only the Strong",
+            "budget": 6000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/wPZsOYvzDjnIxXo5DajPllVlzv7.jpg",
+            "date": "1993",
+            "duration": 99,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.9,
+            "actor": [
+                "4.87",
+                "5.70",
+                "5.44"
+            ],
+            "director": [
+                "5.53"
+            ]
+        },
+        {
+            "id": 14245,
+            "adult": 0,
+            "title": "Sniper 2",
+            "budget": 5000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/2INFJHaFEyJZsyKPeRJubiIUpcB.jpg",
+            "date": "2002",
+            "duration": 97,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.67",
+                "5.55",
+                "5.89"
+            ],
+            "director": [
+                "5.40"
+            ]
+        },
+        {
+            "id": 28983,
+            "adult": 0,
+            "title": "Fire on the Amazon",
+            "budget": 2000000,
+            "genres": [
+                18,
+                12,
+                28
+            ],
+            "poster_path": "/73PIBghkVzKRGAjZOBMtAJIXoae.jpg",
+            "date": "1993",
+            "duration": 87,
+            "languages": [
+                "es",
+                "en"
+            ],
+            "rating": 3.6,
+            "actor": [
+                "5.72",
+                "4.86",
+                "5.60"
+            ],
+            "director": [
+                "4.37"
+            ]
+        },
+        {
+            "id": 199556,
+            "adult": 0,
+            "title": "Absolute Deception",
+            "budget": 5000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/5LcL8VOGrqq3Jt5W08FEPqMXkeg.jpg",
+            "date": "2013",
+            "duration": 92,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.4,
+            "actor": [
+                "5.66",
+                "4.75",
+                "5.25"
+            ],
+            "director": [
+                "4.79"
+            ]
+        },
+        {
+            "id": 15573,
+            "adult": 0,
+            "title": "The Cowboys",
+            "budget": 6000000,
+            "genres": [
+                28,
+                12,
+                18,
+                37
+            ],
+            "poster_path": "/rNrMAUONKZuU4b3gc7oN4kTuyzX.jpg",
+            "date": "1972",
+            "duration": 131,
+            "languages": [
+                "en"
+            ],
+            "rating": 7,
+            "actor": [
+                "5.64",
+                "5.46",
+                "5.80"
+            ],
+            "director": [
+                "6.52"
+            ]
+        },
+        {
+            "id": 12261,
+            "adult": 0,
+            "title": "Carlito's Way: Rise to Power",
+            "budget": 9000000,
+            "genres": [
+                28,
+                12,
+                18,
+                53
+            ],
+            "poster_path": "/gGHW557gtCJWiqpVQ26E3xnMZU1.jpg",
+            "date": "2005",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "5.86",
+                "5.04",
+                "5.95"
+            ],
+            "director": [
+                "4.93"
+            ]
+        },
+        {
+            "id": 366080,
+            "adult": 0,
+            "title": "Kabali",
+            "budget": 18700000,
+            "genres": [
+                28,
+                80,
+                18
+            ],
+            "poster_path": "/ePHlptlWL3n47sTazsUk1YC94B0.jpg",
+            "date": "2016",
+            "duration": 150,
+            "languages": [
+                "hi",
+                "ta",
+                "te"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.35",
+                "6.39",
+                "6.64"
+            ],
+            "director": [
+                "6.63"
+            ]
+        },
+        {
+            "id": 76170,
+            "adult": 0,
+            "title": "The Wolverine",
+            "budget": 120000000,
+            "genres": [
+                28,
+                878,
+                12,
+                14
+            ],
+            "poster_path": "/iTST6DcLhfufWYUKCOskkusaYUq.jpg",
+            "date": "2013",
+            "duration": 126,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.57",
+                "6.29",
+                "6.05"
+            ],
+            "director": [
+                "7.14"
+            ]
+        },
+        {
+            "id": 10572,
+            "adult": 0,
+            "title": "Michel Vaillant",
+            "budget": 22900000,
+            "genres": [
+                28,
+                18
+            ],
+            "poster_path": "/bUEd46Vfuzn7dAHdgczUAK7aUU8.jpg",
+            "date": "2003",
+            "duration": 103,
+            "languages": [
+                "en",
+                "fr"
+            ],
+            "rating": 5.1,
+            "actor": [
+                "4.97",
+                "5.94",
+                "6.28"
+            ],
+            "director": [
+                "5.95"
+            ]
+        },
+        {
+            "id": 426558,
+            "adult": 0,
+            "title": "Force 2",
+            "budget": 6500000,
+            "genres": [
+                53,
+                28,
+                80
+            ],
+            "poster_path": "/nRVqt6UsH7JwLazGpn2tG2kddDs.jpg",
+            "date": "2016",
+            "duration": 180,
+            "languages": [
+                "en",
+                "hi"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "5.67",
+                "5.52",
+                "6.36"
+            ],
+            "director": [
+                "6.13"
+            ]
+        },
+        {
+            "id": 24293,
+            "adult": 0,
+            "title": "Goemon",
+            "budget": 9000000,
+            "genres": [
+                28,
+                18,
+                14
+            ],
+            "poster_path": "/u8645OdNvasUzrqzZVVGy5ipP6q.jpg",
+            "date": "2009",
+            "duration": 128,
+            "languages": [
+                "ja"
+            ],
+            "rating": 6.8,
+            "actor": [
+                "6.15",
+                "6.61",
+                "6.14"
+            ],
+            "director": [
+                "6.17"
+            ]
+        },
+        {
+            "id": 227359,
+            "adult": 0,
+            "title": "Force of Execution",
+            "budget": 10000000,
+            "genres": [
+                28,
+                80
+            ],
+            "poster_path": "/gMGwCftxe09Pee6zByDchuLomvG.jpg",
+            "date": "2013",
+            "duration": 98,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "5.02",
+                "4.98",
+                "5.54"
+            ],
+            "director": [
+                "5.16"
+            ]
+        },
+        {
+            "id": 79070,
+            "adult": 0,
+            "title": "Sleepless Night",
+            "budget": 2500000,
+            "genres": [
+                28,
+                35,
+                53,
+                10749
+            ],
+            "poster_path": "/aPRXwAKxGb92RdnhA9FwGfnBaku.jpg",
+            "date": "2011",
+            "duration": 98,
+            "languages": [
+                "fr"
+            ],
+            "rating": 6,
+            "actor": [
+                "5.93",
+                "5.76",
+                "5.59"
+            ],
+            "director": [
+                "5.96"
+            ]
+        },
+        {
+            "id": 16941,
+            "adult": 0,
+            "title": "Intermission",
+            "budget": 5000000,
+            "genres": [
+                10749,
+                28,
+                35,
+                80,
+                9648,
+                18
+            ],
+            "poster_path": "/lWbZT7TK3SmZ0LkCyBUUtib8OD2.jpg",
+            "date": "2003",
+            "duration": 105,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "6.37",
+                "6.00",
+                "6.50"
+            ],
+            "director": [
+                "6.22"
+            ]
+        },
+        {
+            "id": 22059,
+            "adult": 0,
+            "title": "The Fantastic Four",
+            "budget": 1500000,
+            "genres": [
+                28,
+                878,
+                12
+            ],
+            "poster_path": "/fH7UXmnGWDYN0wt1vg6iARRRS6h.jpg",
+            "date": "1994",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.2,
+            "actor": [
+                "5.56",
+                "5.74",
+                "5.66"
+            ],
+            "director": [
+                "5.79"
+            ]
+        },
+        {
+            "id": 34314,
+            "adult": 0,
+            "title": "Turbulence",
+            "budget": 55000000,
+            "genres": [
+                28,
+                53,
+                80
+            ],
+            "poster_path": "/n1U5lOvu6wSOQwdgSx2Yh41THdi.jpg",
+            "date": "1997",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.1,
+            "actor": [
+                "5.83",
+                "5.47",
+                "6.51"
+            ],
+            "director": [
+                "5.60"
+            ]
+        },
+        {
+            "id": 29425,
+            "adult": 0,
+            "title": "The Crazies",
+            "budget": 275000,
+            "genres": [
+                28,
+                27,
+                53
+            ],
+            "poster_path": "/whkSx9FaQpphpt81hQA4rzOK5cy.jpg",
+            "date": "1973",
+            "duration": 103,
+            "languages": [
+                "en",
+                "it"
+            ],
+            "rating": 6,
+            "actor": [
+                "5.10",
+                "5.71",
+                "4.87"
+            ],
+            "director": [
+                "5.92"
+            ]
+        },
+        {
+            "id": 36272,
+            "adult": 0,
+            "title": "Out of Reach",
+            "budget": 20000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/vv8n1xcWlyWjwXk7Kmhit5ILu5X.jpg",
+            "date": "2004",
+            "duration": 88,
+            "languages": [
+                "en"
+            ],
+            "rating": 4,
+            "actor": [
+                "5.02",
+                "4.10",
+                "6.30"
+            ],
+            "director": [
+                "5.37"
+            ]
+        },
+        {
+            "id": 241765,
+            "adult": 0,
+            "title": "The Outsider",
+            "budget": 4000000,
+            "genres": [
+                28,
+                80,
+                18,
+                9648,
+                53
+            ],
+            "poster_path": "/413N4Nz79YJVtjDgvftpwkO6ipm.jpg",
+            "date": "2014",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.6,
+            "actor": [
+                "5.69",
+                "5.24",
+                "5.92"
+            ],
+            "director": [
+                "4.79"
+            ]
+        },
+        {
+            "id": 357706,
+            "adult": 0,
+            "title": "Irudhi Suttru",
+            "budget": 300000,
+            "genres": [
+                28,
+                18
+            ],
+            "poster_path": "/lZpt0gypRpTRfryc9IW60Y3PWXq.jpg",
+            "date": "2016",
+            "duration": 112,
+            "languages": [
+                "hi",
+                "ta"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "6.49",
+                "6.68",
+                "6.03"
+            ],
+            "director": [
+                "6.10"
+            ]
+        },
+        {
+            "id": 16820,
+            "adult": 0,
+            "title": "F/X2",
+            "budget": 16400000,
+            "genres": [
+                12,
+                28,
+                35,
+                53
+            ],
+            "poster_path": "/v44Ozx00NDrYYvvqI9fMVPHU0Gz.jpg",
+            "date": "1991",
+            "duration": 108,
+            "languages": [
+                "cs",
+                "en",
+                "ru"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.60",
+                "5.67",
+                "6.00"
+            ],
+            "director": [
+                "6.50"
+            ]
+        },
+        {
+            "id": 172767,
+            "adult": 0,
+            "title": "500 MPH Storm",
+            "budget": 3000000,
+            "genres": [
+                28,
+                878
+            ],
+            "poster_path": "/jhrQa74SRulO5WEr3J3GJabPlQp.jpg",
+            "date": "2013",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 2.9,
+            "actor": [
+                "4.28",
+                "2.81",
+                "5.48"
+            ],
+            "director": [
+                "4.43"
+            ]
+        },
+        {
+            "id": 120172,
+            "adult": 0,
+            "title": "Another World",
+            "budget": 1000000,
+            "genres": [
+                28,
+                18,
+                878
+            ],
+            "poster_path": "/vCY68x3fh0uZWp7QofF5kCCqHBr.jpg",
+            "date": "2014",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.9,
+            "actor": [
+                "4.90",
+                "5.47",
+                "3.90"
+            ],
+            "director": [
+                "3.90"
+            ]
+        },
+        {
+            "id": 181009,
+            "adult": 0,
+            "title": "Saving General Yang",
+            "budget": 20000000,
+            "genres": [
+                28,
+                12,
+                36
+            ],
+            "poster_path": "/2mTbUj3S7y2zPtx14Pi2VbDJ1mD.jpg",
+            "date": "2013",
+            "duration": 102,
+            "languages": [
+                "zh"
+            ],
+            "rating": 6.1,
+            "actor": [
+                "5.82",
+                "5.76",
+                "5.57"
+            ],
+            "director": [
+                "6.25"
+            ]
+        },
+        {
+            "id": 2093,
+            "adult": 0,
+            "title": "Amsterdamned",
+            "budget": 98003,
+            "genres": [
+                28,
+                27,
+                53
+            ],
+            "poster_path": "/3Z87pn47KCYnw3dpnIsjSfMG17W.jpg",
+            "date": "1988",
+            "duration": 105,
+            "languages": [
+                "zh",
+                "en",
+                "es",
+                "nl"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.91",
+                "5.60",
+                "5.59"
+            ],
+            "director": [
+                "5.69"
+            ]
+        },
+        {
+            "id": 13956,
+            "adult": 0,
+            "title": "Fly Me to the Moon",
+            "budget": 25000000,
+            "genres": [
+                12,
+                14,
+                16,
+                28,
+                878,
+                10751
+            ],
+            "poster_path": "/eM5clf65GzhnTKYwOgNqhgFZTFF.jpg",
+            "date": "2008",
+            "duration": 84,
+            "languages": [
+                "cs",
+                "en"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "5.77",
+                "5.68",
+                "5.63"
+            ],
+            "director": [
+                "6.25"
+            ]
+        },
+        {
+            "id": 407624,
+            "adult": 0,
+            "title": "Atomic Shark",
+            "budget": 1000000,
+            "genres": [
+                10770,
+                878,
+                28
+            ],
+            "poster_path": "/l2GtdrJyanFtJSgCftVu9h83gQy.jpg",
+            "date": "2016",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.2,
+            "actor": [
+                "5.59",
+                "5.07",
+                "4.63"
+            ],
+            "director": [
+                "4.50"
+            ]
+        },
+        {
+            "id": 108993,
+            "adult": 0,
+            "title": "Detention",
+            "budget": 2150000,
+            "genres": [
+                27,
+                28,
+                35,
+                53
+            ],
+            "poster_path": "/kXLlNXFt9VCLE9uuczAFbRsmLPR.jpg",
+            "date": "2010",
+            "duration": 90,
+            "languages": [
+                "cs",
+                "en"
+            ],
+            "rating": 4,
+            "actor": [
+                "5.39",
+                "5.30",
+                "3.97"
+            ],
+            "director": [
+                "4.89"
+            ]
+        },
+        {
+            "id": 22820,
+            "adult": 0,
+            "title": "Gentlemen Broncos",
+            "budget": 10000000,
+            "genres": [
+                28,
+                35,
+                53
+            ],
+            "poster_path": "/77NP6ETw6kGcbaPunQh1bzB1M3J.jpg",
+            "date": "2009",
+            "duration": 89,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "6.04",
+                "6.47",
+                "5.92"
+            ],
+            "director": [
+                "6.15"
+            ]
+        },
+        {
+            "id": 13197,
+            "adult": 0,
+            "title": "10th & Wolf",
+            "budget": 8000000,
+            "genres": [
+                28,
+                80,
+                18,
+                9648,
+                53
+            ],
+            "poster_path": "/sL2dZPMbKYWX9X0DbyNIoCfksZz.jpg",
+            "date": "2006",
+            "duration": 107,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.14",
+                "5.67",
+                "6.01"
+            ],
+            "director": [
+                "6.46"
+            ]
+        },
+        {
+            "id": 13153,
+            "adult": 0,
+            "title": "Rapid Fire",
+            "budget": 10000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/geo8K2sEb3mplGfbMbbTSYTB6JC.jpg",
+            "date": "1992",
+            "duration": 95,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "6.76",
+                "6.15",
+                "4.79"
+            ],
+            "director": [
+                "5.30"
+            ]
+        },
+        {
+            "id": 9311,
+            "adult": 0,
+            "title": "Smilla's Sense of Snow",
+            "budget": 35000000,
+            "genres": [
+                28,
+                80,
+                18,
+                9648,
+                53
+            ],
+            "poster_path": "/ngfNzb9w2ZXWHK2KaSCSoemJmqC.jpg",
+            "date": "1997",
+            "duration": 121,
+            "languages": [
+                "en",
+                "iu"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "6.23",
+                "6.05",
+                "5.98"
+            ],
+            "director": [
+                "6.30"
+            ]
+        },
+        {
+            "id": 79699,
+            "adult": 0,
+            "title": "A Warrior's Heart",
+            "budget": 2500000,
+            "genres": [
+                28,
+                18,
+                10751
+            ],
+            "poster_path": "/qNorrb16R45dp1hEHdiVYuZvS8j.jpg",
+            "date": "2011",
+            "duration": 86,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.4,
+            "actor": [
+                "5.50",
+                "5.11",
+                "5.46"
+            ],
+            "director": [
+                "5.40"
+            ]
+        },
+        {
+            "id": 360203,
+            "adult": 0,
+            "title": "Lost in the Sun",
+            "budget": 25000,
+            "genres": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "poster_path": "/xtAsAVNxCI4cGjcEPbEShqu4Clt.jpg",
+            "date": "2015",
+            "duration": 95,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.92",
+                "6.15",
+                "5.84"
+            ],
+            "director": [
+                "5.70"
+            ]
+        },
+        {
+            "id": 584,
+            "adult": 0,
+            "title": "2 Fast 2 Furious",
+            "budget": 76000000,
+            "genres": [
+                28,
+                80,
+                53
+            ],
+            "poster_path": "/hZVcmztCVo510FhBXyLqStiTAce.jpg",
+            "date": "2003",
+            "duration": 107,
+            "languages": [
+                "en",
+                "es"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "5.96",
+                "6.18",
+                "5.74"
+            ],
+            "director": [
+                "6.42"
+            ]
+        },
+        {
+            "id": 16911,
+            "adult": 0,
+            "title": "The Inhabited Island",
+            "budget": 36500000,
+            "genres": [
+                28,
+                14,
+                878,
+                53
+            ],
+            "poster_path": "/fcMr2HsJVvHU8ZuNWNDSII03ngT.jpg",
+            "date": "2008",
+            "duration": 115,
+            "languages": [
+                "ru"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.10",
+                "6.04",
+                "4.95"
+            ],
+            "director": [
+                "5.96"
+            ]
+        },
+        {
+            "id": 21948,
+            "adult": 0,
+            "title": "Rolling Thunder",
+            "budget": 5000000,
+            "genres": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "poster_path": "/oAAw21VnSBbat7YbO17UTOWI3mL.jpg",
+            "date": "1977",
+            "duration": 95,
+            "languages": [
+                "en",
+                "es"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "5.92",
+                "5.98",
+                "5.40"
+            ],
+            "director": [
+                "6.33"
+            ]
+        },
+        {
+            "id": 18070,
+            "adult": 0,
+            "title": "Black Dawn",
+            "budget": 16000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/mXGIa08Gv71ESrVTYNKvH9p8zKS.jpg",
+            "date": "2005",
+            "duration": 96,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.5,
+            "actor": [
+                "5.02",
+                "4.74",
+                "5.46"
+            ],
+            "director": [
+                "6.17"
+            ]
+        },
+        {
+            "id": 149085,
+            "adult": 0,
+            "title": "Tai Chi Hero",
+            "budget": 40000000,
+            "genres": [
+                28,
+                12
+            ],
+            "poster_path": "/kLfmJAxJ3oUZrqV5hMvumCj8BVM.jpg",
+            "date": "2012",
+            "duration": 100,
+            "languages": [
+                "zh"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "5.70",
+                "6.13",
+                "6.28"
+            ],
+            "director": [
+                "5.76"
+            ]
+        },
+        {
+            "id": 24266,
+            "adult": 0,
+            "title": "The Man from Snowy River",
+            "budget": 3500000,
+            "genres": [
+                10751,
+                18,
+                28,
+                37,
+                10749
+            ],
+            "poster_path": "/lAa65eXokvlD4DeaTfHyy0UJgh0.jpg",
+            "date": "1982",
+            "duration": 104,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.8,
+            "actor": [
+                "5.29",
+                "6.40",
+                "6.31"
+            ],
+            "director": [
+                "4.26"
+            ]
+        },
+        {
+            "id": 46812,
+            "adult": 0,
+            "title": "Lost Boys: The Thirst",
+            "budget": 4400000,
+            "genres": [
+                28,
+                12,
+                35
+            ],
+            "poster_path": "/gltzd8ziXXz1aO4xTJ2yNHbLPX2.jpg",
+            "date": "2010",
+            "duration": 81,
+            "languages": [
+                "en",
+                "pl",
+                "es"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.34",
+                "6.16",
+                "5.72"
+            ],
+            "director": [
+                "5.40"
+            ]
+        },
+        {
+            "id": 168643,
+            "adult": 0,
+            "title": "XIII",
+            "budget": 21000000,
+            "genres": [
+                28,
+                80,
+                9648
+            ],
+            "poster_path": "/g7DTqPi0hNnJApE2jguji6Rm9Et.jpg",
+            "date": "2008",
+            "duration": 173,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.80",
+                "5.52",
+                "5.77"
+            ],
+            "director": [
+                "6.13"
+            ]
+        },
+        {
+            "id": 10971,
+            "adult": 0,
+            "title": "A Night to Remember",
+            "budget": 1680000,
+            "genres": [
+                18,
+                28,
+                36
+            ],
+            "poster_path": "/6fDhJAz6AuYWj3hAnvUL42Xlxfj.jpg",
+            "date": "1958",
+            "duration": 123,
+            "languages": [
+                "de",
+                "en",
+                "it",
+                "pl",
+                "ru"
+            ],
+            "rating": 7.5,
+            "actor": [
+                "6.27",
+                "6.58",
+                "5.84"
+            ],
+            "director": [
+                "6.26"
+            ]
+        },
+        {
+            "id": 24264,
+            "adult": 0,
+            "title": "Sheena",
+            "budget": 25000000,
+            "genres": [
+                28,
+                12,
+                35,
+                14,
+                878
+            ],
+            "poster_path": "/kD2reeuYSHxN30NBJAmIeut02fn.jpg",
+            "date": "1984",
+            "duration": 117,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "4.92",
+                "5.34",
+                "5.64"
+            ],
+            "director": [
+                "6.25"
+            ]
+        },
+        {
+            "id": 13945,
+            "adult": 0,
+            "title": "The Sword and the Sorcerer",
+            "budget": 4000000,
+            "genres": [
+                28,
+                12,
+                14
+            ],
+            "poster_path": "/m0rAw4P71AyAGaMxCiaBdnz8hRA.jpg",
+            "date": "1982",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "5.66",
+                "5.09",
+                "6.24"
+            ],
+            "director": [
+                "4.56"
+            ]
+        },
+        {
+            "id": 17585,
+            "adult": 0,
+            "title": "Surviving the Game",
+            "budget": 7400000,
+            "genres": [
+                28,
+                12,
+                53,
+                80
+            ],
+            "poster_path": "/8SILtvmd0DCJeBTTWnwO7lur1S7.jpg",
+            "date": "1994",
+            "duration": 96,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "5.30",
+                "5.61",
+                "5.89"
+            ],
+            "director": [
+                "5.40"
+            ]
+        },
+        {
+            "id": 30806,
+            "adult": 0,
+            "title": "Out for a Kill",
+            "budget": 14000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/KiPjKXGO0aos9HoXZRrDP8BPv3.jpg",
+            "date": "2003",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.2,
+            "actor": [
+                "5.02",
+                "4.47",
+                "6.33"
+            ],
+            "director": [
+                "4.43"
+            ]
+        },
+        {
+            "id": 59387,
+            "adult": 0,
+            "title": "The Powerpuff Girls Movie",
+            "budget": 10000000,
+            "genres": [
+                16,
+                28,
+                10751
+            ],
+            "poster_path": "/3bbSX8mKd3pUFvGdyPpl1LYsNWu.jpg",
+            "date": "2002",
+            "duration": 77,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "6.57",
+                "6.25",
+                "5.96"
+            ],
+            "director": [
+                "6.63"
+            ]
+        },
+        {
+            "id": 20181,
+            "adult": 0,
+            "title": "Tunnel Rats",
+            "budget": 8000000,
+            "genres": [
+                28,
+                18,
+                10752
+            ],
+            "poster_path": "/gkKJujk8aCyfxxLsXrJjvq865Jt.jpg",
+            "date": "2008",
+            "duration": 92,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.1,
+            "actor": [
+                "4.35",
+                "4.76",
+                "5.36"
+            ],
+            "director": [
+                "3.71"
+            ]
+        },
+        {
+            "id": 360387,
+            "adult": 0,
+            "title": "Blunt Force Trauma",
+            "budget": 1000000,
+            "genres": [
+                12,
+                28
+            ],
+            "poster_path": "/x7RHFbxurmz8BVNmctP85Bx0cxg.jpg",
+            "date": "2015",
+            "duration": 92,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "5.89",
+                "6.14",
+                "5.60"
+            ],
+            "director": [
+                "3.88"
+            ]
+        },
+        {
+            "id": 148284,
+            "adult": 0,
+            "title": "Enthiran",
+            "budget": 26400000,
+            "genres": [
+                28,
+                35,
+                18,
+                10749,
+                878
+            ],
+            "poster_path": "/6VcROd4zbaleTGIkgRlNCdw8o94.jpg",
+            "date": "2010",
+            "duration": 155,
+            "languages": [
+                "en",
+                "ta",
+                "hi"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "6.35",
+                "6.10",
+                "6.05"
+            ],
+            "director": [
+                "6.35"
+            ]
+        },
+        {
+            "id": 260203,
+            "adult": 0,
+            "title": "The Cure",
+            "budget": 1754000,
+            "genres": [
+                53,
+                28,
+                878
+            ],
+            "poster_path": "/fLVH69fdX23rdJrdu4wniZfv4Qk.jpg",
+            "date": "2014",
+            "duration": 89,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.6,
+            "actor": [
+                "5.95",
+                "7.23",
+                "5.73"
+            ],
+            "director": [
+                "4.40"
+            ]
+        },
+        {
+            "id": 28893,
+            "adult": 0,
+            "title": "Galaxy of Terror",
+            "budget": 700000,
+            "genres": [
+                28,
+                12,
+                27,
+                878
+            ],
+            "poster_path": "/2Qg8opQjLVCLF4bbs0x3LsS771G.jpg",
+            "date": "1981",
+            "duration": 81,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.2,
+            "actor": [
+                "5.36",
+                "5.24",
+                "5.99"
+            ],
+            "director": [
+                "5.08"
+            ]
+        },
+        {
+            "id": 46541,
+            "adult": 0,
+            "title": "Game of Death",
+            "budget": 13000000,
+            "genres": [
+                12,
+                28,
+                53
+            ],
+            "poster_path": "/z25FvJYpgfgibRYz1IBZHknZxme.jpg",
+            "date": "2010",
+            "duration": 98,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.8,
+            "actor": [
+                "5.61",
+                "5.29",
+                "5.04"
+            ],
+            "director": [
+                "5.57"
+            ]
+        },
+        {
+            "id": 48129,
+            "adult": 0,
+            "title": "Run",
+            "budget": 16000000,
+            "genres": [
+                28,
+                53,
+                18
+            ],
+            "poster_path": "/w4sxXgXpALEDFexRZE9cb3j8bb2.jpg",
+            "date": "1991",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "5.98",
+                "5.66",
+                "5.47"
+            ],
+            "director": [
+                "5.88"
+            ]
+        },
+        {
+            "id": 28019,
+            "adult": 0,
+            "title": "Give 'em Hell, Malone",
+            "budget": 15000000,
+            "genres": [
+                28,
+                80,
+                9648,
+                53
+            ],
+            "poster_path": "/g8g5y9AFHdrKiuota0b3XvoxX7j.jpg",
+            "date": "2009",
+            "duration": 96,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "5.78",
+                "5.54",
+                "5.54"
+            ],
+            "director": [
+                "5.61"
+            ]
+        },
+        {
+            "id": 19827,
+            "adult": 0,
+            "title": "The In-Laws",
+            "budget": 9000000,
+            "genres": [
+                28,
+                12,
+                35
+            ],
+            "poster_path": "/vJXfjb8ZX2iCj8s3bfCXt6UM2FW.jpg",
+            "date": "1979",
+            "duration": 103,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "5.92",
+                "6.08",
+                "5.61"
+            ],
+            "director": [
+                "6.10"
+            ]
+        },
+        {
+            "id": 80973,
+            "adult": 0,
+            "title": "The Girl from the Naked Eye",
+            "budget": 1100000,
+            "genres": [
+                28,
+                10749,
+                53
+            ],
+            "poster_path": "/uaRubGTjFaAL5P7kyLQjkqOFwNO.jpg",
+            "date": "2012",
+            "duration": 80,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "4.38",
+                "4.30",
+                "4.65"
+            ],
+            "director": [
+                "5.10"
+            ]
+        },
+        {
+            "id": 10341,
+            "adult": 0,
+            "title": "Until the End of the World",
+            "budget": 23000000,
+            "genres": [
+                53,
+                18,
+                878,
+                28
+            ],
+            "poster_path": "/flNXkrzUjWRdMXC64kMeC0Fxsl9.jpg",
+            "date": "1991",
+            "duration": 287,
+            "languages": [
+                "en",
+                "fr",
+                "de",
+                "it",
+                "ja"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.22",
+                "6.02",
+                "6.11"
+            ],
+            "director": [
+                "6.32"
+            ]
+        },
+        {
+            "id": 382542,
+            "adult": 0,
+            "title": "Beyond the Call to Duty",
+            "budget": 30000,
+            "genres": [
+                28,
+                53,
+                878
+            ],
+            "poster_path": "/j5iby97AvVREebMJpxMKbc0XrFL.jpg",
+            "date": "2016",
+            "duration": 95,
+            "languages": [
+                "en"
+            ],
+            "rating": 4,
+            "actor": [
+                "4.00",
+                "4.00",
+                "4.00"
+            ],
+            "director": [
+                "4.00"
+            ]
+        },
+        {
+            "id": 27418,
+            "adult": 0,
+            "title": "Next of Kin",
+            "budget": 12000000,
+            "genres": [
+                12,
+                18,
+                28,
+                53
+            ],
+            "poster_path": "/eJ67z2szrXL6eQYlikt7yYkeBSz.jpg",
+            "date": "1989",
+            "duration": 108,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "6.14",
+                "6.35",
+                "5.15"
+            ],
+            "director": [
+                "5.49"
+            ]
+        },
+        {
+            "id": 8854,
+            "adult": 0,
+            "title": "Steel",
+            "budget": 16000000,
+            "genres": [
+                878,
+                28,
+                12
+            ],
+            "poster_path": "/hbH8oXJZPwcYxaa1JrUMq4ogg7G.jpg",
+            "date": "1997",
+            "duration": 97,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.2,
+            "actor": [
+                "5.92",
+                "5.49",
+                "5.12"
+            ],
+            "director": [
+                "6.57"
+            ]
+        },
+        {
+            "id": 369698,
+            "adult": 0,
+            "title": "Viking",
+            "budget": 13000000,
+            "genres": [
+                36,
+                28,
+                18
+            ],
+            "poster_path": "/ueZgNjkAGYjShdK60YCR23AdRC0.jpg",
+            "date": "2016",
+            "duration": 133,
+            "languages": [
+                "no",
+                "ru"
+            ],
+            "rating": 5.2,
+            "actor": [
+                "5.95",
+                "5.19",
+                "4.45"
+            ],
+            "director": [
+                "5.90"
+            ]
+        },
+        {
+            "id": 34746,
+            "adult": 0,
+            "title": "Death Wish 5: The Face of Death",
+            "budget": 5000000,
+            "genres": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "poster_path": "/mWLBf0aSW9CPZcBvTEVglGlx3QT.jpg",
+            "date": "1994",
+            "duration": 95,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "6.14",
+                "5.45",
+                "6.12"
+            ],
+            "director": [
+                "4.41"
+            ]
+        },
+        {
+            "id": 28090,
+            "adult": 0,
+            "title": "Maniac Cop 2",
+            "budget": 4000000,
+            "genres": [
+                27,
+                53,
+                28
+            ],
+            "poster_path": "/wsgqF4PnIm64H6c34A070GcwM08.jpg",
+            "date": "1990",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "4.42",
+                "5.30",
+                "5.85"
+            ],
+            "director": [
+                "5.36"
+            ]
+        },
+        {
+            "id": 40095,
+            "adult": 0,
+            "title": "Dead Heat",
+            "budget": 5000000,
+            "genres": [
+                28,
+                35,
+                18,
+                27,
+                878,
+                53
+            ],
+            "poster_path": "/tgqSoIp2PU6jKE1c8CgjAvdvc4W.jpg",
+            "date": "1988",
+            "duration": 86,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.61",
+                "6.67",
+                "5.43"
+            ],
+            "director": [
+                "6.10"
+            ]
+        },
+        {
+            "id": 42807,
+            "adult": 0,
+            "title": "The Newton Boys",
+            "budget": 27000000,
+            "genres": [
+                80,
+                28,
+                18
+            ],
+            "poster_path": "/yoDlDqwp83p8mc0sylVPlbKnVDy.jpg",
+            "date": "1998",
+            "duration": 113,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.44",
+                "5.90",
+                "6.35"
+            ],
+            "director": [
+                "6.83"
+            ]
+        },
+        {
+            "id": 19703,
+            "adult": 0,
+            "title": "A Wednesday!",
+            "budget": 1400000,
+            "genres": [
+                28,
+                18
+            ],
+            "poster_path": "/5w5HpAXMRty6YBxx6GjPAk0CuMN.jpg",
+            "date": "2008",
+            "duration": 103,
+            "languages": [
+                "hi"
+            ],
+            "rating": 6.8,
+            "actor": [
+                "6.06",
+                "6.49",
+                "6.40"
+            ],
+            "director": [
+                "6.53"
+            ]
+        },
+        {
+            "id": 46103,
+            "adult": 0,
+            "title": "Born to Raise Hell",
+            "budget": 10000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/bYXgdHVNH1ounAwW8Kehr2f8akz.jpg",
+            "date": "2010",
+            "duration": 98,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.1,
+            "actor": [
+                "5.02",
+                "5.33",
+                "4.50"
+            ],
+            "director": [
+                "5.08"
+            ]
+        },
+        {
+            "id": 348748,
+            "adult": 0,
+            "title": "Nick Off Duty",
+            "budget": 9000000,
+            "genres": [
+                53,
+                28,
+                35
+            ],
+            "poster_path": "/5GKGz5gc8PZXPCpjuHUoKg4Xup5.jpg",
+            "date": "2016",
+            "duration": 140,
+            "languages": [
+                "de",
+                "ru",
+                "tr"
+            ],
+            "rating": 3.7,
+            "actor": [
+                "5.73",
+                "4.48",
+                "5.89"
+            ],
+            "director": [
+                "6.18"
+            ]
+        },
+        {
+            "id": 4255,
+            "adult": 0,
+            "title": "The Party at Kitty and Stud's",
+            "budget": 5000,
+            "genres": [
+                18,
+                28,
+                35
+            ],
+            "poster_path": "/iwCJQRoEtNGTppUnKCb3ClVtVbl.jpg",
+            "date": "1970",
+            "duration": 71,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.1,
+            "actor": [
+                "5.99",
+                "3.20",
+                "3.20"
+            ],
+            "director": [
+                "3.20"
+            ]
+        },
+        {
+            "id": 39522,
+            "adult": 0,
+            "title": "Mega Piranha",
+            "budget": 3000000,
+            "genres": [
+                28,
+                12,
+                27,
+                878
+            ],
+            "poster_path": "/f7jol00uMdExQWVKY7buBZOiL41.jpg",
+            "date": "2010",
+            "duration": 92,
+            "languages": [
+                "en",
+                "es"
+            ],
+            "rating": 3,
+            "actor": [
+                "4.32",
+                "3.72",
+                "3.87"
+            ],
+            "director": [
+                "2.87"
+            ]
+        },
+        {
+            "id": 10643,
+            "adult": 0,
+            "title": "Godzilla 2000",
+            "budget": 1000000,
+            "genres": [
+                12,
+                27,
+                28,
+                878
+            ],
+            "poster_path": "/iFqf6rOnVdBGR3PIqn1eRUffuaH.jpg",
+            "date": "1999",
+            "duration": 107,
+            "languages": [
+                "ja"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.49",
+                "6.38",
+                "5.80"
+            ],
+            "director": [
+                "6.00"
+            ]
+        },
+        {
+            "id": 15618,
+            "adult": 0,
+            "title": "Robot Jox",
+            "budget": 10000000,
+            "genres": [
+                878,
+                28
+            ],
+            "poster_path": "/2IdkCMfo5GO3LD2KsGczDFdVxYp.jpg",
+            "date": "1989",
+            "duration": 85,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.21",
+                "5.52",
+                "5.75"
+            ],
+            "director": [
+                "5.87"
+            ]
+        },
+        {
+            "id": 10135,
+            "adult": 0,
+            "title": "Road House",
+            "budget": 15000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/fSiDWJ7EyA4JVVlPHwhFzYmWYDG.jpg",
+            "date": "1989",
+            "duration": 114,
+            "languages": [
+                "en",
+                "pt"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.14",
+                "5.28",
+                "5.75"
+            ],
+            "director": [
+                "5.65"
+            ]
+        },
+        {
+            "id": 440777,
+            "adult": 0,
+            "title": "Female Fight Club",
+            "budget": 2000000,
+            "genres": [
+                18,
+                28
+            ],
+            "poster_path": "/o6Sa24tGF9va8FnMtR5Uj7Icx8H.jpg",
+            "date": "2017",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.3,
+            "actor": [
+                "5.43",
+                "5.34",
+                "7.30"
+            ],
+            "director": [
+                "7.30"
+            ]
+        },
+        {
+            "id": 456565,
+            "adult": 0,
+            "title": "Judwaa 2",
+            "budget": 10000000,
+            "genres": [
+                28,
+                35,
+                10749
+            ],
+            "poster_path": "/3BlL1cbOTkzHSXTy3Lw95OfiCKX.jpg",
+            "date": "2017",
+            "duration": 150,
+            "languages": [
+                "hi"
+            ],
+            "rating": 8,
+            "actor": [
+                "6.42",
+                "6.35",
+                "5.93"
+            ],
+            "director": [
+                "5.55"
+            ]
+        },
+        {
+            "id": 10179,
+            "adult": 0,
+            "title": "The Ice Pirates",
+            "budget": 9000000,
+            "genres": [
+                28,
+                878,
+                35
+            ],
+            "poster_path": "/wDnPJkkBDLqnwZKkPZoWptgOz9U.jpg",
+            "date": "1984",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.7,
+            "actor": [
+                "5.20",
+                "5.53",
+                "5.73"
+            ],
+            "director": [
+                "4.94"
+            ]
+        },
+        {
+            "id": 76101,
+            "adult": 0,
+            "title": "Freerunner",
+            "budget": 5000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/cJVtnUchU5N0x1WvhbGg71BsJcg.jpg",
+            "date": "2011",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.4,
+            "actor": [
+                "5.20",
+                "5.73",
+                "5.54"
+            ],
+            "director": [
+                "4.30"
+            ]
+        },
+        {
+            "id": 287415,
+            "adult": 0,
+            "title": "Free Fall",
+            "budget": 1500000,
+            "genres": [
+                18,
+                53,
+                28
+            ],
+            "poster_path": "/hv7oVEjQ3y4oMG4fn51JY0mlQIe.jpg",
+            "date": "2014",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.6,
+            "actor": [
+                "4.80",
+                "5.63",
+                "5.54"
+            ],
+            "director": [
+                "5.16"
+            ]
+        },
+        {
+            "id": 21241,
+            "adult": 0,
+            "title": "Cannonball",
+            "budget": 780000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/nPLlXviSsLgftMvG3iGpn0Z8Ug1.jpg",
+            "date": "1976",
+            "duration": 93,
+            "languages": [
+                "de",
+                "en"
+            ],
+            "rating": 5.7,
+            "actor": [
+                "5.39",
+                "5.79",
+                "5.66"
+            ],
+            "director": [
+                "5.35"
+            ]
+        },
+        {
+            "id": 20304,
+            "adult": 0,
+            "title": "Never Die Alone",
+            "budget": 3000000,
+            "genres": [
+                28,
+                12,
+                80,
+                18,
+                53
+            ],
+            "poster_path": "/uQy6wONTZA5hxHk7ktipRFYm8KO.jpg",
+            "date": "2004",
+            "duration": 88,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.7,
+            "actor": [
+                "5.26",
+                "6.47",
+                "5.73"
+            ],
+            "director": [
+                "5.40"
+            ]
+        },
+        {
+            "id": 79698,
+            "adult": 0,
+            "title": "The Lovers",
+            "budget": 27000000,
+            "genres": [
+                28,
+                12,
+                878,
+                10749
+            ],
+            "poster_path": "/2tszioaFbawMOkwOXin1ig7oJkP.jpg",
+            "date": "2015",
+            "duration": 109,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.7,
+            "actor": [
+                "5.69",
+                "5.03",
+                "5.69"
+            ],
+            "director": [
+                "5.71"
+            ]
+        },
+        {
+            "id": 33555,
+            "adult": 0,
+            "title": "Sherlock Holmes",
+            "budget": 1000000,
+            "genres": [
+                14,
+                18,
+                27,
+                28,
+                53,
+                9648
+            ],
+            "poster_path": "/yVeRjNrFPNHkjV200Ncmldd6p6p.jpg",
+            "date": "2010",
+            "duration": 89,
+            "languages": [
+                "en",
+                "fr"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "5.50",
+                "4.50",
+                "5.09"
+            ],
+            "director": [
+                "5.23"
+            ]
+        },
+        {
+            "id": 335462,
+            "adult": 0,
+            "title": "Wolf Warrior",
+            "budget": 12000000,
+            "genres": [
+                12,
+                28,
+                10752
+            ],
+            "poster_path": "/pcC3aWHzO8RcKtTLI37uus92rKv.jpg",
+            "date": "2015",
+            "duration": 90,
+            "languages": [
+                "zh"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "5.83",
+                "5.69",
+                "5.99"
+            ],
+            "director": [
+                "6.20"
+            ]
+        },
+        {
+            "id": 9636,
+            "adult": 0,
+            "title": "Control",
+            "budget": 6800000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/lACqAJ8j08gSeIrxVIzj4zY2yX7.jpg",
+            "date": "2004",
+            "duration": 98,
+            "languages": [
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "5.83",
+                "6.19",
+                "6.29"
+            ],
+            "director": [
+                "5.46"
+            ]
+        },
+        {
+            "id": 47177,
+            "adult": 0,
+            "title": "Devil's Playground",
+            "budget": 2400000,
+            "genres": [
+                27,
+                28
+            ],
+            "poster_path": "/xdvYXwBEkUoiyGuNMRXsZjLUtr2.jpg",
+            "date": "2010",
+            "duration": 93,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.61",
+                "5.73",
+                "5.24"
+            ],
+            "director": [
+                "5.30"
+            ]
+        },
+        {
+            "id": 22213,
+            "adult": 0,
+            "title": "Boiling Point",
+            "budget": 9000000,
+            "genres": [
+                18,
+                28,
+                12,
+                80,
+                53
+            ],
+            "poster_path": "/okpmrzlVDdXNhQms2I41Yek6Wyv.jpg",
+            "date": "1993",
+            "duration": 92,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.6,
+            "actor": [
+                "5.61",
+                "5.93",
+                "5.70"
+            ],
+            "director": [
+                "6.34"
+            ]
+        },
+        {
+            "id": 2699,
+            "adult": 0,
+            "title": "Titanic",
+            "budget": 13000000,
+            "genres": [
+                28,
+                18,
+                10749
+            ],
+            "poster_path": "/AosgVsKPbLctVQ8hd8shEj7LJrZ.jpg",
+            "date": "1996",
+            "duration": 173,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "5.92",
+                "6.34",
+                "5.68"
+            ],
+            "director": [
+                "5.29"
+            ]
+        },
+        {
+            "id": 111237,
+            "adult": 0,
+            "title": "White Tiger",
+            "budget": 11000000,
+            "genres": [
+                28,
+                12,
+                14,
+                10752
+            ],
+            "poster_path": "/z7VKsgOFsLetVhE5aXrExzA2aJC.jpg",
+            "date": "2012",
+            "duration": 104,
+            "languages": [
+                "ru"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "3.65",
+                "5.90",
+                "5.90"
+            ],
+            "director": [
+                "5.04"
+            ]
+        },
+        {
+            "id": 50618,
+            "adult": 0,
+            "title": "Fortress of War",
+            "budget": 8500000,
+            "genres": [
+                10752,
+                18,
+                36,
+                28
+            ],
+            "poster_path": "/hAaeoxdBHjvmtF04SdYURrxILCE.jpg",
+            "date": "2010",
+            "duration": 138,
+            "languages": [
+                "be",
+                "de",
+                "ru",
+                "uk"
+            ],
+            "rating": 7.4,
+            "actor": [
+                "4.67",
+                "4.76",
+                "7.40"
+            ],
+            "director": [
+                "5.61"
+            ]
+        },
+        {
+            "id": 13496,
+            "adult": 0,
+            "title": "American Outlaws",
+            "budget": 35000000,
+            "genres": [
+                28,
+                37
+            ],
+            "poster_path": "/cijrhkluznw3T6ZAh2wDP5EUtOs.jpg",
+            "date": "2001",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.7,
+            "actor": [
+                "6.37",
+                "5.56",
+                "5.77"
+            ],
+            "director": [
+                "5.91"
+            ]
+        },
+        {
+            "id": 57695,
+            "adult": 0,
+            "title": "The Princess of Montpensier",
+            "budget": 14734000,
+            "genres": [
+                28,
+                18,
+                36,
+                10749
+            ],
+            "poster_path": "/fcvtusJHu7nP5oJcPMjomHFBOaR.jpg",
+            "date": "2010",
+            "duration": 139,
+            "languages": [
+                "fr"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "6.16",
+                "5.97",
+                "5.69"
+            ],
+            "director": [
+                "6.29"
+            ]
+        },
+        {
+            "id": 44037,
+            "adult": 0,
+            "title": "Lake Placid 3",
+            "budget": 2500000,
+            "genres": [
+                27,
+                28,
+                878,
+                53
+            ],
+            "poster_path": "/gSzn441p0Q8pIK8g5IaJwBvbGKo.jpg",
+            "date": "2010",
+            "duration": 93,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "5.45",
+                "5.39",
+                "5.25"
+            ],
+            "director": [
+                "4.41"
+            ]
+        },
+        {
+            "id": 14877,
+            "adult": 0,
+            "title": "September Dawn",
+            "budget": 11000000,
+            "genres": [
+                18,
+                28,
+                36,
+                37,
+                10749
+            ],
+            "poster_path": "/tvr4lCvmio6BLhtFCgVdrhD5gTo.jpg",
+            "date": "2007",
+            "duration": 110,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "5.99",
+                "5.44",
+                "6.17"
+            ],
+            "director": [
+                "5.45"
+            ]
+        },
+        {
+            "id": 27549,
+            "adult": 0,
+            "title": "Beastmaster 2: Through the Portal of Time",
+            "budget": 6000000,
+            "genres": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "poster_path": "/AkvSKhzkWOOQGxe7I3LOaASiD3x.jpg",
+            "date": "1991",
+            "duration": 107,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.6,
+            "actor": [
+                "4.93",
+                "4.76",
+                "5.03"
+            ],
+            "director": [
+                "5.65"
+            ]
+        },
+        {
+            "id": 38153,
+            "adult": 0,
+            "title": "Shadow Conspiracy",
+            "budget": 45000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/w1MCRsbCAIdOTobSmoU9KIEvZKF.jpg",
+            "date": "1997",
+            "duration": 103,
+            "languages": [
+                "en",
+                "hu"
+            ],
+            "rating": 4,
+            "actor": [
+                "5.67",
+                "6.14",
+                "6.16"
+            ],
+            "director": [
+                "5.94"
+            ]
+        },
+        {
+            "id": 27957,
+            "adult": 0,
+            "title": "The Breath",
+            "budget": 2000000,
+            "genres": [
+                28,
+                12,
+                18,
+                36,
+                10752
+            ],
+            "poster_path": "/o2lX695cYp9ZlyuDc38wZ2pzdaC.jpg",
+            "date": "2009",
+            "duration": 128,
+            "languages": [
+                "tr"
+            ],
+            "rating": 7.1,
+            "actor": [
+                "5.30",
+                "7.10",
+                "7.10"
+            ],
+            "director": [
+                "6.68"
+            ]
+        },
+        {
+            "id": 17632,
+            "adult": 0,
+            "title": "The Hunt for Gollum",
+            "budget": 5000,
+            "genres": [
+                28,
+                12,
+                14
+            ],
+            "poster_path": "/t1oWnjAm80QW0YFeSk5BbFlgkuS.jpg",
+            "date": "2009",
+            "duration": 38,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "6.40",
+                "5.53",
+                "5.33"
+            ],
+            "director": [
+                "5.40"
+            ]
+        },
+        {
+            "id": 410994,
+            "adult": 0,
+            "title": "Dhruva",
+            "budget": 7403575,
+            "genres": [
+                80,
+                53,
+                28
+            ],
+            "poster_path": "/s7gAbTmutBm0yfZczE9HLl3wywU.jpg",
+            "date": "2016",
+            "duration": 165,
+            "languages": [
+                "en",
+                "te"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.91",
+                "6.13",
+                "6.57"
+            ],
+            "director": [
+                "5.61"
+            ]
+        },
+        {
+            "id": 31947,
+            "adult": 0,
+            "title": "King Kong Lives",
+            "budget": 10000000,
+            "genres": [
+                28,
+                27
+            ],
+            "poster_path": "/qxQpWMjsLhB4WojCrw13kCg96ka.jpg",
+            "date": "1986",
+            "duration": 105,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "6.45",
+                "6.16",
+                "5.40"
+            ],
+            "director": [
+                "6.25"
+            ]
+        },
+        {
+            "id": 15846,
+            "adult": 0,
+            "title": "The Burrowers",
+            "budget": 7000000,
+            "genres": [
+                28,
+                27,
+                37
+            ],
+            "poster_path": "/fjTbwxK4T35QoFEH8XJv8vAfg9r.jpg",
+            "date": "2008",
+            "duration": 96,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.4,
+            "actor": [
+                "6.15",
+                "5.91",
+                "5.70"
+            ],
+            "director": [
+                "5.43"
+            ]
+        },
+        {
+            "id": 251387,
+            "adult": 0,
+            "title": "The Night Crew",
+            "budget": 3000000,
+            "genres": [
+                53,
+                28
+            ],
+            "poster_path": "/kkrBpBgL3XlbnaqCQ3HeoWx8Mjf.jpg",
+            "date": "2014",
+            "duration": 89,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.7,
+            "actor": [
+                "4.92",
+                "4.98",
+                "5.07"
+            ],
+            "director": [
+                "3.86"
+            ]
+        },
+        {
+            "id": 53870,
+            "adult": 0,
+            "title": "10.5",
+            "budget": 20000000,
+            "genres": [
+                12,
+                28,
+                18
+            ],
+            "poster_path": "/fnyatHtrQmh6ceZYrmljZObCacP.jpg",
+            "date": "2004",
+            "duration": 165,
+            "languages": [
+                "en",
+                "fr",
+                "pl"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "5.38",
+                "5.67",
+                "5.91"
+            ],
+            "director": [
+                "4.89"
+            ]
+        },
+        {
+            "id": 8063,
+            "adult": 0,
+            "title": "The Red Tent",
+            "budget": 10000000,
+            "genres": [
+                18,
+                28
+            ],
+            "poster_path": "/1hCpLVEBy2xOiMvonri39dpRZDK.jpg",
+            "date": "1969",
+            "duration": 158,
+            "languages": [
+                "en",
+                "it",
+                "ru"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "6.29",
+                "6.32",
+                "5.79"
+            ],
+            "director": [
+                "6.86"
+            ]
+        },
+        {
+            "id": 129850,
+            "adult": 0,
+            "title": "The Bullet Vanishes",
+            "budget": 12000000,
+            "genres": [
+                28,
+                9648
+            ],
+            "poster_path": "/8G5SjBSUuWYn4se8rIOxAZdsFxD.jpg",
+            "date": "2012",
+            "duration": 108,
+            "languages": [
+                "cn",
+                "it",
+                "zh"
+            ],
+            "rating": 6,
+            "actor": [
+                "5.94",
+                "6.03",
+                "5.38"
+            ],
+            "director": [
+                "6.13"
+            ]
+        },
+        {
+            "id": 40537,
+            "adult": 0,
+            "title": "Eyeborgs",
+            "budget": 3700000,
+            "genres": [
+                28,
+                12,
+                878,
+                53
+            ],
+            "poster_path": "/yp2Ijv45403hKfx5fFcXeuvhOpt.jpg",
+            "date": "2009",
+            "duration": 103,
+            "languages": [
+                "en",
+                "it"
+            ],
+            "rating": 5,
+            "actor": [
+                "4.38",
+                "4.81",
+                "4.81"
+            ],
+            "director": [
+                "5.30"
+            ]
+        },
+        {
+            "id": 241868,
+            "adult": 0,
+            "title": "Lupin the 3rd",
+            "budget": 10500000,
+            "genres": [
+                28,
+                12,
+                35
+            ],
+            "poster_path": "/wUbF9XRGpRHgSO5ftGJ9K1Bccl3.jpg",
+            "date": "2014",
+            "duration": 133,
+            "languages": [
+                "en",
+                "ja"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "6.09",
+                "5.82",
+                "6.56"
+            ],
+            "director": [
+                "6.11"
+            ]
+        },
+        {
+            "id": 34723,
+            "adult": 0,
+            "title": "The Adventures of Huck Finn",
+            "budget": 6500000,
+            "genres": [
+                28,
+                12,
+                18,
+                10751
+            ],
+            "poster_path": "/o2Q6bPzAkWjScB1H3kuFpfjyhS.jpg",
+            "date": "1993",
+            "duration": 108,
+            "languages": [
+                "hu",
+                "de",
+                "en",
+                "fr",
+                "ru"
+            ],
+            "rating": 6.1,
+            "actor": [
+                "6.40",
+                "6.01",
+                "6.35"
+            ],
+            "director": [
+                "5.84"
+            ]
+        },
+        {
+            "id": 35153,
+            "adult": 0,
+            "title": "The Heavy",
+            "budget": 4500000,
+            "genres": [
+                53,
+                28,
+                12
+            ],
+            "poster_path": "/hv6PLEejkJ9kHvmoqD6kTOiExa0.jpg",
+            "date": "2010",
+            "duration": 102,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.8,
+            "actor": [
+                "4.65",
+                "4.88",
+                "5.73"
+            ],
+            "director": [
+                "4.15"
+            ]
+        },
+        {
+            "id": 9458,
+            "adult": 0,
+            "title": "Desperate Measures",
+            "budget": 50000000,
+            "genres": [
+                28,
+                18,
+                53
+            ],
+            "poster_path": "/5K5fgNC2XeF6ZwB6lgTQNKn7ezH.jpg",
+            "date": "1998",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.29",
+                "5.98",
+                "6.43"
+            ],
+            "director": [
+                "6.47"
+            ]
+        },
+        {
+            "id": 362136,
+            "adult": 0,
+            "title": "Prem Ratan Dhan Payo",
+            "budget": 23400000,
+            "genres": [
+                18,
+                28,
+                10749
+            ],
+            "poster_path": "/ySVtJG7WLoqKjmMB5I9EY2h0bqy.jpg",
+            "date": "2015",
+            "duration": 174,
+            "languages": [
+                "hi"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "6.06",
+                "5.87",
+                "5.66"
+            ],
+            "director": [
+                "6.11"
+            ]
+        },
+        {
+            "id": 169298,
+            "adult": 0,
+            "title": "Bullet",
+            "budget": 3000000,
+            "genres": [
+                28,
+                80,
+                53
+            ],
+            "poster_path": "/2gtD4KYzjq9f7XUHbDazetdp4oC.jpg",
+            "date": "2014",
+            "duration": 87,
+            "languages": [
+                "en",
+                "es",
+                "fr",
+                "de"
+            ],
+            "rating": 4.2,
+            "actor": [
+                "4.98",
+                "4.93",
+                "5.70"
+            ],
+            "director": [
+                "4.39"
+            ]
+        },
+        {
+            "id": 204435,
+            "adult": 0,
+            "title": "Krrish 3",
+            "budget": 6218100,
+            "genres": [
+                28,
+                878
+            ],
+            "poster_path": "/b69IUGtCDMYf7vb9eSV9GDHsPDK.jpg",
+            "date": "2013",
+            "duration": 152,
+            "languages": [
+                "hi",
+                "ru",
+                "te"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "6.07",
+                "5.61",
+                "5.72"
+            ],
+            "director": [
+                "6.27"
+            ]
+        },
+        {
+            "id": 39314,
+            "adult": 0,
+            "title": "Mighty Joe Young",
+            "budget": 94,
+            "genres": [
+                12,
+                14,
+                18,
+                28,
+                878
+            ],
+            "poster_path": "/hOqS7kauoEYQ09XkiMu8QOgNoBU.jpg",
+            "date": "1949",
+            "duration": 94,
+            "languages": [
+                "en",
+                "sw"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "5.56",
+                "5.99",
+                "5.49"
+            ],
+            "director": [
+                "7.35"
+            ]
+        },
+        {
+            "id": 34309,
+            "adult": 0,
+            "title": "Most Wanted",
+            "budget": 25000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/qOjvRe4duTtzCEVc8758BBcz925.jpg",
+            "date": "1997",
+            "duration": 99,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.96",
+                "5.99",
+                "5.37"
+            ],
+            "director": [
+                "4.78"
+            ]
+        },
+        {
+            "id": 26843,
+            "adult": 0,
+            "title": "Lion of the Desert",
+            "budget": 35000000,
+            "genres": [
+                28,
+                36,
+                10752
+            ],
+            "poster_path": "/otU6yshMdzgeL6mDhjSAvpMwBXO.jpg",
+            "date": "1981",
+            "duration": 173,
+            "languages": [
+                "en",
+                "fr",
+                "es"
+            ],
+            "rating": 7.4,
+            "actor": [
+                "6.13",
+                "6.18",
+                "6.03"
+            ],
+            "director": [
+                "6.38"
+            ]
+        },
+        {
+            "id": 211528,
+            "adult": 0,
+            "title": "Get Lucky",
+            "budget": 5000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/mM1SFwQngADJZvtT1Mx9sZF4K9H.jpg",
+            "date": "2013",
+            "duration": 86,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.09",
+                "4.92",
+                "5.24"
+            ],
+            "director": [
+                "5.89"
+            ]
+        },
+        {
+            "id": 32045,
+            "adult": 0,
+            "title": "The Taking of Beverly Hills",
+            "budget": 19000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/sAU8SPX0915ktWxVPCxET12v3nz.jpg",
+            "date": "1991",
+            "duration": 96,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.8,
+            "actor": [
+                "5.08",
+                "5.59",
+                "5.38"
+            ],
+            "director": [
+                "5.21"
+            ]
+        },
+        {
+            "id": 26127,
+            "adult": 0,
+            "title": "Joshua Tree",
+            "budget": 9000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/oUsoLGLygyruEiVBbJVHaeRc4DL.jpg",
+            "date": "1993",
+            "duration": 106,
+            "languages": [
+                "en",
+                "fr"
+            ],
+            "rating": 5.1,
+            "actor": [
+                "5.12",
+                "4.70",
+                "6.04"
+            ],
+            "director": [
+                "5.87"
+            ]
+        },
+        {
+            "id": 441894,
+            "adult": 0,
+            "title": "Baadshaho",
+            "budget": 12300000,
+            "genres": [
+                53,
+                80,
+                28
+            ],
+            "poster_path": "/cSeNkoe7ZC84jTa6HKdLEzUsSYW.jpg",
+            "date": "2017",
+            "duration": 136,
+            "languages": [
+                "hi"
+            ],
+            "rating": 6,
+            "actor": [
+                "5.65",
+                "5.80",
+                "5.47"
+            ],
+            "director": [
+                "6.30"
+            ]
+        },
+        {
+            "id": 20682,
+            "adult": 0,
+            "title": "Chain of Fools",
+            "budget": 20000000,
+            "genres": [
+                28,
+                35,
+                80
+            ],
+            "poster_path": "/5hGfNu04FlL8DDjoy4XF0MCtBMq.jpg",
+            "date": "2000",
+            "duration": 96,
+            "languages": [
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "5.79",
+                "6.14",
+                "6.40"
+            ],
+            "director": [
+                "5.90"
+            ]
+        },
+        {
+            "id": 15074,
+            "adult": 0,
+            "title": "Extreme Ops",
+            "budget": 40000000,
+            "genres": [
+                28,
+                12,
+                18,
+                53
+            ],
+            "poster_path": "/9cddVqp4fiPTZumF09k3uAEluFw.jpg",
+            "date": "2002",
+            "duration": 93,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "5.30",
+                "5.88",
+                "6.30"
+            ],
+            "director": [
+                "6.11"
+            ]
+        },
+        {
+            "id": 16392,
+            "adult": 0,
+            "title": "Redline",
+            "budget": 26000000,
+            "genres": [
+                28,
+                18,
+                53
+            ],
+            "poster_path": "/8B6tyjHDMZHjSnJv706MhzFKZZN.jpg",
+            "date": "2007",
+            "duration": 95,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "5.48",
+                "3.93",
+                "5.52"
+            ],
+            "director": [
+                "5.28"
+            ]
+        },
+        {
+            "id": 19486,
+            "adult": 0,
+            "title": "Cyborg She",
+            "budget": 8500000,
+            "genres": [
+                28,
+                35,
+                878
+            ],
+            "poster_path": "/rbaeJjZcCzazr5cqoIcyO8dMRsd.jpg",
+            "date": "2008",
+            "duration": 120,
+            "languages": [
+                "ja"
+            ],
+            "rating": 6.6,
+            "actor": [
+                "6.08",
+                "5.94",
+                "6.60"
+            ],
+            "director": [
+                "6.66"
+            ]
+        },
+        {
+            "id": 11188,
+            "adult": 0,
+            "title": "Curse of the Ring",
+            "budget": 23000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/kgDZvJErOXIs1NCjkO6wgc1n2JR.jpg",
+            "date": "2004",
+            "duration": 184,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "5.81",
+                "5.79",
+                "5.61"
+            ],
+            "director": [
+                "5.84"
+            ]
+        },
+        {
+            "id": 19187,
+            "adult": 0,
+            "title": "The Hebrew Hammer",
+            "budget": 1000000,
+            "genres": [
+                28,
+                35
+            ],
+            "poster_path": "/qM9BsGljwGXoKfEPRvxXllsdQpa.jpg",
+            "date": "2003",
+            "duration": 85,
+            "languages": [
+                "ru"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.87",
+                "5.89",
+                "5.13"
+            ],
+            "director": [
+                "5.80"
+            ]
+        },
+        {
+            "id": 18712,
+            "adult": 0,
+            "title": "Sands of Iwo Jima",
+            "budget": 1000000,
+            "genres": [
+                28,
+                18,
+                36,
+                10752
+            ],
+            "poster_path": "/utpy9JLuyhsxpw2E3yExw23f3eS.jpg",
+            "date": "1949",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "5.64",
+                "5.30",
+                "5.61"
+            ],
+            "director": [
+                "5.93"
+            ]
+        },
+        {
+            "id": 2994,
+            "adult": 0,
+            "title": "Danger: Diabolik",
+            "budget": 400000,
+            "genres": [
+                28,
+                35,
+                80
+            ],
+            "poster_path": "/9ddUlSUNzdmbVz44AiGq4gSbGxf.jpg",
+            "date": "1968",
+            "duration": 100,
+            "languages": [
+                "it"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "5.46",
+                "5.56",
+                "6.19"
+            ],
+            "director": [
+                "6.16"
+            ]
+        },
+        {
+            "id": 17478,
+            "adult": 0,
+            "title": "Dhoom",
+            "budget": 1500000,
+            "genres": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "poster_path": "/bDyXoWUdDSiQznbKQ2MdEQmorYi.jpg",
+            "date": "2004",
+            "duration": 124,
+            "languages": [
+                "en",
+                "de",
+                "hi"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "5.19",
+                "5.67",
+                "5.82"
+            ],
+            "director": [
+                "5.32"
+            ]
+        },
+        {
+            "id": 10620,
+            "adult": 0,
+            "title": "Once Upon a Time in China and America",
+            "budget": 12000000,
+            "genres": [
+                28,
+                37
+            ],
+            "poster_path": "/56gkifK47XL0h6YVe7cLvO2yD9A.jpg",
+            "date": "1997",
+            "duration": 102,
+            "languages": [
+                "cn",
+                "en"
+            ],
+            "rating": 5.7,
+            "actor": [
+                "6.33",
+                "6.08",
+                "5.86"
+            ],
+            "director": [
+                "6.39"
+            ]
+        },
+        {
+            "id": 26352,
+            "adult": 0,
+            "title": "A Low Down Dirty Shame",
+            "budget": 10000000,
+            "genres": [
+                28,
+                35,
+                80
+            ],
+            "poster_path": "/2R1vC1krfvX4U7ObdOCtQak2mgY.jpg",
+            "date": "1994",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.1,
+            "actor": [
+                "5.96",
+                "5.89",
+                "6.03"
+            ],
+            "director": [
+                "6.03"
+            ]
+        },
+        {
+            "id": 64502,
+            "adult": 0,
+            "title": "The Day of the Triffids",
+            "budget": 15000000,
+            "genres": [
+                878,
+                53,
+                28,
+                27
+            ],
+            "poster_path": "/wNvh207dbO7MJfwcR7wu6Smiv1M.jpg",
+            "date": "2009",
+            "duration": 178,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.53",
+                "5.68",
+                "6.24"
+            ],
+            "director": [
+                "5.92"
+            ]
+        },
+        {
+            "id": 20688,
+            "adult": 0,
+            "title": "Kaminey",
+            "budget": 9000000,
+            "genres": [
+                28,
+                80,
+                18
+            ],
+            "poster_path": "/4wNxjL0vUyplva7BbCnSiJ8DpI5.jpg",
+            "date": "2009",
+            "duration": 135,
+            "languages": [
+                "de"
+            ],
+            "rating": 7.2,
+            "actor": [
+                "5.30",
+                "5.61",
+                "6.32"
+            ],
+            "director": [
+                "6.67"
+            ]
+        },
+        {
+            "id": 13804,
+            "adult": 0,
+            "title": "Fast & Furious",
+            "budget": 85000000,
+            "genres": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "poster_path": "/ft8IqAGFs3V7i87z0t0EVRUjK1p.jpg",
+            "date": "2009",
+            "duration": 107,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "6.54",
+                "5.96",
+                "6.29"
+            ],
+            "director": [
+                "6.57"
+            ]
+        },
+        {
+            "id": 17108,
+            "adult": 0,
+            "title": "Kung Fu Dunk",
+            "budget": 10000000,
+            "genres": [
+                28,
+                12,
+                35
+            ],
+            "poster_path": "/2xFGlI4MXH9rJunia0l2VmK3Mw1.jpg",
+            "date": "2008",
+            "duration": 100,
+            "languages": [
+                "zh"
+            ],
+            "rating": 5,
+            "actor": [
+                "6.28",
+                "5.54",
+                "6.18"
+            ],
+            "director": [
+                "5.70"
+            ]
+        },
+        {
+            "id": 22314,
+            "adult": 0,
+            "title": "In Too Deep",
+            "budget": 7000000,
+            "genres": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "poster_path": "/uylbVab2pYVFJhrZB2ujhG0MxQq.jpg",
+            "date": "1999",
+            "duration": 97,
+            "languages": [
+                "it",
+                "en",
+                "ru"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "5.65",
+                "5.80",
+                "5.83"
+            ],
+            "director": [
+                "6.82"
+            ]
+        },
+        {
+            "id": 11847,
+            "adult": 0,
+            "title": "The Accidental Spy",
+            "budget": 25697387,
+            "genres": [
+                28,
+                35,
+                53
+            ],
+            "poster_path": "/uq3Ay9fFPq3eIq4pJkCvmOc4iUK.jpg",
+            "date": "2001",
+            "duration": 87,
+            "languages": [
+                "ko",
+                "en",
+                "fr",
+                "tr",
+                "zh",
+                "cn"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.31",
+                "6.18",
+                "5.90"
+            ],
+            "director": [
+                "6.27"
+            ]
+        },
+        {
+            "id": 11818,
+            "adult": 0,
+            "title": "Valley of the Wolves: Iraq",
+            "budget": 10000000,
+            "genres": [
+                12,
+                18,
+                28
+            ],
+            "poster_path": "/bhtMq759vGfn6Y74pslwb3Ffmr3.jpg",
+            "date": "2006",
+            "duration": 122,
+            "languages": [
+                "ar",
+                "en",
+                "ku",
+                "tr"
+            ],
+            "rating": 3.8,
+            "actor": [
+                "6.30",
+                "5.02",
+                "6.15"
+            ],
+            "director": [
+                "5.50"
+            ]
+        },
+        {
+            "id": 33157,
+            "adult": 0,
+            "title": "Waterloo",
+            "budget": 25000000,
+            "genres": [
+                36,
+                28,
+                18
+            ],
+            "poster_path": "/zH4hnggK3yMpyj0xiJHPpKhwvwh.jpg",
+            "date": "1970",
+            "duration": 128,
+            "languages": [
+                "en",
+                "ru"
+            ],
+            "rating": 7.1,
+            "actor": [
+                "6.18",
+                "6.37",
+                "6.24"
+            ],
+            "director": [
+                "6.17"
+            ]
+        },
+        {
+            "id": 15056,
+            "adult": 0,
+            "title": "The Curse of King Tut's Tomb",
+            "budget": 14000000,
+            "genres": [
+                28,
+                12,
+                14,
+                53
+            ],
+            "poster_path": "/ngDvJIbKlSG42jjeg9QxpBwSAzR.jpg",
+            "date": "2006",
+            "duration": 170,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.8,
+            "actor": [
+                "4.28",
+                "5.64",
+                "5.54"
+            ],
+            "director": [
+                "5.61"
+            ]
+        },
+        {
+            "id": 12251,
+            "adult": 0,
+            "title": "Mo' Money",
+            "budget": 17000000,
+            "genres": [
+                28,
+                35,
+                53,
+                80,
+                10749
+            ],
+            "poster_path": "/g7jLNhHGMeXxleRpwVFJOgQNwB1.jpg",
+            "date": "1992",
+            "duration": 97,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.69",
+                "4.54",
+                "5.87"
+            ],
+            "director": [
+                "6.00"
+            ]
+        },
+        {
+            "id": 315009,
+            "adult": 0,
+            "title": "Rudhramadevi",
+            "budget": 7500000,
+            "genres": [
+                36,
+                28,
+                18
+            ],
+            "poster_path": "/vRSNna1OBfUV3PLLbzzc6WeMpCY.jpg",
+            "date": "2015",
+            "duration": 140,
+            "languages": [
+                "hi",
+                "ta",
+                "te"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "5.50",
+                "6.38",
+                "5.61"
+            ],
+            "director": [
+                "5.38"
+            ]
+        },
+        {
+            "id": 33762,
+            "adult": 0,
+            "title": "Band of the Hand",
+            "budget": 8700000,
+            "genres": [
+                28,
+                80,
+                18
+            ],
+            "poster_path": "/Z2ckKHc67zszpgXsZwTAc4SQDH.jpg",
+            "date": "1986",
+            "duration": 109,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.9,
+            "actor": [
+                "5.53",
+                "5.47",
+                "6.10"
+            ],
+            "director": [
+                "5.36"
+            ]
+        },
+        {
+            "id": 474227,
+            "adult": 0,
+            "title": "Inhumans: The First Chapter",
+            "budget": 80000000,
+            "genres": [
+                878,
+                28,
+                12,
+                10770
+            ],
+            "poster_path": "/p1f444t4JGF0t8HnRJAcS8xndxF.jpg",
+            "date": "2017",
+            "duration": 80,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "5.71",
+                "5.29",
+                "6.17"
+            ],
+            "director": [
+                "4.79"
+            ]
+        },
+        {
+            "id": 13408,
+            "adult": 0,
+            "title": "The Wash",
+            "budget": 7000000,
+            "genres": [
+                28,
+                35
+            ],
+            "poster_path": "/3h2AKoh6AkzsWtE94QjayVxoLjJ.jpg",
+            "date": "2001",
+            "duration": 93,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.76",
+                "5.75",
+                "5.67"
+            ],
+            "director": [
+                "6.81"
+            ]
+        },
+        {
+            "id": 12653,
+            "adult": 0,
+            "title": "Romasanta",
+            "budget": 4500000,
+            "genres": [
+                28,
+                27
+            ],
+            "poster_path": "/8maAUntIvqRCVDA0eLO1wDtQFPG.jpg",
+            "date": "2004",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.4,
+            "actor": [
+                "5.61",
+                "5.54",
+                "5.98"
+            ],
+            "director": [
+                "5.68"
+            ]
+        },
+        {
+            "id": 5842,
+            "adult": 0,
+            "title": "Versus",
+            "budget": 10000,
+            "genres": [
+                28,
+                27
+            ],
+            "poster_path": "/lwwlxtT6zPrBuLs3S8P1UVPOpm6.jpg",
+            "date": "2000",
+            "duration": 130,
+            "languages": [
+                "en",
+                "ja"
+            ],
+            "rating": 6.1,
+            "actor": [
+                "5.80",
+                "5.64",
+                "5.75"
+            ],
+            "director": [
+                "6.11"
+            ]
+        },
+        {
+            "id": 98582,
+            "adult": 0,
+            "title": "Unit 7",
+            "budget": 3500000,
+            "genres": [
+                18,
+                28
+            ],
+            "poster_path": "/j6YLnLaX1jPCw62ICVI5GdkXDkB.jpg",
+            "date": "2012",
+            "duration": 95,
+            "languages": [
+                "fr",
+                "de",
+                "es"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "5.75",
+                "6.08",
+                "5.59"
+            ],
+            "director": [
+                "6.30"
+            ]
+        },
+        {
+            "id": 14809,
+            "adult": 0,
+            "title": "Stark Raving Mad",
+            "budget": 5000000,
+            "genres": [
+                28,
+                35,
+                80
+            ],
+            "poster_path": "/c3PLV34xEyUFU9BlRV2zr2Bzdtp.jpg",
+            "date": "2002",
+            "duration": 101,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "5.88",
+                "5.73",
+                "5.57"
+            ],
+            "director": [
+                "6.01"
+            ]
+        },
+        {
+            "id": 428658,
+            "adult": 0,
+            "title": "The Great Father",
+            "budget": 9400000,
+            "genres": [
+                28,
+                80,
+                9648
+            ],
+            "poster_path": "/l9UroYNeIfNFdW1apIwOw4jYEUX.jpg",
+            "date": "2017",
+            "duration": 151,
+            "languages": [
+                "ml"
+            ],
+            "rating": 6.8,
+            "actor": [
+                "6.20",
+                "6.31",
+                "5.12"
+            ],
+            "director": [
+                "6.80"
+            ]
+        },
+        {
+            "id": 37472,
+            "adult": 0,
+            "title": "Ip Man 2",
+            "budget": 12902809,
+            "genres": [
+                28,
+                36,
+                18
+            ],
+            "poster_path": "/9mu13RSsvyDdlyD8TyjuQVrT0gM.jpg",
+            "date": "2010",
+            "duration": 109,
+            "languages": [
+                "zh",
+                "cn",
+                "en"
+            ],
+            "rating": 7.2,
+            "actor": [
+                "6.18",
+                "6.25",
+                "5.91"
+            ],
+            "director": [
+                "5.94"
+            ]
+        },
+        {
+            "id": 79935,
+            "adult": 0,
+            "title": "Fortress",
+            "budget": 5000000,
+            "genres": [
+                28,
+                10752
+            ],
+            "poster_path": "/6M1biPVWT9H535z3zU4adolYNqQ.jpg",
+            "date": "2012",
+            "duration": 89,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.2,
+            "actor": [
+                "5.03",
+                "5.53",
+                "5.53"
+            ],
+            "director": [
+                "6.02"
+            ]
+        },
+        {
+            "id": 32617,
+            "adult": 0,
+            "title": "Bite the Bullet",
+            "budget": 4000000,
+            "genres": [
+                28,
+                37,
+                12
+            ],
+            "poster_path": "/a5fYK94xQlvnegBTL5yULXYGYEF.jpg",
+            "date": "1975",
+            "duration": 132,
+            "languages": [
+                "en",
+                "es"
+            ],
+            "rating": 6,
+            "actor": [
+                "6.26",
+                "6.04",
+                "6.03"
+            ],
+            "director": [
+                "6.63"
+            ]
+        },
+        {
+            "id": 27150,
+            "adult": 0,
+            "title": "Silent Rage",
+            "budget": 4500000,
+            "genres": [
+                28,
+                27,
+                878,
+                53
+            ],
+            "poster_path": "/AaUhLHvpyqrUVbQtzxeSw1tQeYy.jpg",
+            "date": "1982",
+            "duration": 103,
+            "languages": [
+                "en",
+                "es"
+            ],
+            "rating": 5,
+            "actor": [
+                "5.43",
+                "5.71",
+                "5.79"
+            ],
+            "director": [
+                "4.40"
+            ]
+        },
+        {
+            "id": 226672,
+            "adult": 0,
+            "title": "Legendary: Tomb of the Dragon",
+            "budget": 12000000,
+            "genres": [
+                28,
+                12
+            ],
+            "poster_path": "/4CFKp1AtAcyF5RHoGCCRVgPULpV.jpg",
+            "date": "2013",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 4,
+            "actor": [
+                "5.56",
+                "5.12",
+                "6.03"
+            ],
+            "director": [
+                "5.07"
+            ]
+        },
+        {
+            "id": 396616,
+            "adult": 0,
+            "title": "The King's Choice",
+            "budget": 7500000,
+            "genres": [
+                10752,
+                28,
+                18
+            ],
+            "poster_path": "/9NNxwavpQoaBTt696o0QHKoUM7g.jpg",
+            "date": "2016",
+            "duration": 133,
+            "languages": [
+                "no"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "6.78",
+                "5.66",
+                "6.46"
+            ],
+            "director": [
+                "6.40"
+            ]
+        },
+        {
+            "id": 18707,
+            "adult": 0,
+            "title": "Twinkle, Twinkle, Lucky Stars",
+            "budget": 9023199,
+            "genres": [
+                28,
+                35
+            ],
+            "poster_path": "/iuiVBTFwIcyb5PtKQCxfxL7RMrp.jpg",
+            "date": "1985",
+            "duration": 105,
+            "languages": [
+                "ja",
+                "cn",
+                "en"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "6.25",
+                "5.68",
+                "6.19"
+            ],
+            "director": [
+                "6.39"
+            ]
+        },
+        {
+            "id": 18472,
+            "adult": 0,
+            "title": "Driven To Kill",
+            "budget": 10000000,
+            "genres": [
+                28,
+                12,
+                53
+            ],
+            "poster_path": "/wfJyaY7IRWNWgTQByXzFypqCuL4.jpg",
+            "date": "2009",
+            "duration": 98,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.9,
+            "actor": [
+                "5.02",
+                "5.28",
+                "5.43"
+            ],
+            "director": [
+                "5.07"
+            ]
+        },
+        {
+            "id": 259138,
+            "adult": 0,
+            "title": "Electric Slide",
+            "budget": 3000000,
+            "genres": [
+                28,
+                80,
+                53
+            ],
+            "poster_path": "/7ZUocN60n6k1uVpGJCOs6lcIlQd.jpg",
+            "date": "2014",
+            "duration": 95,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "6.18",
+                "6.37",
+                "6.03"
+            ],
+            "director": [
+                "4.77"
+            ]
+        },
+        {
+            "id": 190754,
+            "adult": 0,
+            "title": "On the Job",
+            "budget": 1052753,
+            "genres": [
+                28,
+                80
+            ],
+            "poster_path": "/iPiwUeF2vhA7t7cVvaUa8gmMceq.jpg",
+            "date": "2013",
+            "duration": 120,
+            "languages": [
+                "en",
+                "fr",
+                "de",
+                "it",
+                "tl"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "7.42",
+                "6.51",
+                "7.78"
+            ],
+            "director": [
+                "6.81"
+            ]
+        },
+        {
+            "id": 82992,
+            "adult": 0,
+            "title": "Fast & Furious 6",
+            "budget": 160000000,
+            "genres": [
+                28,
+                53,
+                80
+            ],
+            "poster_path": "/b9gTJKLdSbwcQRKzmqMq3dMfRwI.jpg",
+            "date": "2013",
+            "duration": 130,
+            "languages": [
+                "en",
+                "ru",
+                "es"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "6.54",
+                "5.96",
+                "6.79"
+            ],
+            "director": [
+                "6.57"
+            ]
+        },
+        {
+            "id": 31618,
+            "adult": 0,
+            "title": "Betrayed",
+            "budget": 19000000,
+            "genres": [
+                28,
+                18,
+                10749,
+                53
+            ],
+            "poster_path": "/y2EsGbzqQHD81TQKHTLi8ohXFnI.jpg",
+            "date": "1988",
+            "duration": 127,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "6.04",
+                "5.67",
+                "5.79"
+            ],
+            "director": [
+                "6.27"
+            ]
+        },
+        {
+            "id": 39468,
+            "adult": 0,
+            "title": "Godzilla vs. Megaguirus",
+            "budget": 8300000,
+            "genres": [
+                28,
+                878
+            ],
+            "poster_path": "/ffgupHs4tQFo1cDCyT1zH9AfNrB.jpg",
+            "date": "2000",
+            "duration": 105,
+            "languages": [
+                "ja"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "6.64",
+                "5.87",
+                "6.23"
+            ],
+            "director": [
+                "5.60"
+            ]
+        },
+        {
+            "id": 20609,
+            "adult": 0,
+            "title": "30,000 Leagues Under The Sea",
+            "budget": 500000,
+            "genres": [
+                28,
+                12,
+                878
+            ],
+            "poster_path": "/3hCJ8x0abSOuXI9MTp4z8rm7V9b.jpg",
+            "date": "2007",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.1,
+            "actor": [
+                "5.05",
+                "3.27",
+                "5.79"
+            ],
+            "director": [
+                "4.63"
+            ]
+        },
+        {
+            "id": 16225,
+            "adult": 0,
+            "title": "Heavy Metal 2000",
+            "budget": 15000000,
+            "genres": [
+                28,
+                12,
+                16,
+                14,
+                878
+            ],
+            "poster_path": "/CDv2U64QX6ZzbgWbz4licizkX6.jpg",
+            "date": "2000",
+            "duration": 88,
+            "languages": [
+                "en",
+                "es"
+            ],
+            "rating": 5.2,
+            "actor": [
+                "5.22",
+                "4.73",
+                "5.54"
+            ],
+            "director": [
+                "5.17"
+            ]
+        },
+        {
+            "id": 20697,
+            "adult": 0,
+            "title": "Ready to Rumble",
+            "budget": 24000000,
+            "genres": [
+                28,
+                35,
+                18
+            ],
+            "poster_path": "/cfO3xEdV0EV8bdrby8aeQrfmT4R.jpg",
+            "date": "2000",
+            "duration": 107,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.8,
+            "actor": [
+                "5.56",
+                "5.56",
+                "5.98"
+            ],
+            "director": [
+                "5.68"
+            ]
+        },
+        {
+            "id": 24051,
+            "adult": 0,
+            "title": "Hardwired",
+            "budget": 5000000,
+            "genres": [
+                28,
+                12,
+                878,
+                53
+            ],
+            "poster_path": "/i3FZCdh3PdLaZ2yQBOrHrw5RXxw.jpg",
+            "date": "2009",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.9,
+            "actor": [
+                "5.66",
+                "5.77",
+                "5.45"
+            ],
+            "director": [
+                "5.55"
+            ]
+        },
+        {
+            "id": 102784,
+            "adult": 0,
+            "title": "Two Rabbits",
+            "budget": 2000000,
+            "genres": [
+                28,
+                80,
+                18
+            ],
+            "poster_path": "/cw5T5dC8gQWmWx5kuUQcSLSrUWR.jpg",
+            "date": "2012",
+            "duration": 108,
+            "languages": [
+                "pt"
+            ],
+            "rating": 7.1,
+            "actor": [
+                "5.51",
+                "6.54",
+                "5.91"
+            ],
+            "director": [
+                "6.56"
+            ]
+        },
+        {
+            "id": 14842,
+            "adult": 0,
+            "title": "44 Minutes: The North Hollywood Shoot-Out",
+            "budget": 10000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/l0MQOUvmDo5ncmizUunE0wkIcfg.jpg",
+            "date": "2003",
+            "duration": 103,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "4.93",
+                "6.13",
+                "5.52"
+            ],
+            "director": [
+                "5.14"
+            ]
+        },
+        {
+            "id": 329556,
+            "adult": 0,
+            "title": "Landmine Goes Click",
+            "budget": 1000000,
+            "genres": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "poster_path": "/oWMB2n6gEkBapUBK3OexwZNGmpC.jpg",
+            "date": "2015",
+            "duration": 110,
+            "languages": [
+                "ru",
+                "en",
+                "ka"
+            ],
+            "rating": 5.7,
+            "actor": [
+                "5.95",
+                "5.72",
+                "5.80"
+            ],
+            "director": [
+                "5.40"
+            ]
+        },
+        {
+            "id": 252360,
+            "adult": 0,
+            "title": "In the Name of the King III",
+            "budget": 3500000,
+            "genres": [
+                28,
+                12,
+                18,
+                14
+            ],
+            "poster_path": "/7MzoR1KibSeIa3XKkREoKGpE7Ca.jpg",
+            "date": "2013",
+            "duration": 85,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.2,
+            "actor": [
+                "5.18",
+                "5.90",
+                "5.30"
+            ],
+            "director": [
+                "3.71"
+            ]
+        },
+        {
+            "id": 256740,
+            "adult": 0,
+            "title": "Wicked Blood",
+            "budget": 3500000,
+            "genres": [
+                28,
+                18,
+                53
+            ],
+            "poster_path": "/1wbeqDYxZDmm2Gdg3vDdKiJFi00.jpg",
+            "date": "2014",
+            "duration": 92,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.88",
+                "5.73",
+                "6.18"
+            ],
+            "director": [
+                "4.85"
+            ]
+        },
+        {
+            "id": 167449,
+            "adult": 0,
+            "title": "The Guillotines",
+            "budget": 15000000,
+            "genres": [
+                28,
+                36,
+                12,
+                18
+            ],
+            "poster_path": "/ouQ73eC788hGi2OAlAy2TV8Up7B.jpg",
+            "date": "2012",
+            "duration": 113,
+            "languages": [
+                "cn"
+            ],
+            "rating": 5.4,
+            "actor": [
+                "5.00",
+                "6.17",
+                "5.96"
+            ],
+            "director": [
+                "6.04"
+            ]
+        },
+        {
+            "id": 75821,
+            "adult": 0,
+            "title": "Sector 7",
+            "budget": 8700000,
+            "genres": [
+                12,
+                27,
+                28,
+                53,
+                878
+            ],
+            "poster_path": "/mpDXUBcEqICVmbN4kz8t14u5WpQ.jpg",
+            "date": "2011",
+            "duration": 101,
+            "languages": [
+                "ko"
+            ],
+            "rating": 4.8,
+            "actor": [
+                "6.11",
+                "6.26",
+                "6.04"
+            ],
+            "director": [
+                "6.22"
+            ]
+        },
+        {
+            "id": 18647,
+            "adult": 0,
+            "title": "One-Eyed Jacks",
+            "budget": 6000000,
+            "genres": [
+                37,
+                28
+            ],
+            "poster_path": "/xPgom04HM9WWsQyI0OKd2Nu4Ic1.jpg",
+            "date": "1961",
+            "duration": 141,
+            "languages": [
+                "en",
+                "es"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "6.65",
+                "6.13",
+                "6.17"
+            ],
+            "director": [
+                "6.90"
+            ]
+        },
+        {
+            "id": 39466,
+            "adult": 0,
+            "title": "Godzilla vs. SpaceGodzilla",
+            "budget": 10300000,
+            "genres": [
+                878,
+                28,
+                12,
+                14
+            ],
+            "poster_path": "/b3nsQAexD4lHvSOlMyRBo3lWqBk.jpg",
+            "date": "1994",
+            "duration": 108,
+            "languages": [
+                "ja"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "6.11",
+                "4.88",
+                "6.00"
+            ],
+            "director": [
+                "5.57"
+            ]
+        },
+        {
+            "id": 16687,
+            "adult": 0,
+            "title": "Wushu",
+            "budget": 4000000,
+            "genres": [
+                28,
+                18,
+                10769
+            ],
+            "poster_path": "/cXPXFYXEnTWIm1PgJ7FhrUroDHc.jpg",
+            "date": "2008",
+            "duration": 104,
+            "languages": [
+                "zh"
+            ],
+            "rating": 5,
+            "actor": [
+                "6.25",
+                "5.95",
+                "5.25"
+            ],
+            "director": [
+                "4.83"
+            ]
+        },
+        {
+            "id": 208242,
+            "adult": 0,
+            "title": "Assassins Tale",
+            "budget": 1500000,
+            "genres": [
+                28,
+                80,
+                53
+            ],
+            "poster_path": "/obXX4WknS0J8QTWfV0Tyex32FGe.jpg",
+            "date": "2013",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.8,
+            "actor": [
+                "5.48",
+                "5.07",
+                "4.80"
+            ],
+            "director": [
+                "4.80"
+            ]
+        },
+        {
+            "id": 435800,
+            "adult": 0,
+            "title": "Journey to the West: The Demons Strike Back",
+            "budget": 63300000,
+            "genres": [
+                12,
+                14,
+                28
+            ],
+            "poster_path": "/g2F6AWj80Egh6HWgyic4SNMomSL.jpg",
+            "date": "2017",
+            "duration": 109,
+            "languages": [
+                "zh"
+            ],
+            "rating": 6.8,
+            "actor": [
+                "6.59",
+                "6.14",
+                "5.74"
+            ],
+            "director": [
+                "6.17"
+            ]
+        },
+        {
+            "id": 375108,
+            "adult": 0,
+            "title": "Mafia: Survival Game",
+            "budget": 2570000,
+            "genres": [
+                28,
+                878
+            ],
+            "poster_path": "/6RmwtI6fxPIJspNrtlCuiPjhH3k.jpg",
+            "date": "2016",
+            "duration": 91,
+            "languages": [
+                "ru"
+            ],
+            "rating": 4.6,
+            "actor": [
+                "5.26",
+                "5.37",
+                "4.53"
+            ],
+            "director": [
+                "4.52"
+            ]
+        },
+        {
+            "id": 390441,
+            "adult": 0,
+            "title": "The Hero",
+            "budget": 7000000,
+            "genres": [
+                28,
+                18,
+                10749
+            ],
+            "poster_path": "/VQUm2iBH3qXKhLoPR5iNBQ3wFP.jpg",
+            "date": "2016",
+            "duration": 86,
+            "languages": [
+                "ru"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "5.50",
+                "4.93",
+                "4.48"
+            ],
+            "director": [
+                "5.50"
+            ]
+        },
+        {
+            "id": 185267,
+            "adult": 0,
+            "title": "The Human Race",
+            "budget": 567000,
+            "genres": [
+                27,
+                878,
+                28
+            ],
+            "poster_path": "/hef9UpzvgzJb3amvNCeShPHNjeG.jpg",
+            "date": "2013",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "4.58",
+                "5.00",
+                "5.00"
+            ],
+            "director": [
+                "6.33"
+            ]
+        },
+        {
+            "id": 117319,
+            "adult": 0,
+            "title": "Vishwaroopam",
+            "budget": 17000000,
+            "genres": [
+                28,
+                80,
+                53
+            ],
+            "poster_path": "/iZqxzVuBBpKydV0r6LQeuQYHRoZ.jpg",
+            "date": "2013",
+            "duration": 147,
+            "languages": [
+                "hi",
+                "ta",
+                "te"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "7.11",
+                "4.74",
+                "5.88"
+            ],
+            "director": [
+                "7.01"
+            ]
+        },
+        {
+            "id": 19644,
+            "adult": 0,
+            "title": "Silmido",
+            "budget": 8000000,
+            "genres": [
+                28,
+                18,
+                36
+            ],
+            "poster_path": "/r4MQQFpzSj5E2OThldfarIIsush.jpg",
+            "date": "2003",
+            "duration": 135,
+            "languages": [
+                "ko"
+            ],
+            "rating": 6.6,
+            "actor": [
+                "6.62",
+                "5.48",
+                "6.04"
+            ],
+            "director": [
+                "6.25"
+            ]
+        },
+        {
+            "id": 31261,
+            "adult": 0,
+            "title": "Halo Legends",
+            "budget": 100000,
+            "genres": [
+                28,
+                16,
+                878
+            ],
+            "poster_path": "/bSmGcO7miodvLrjArUxJGkYuoJ1.jpg",
+            "date": "2010",
+            "duration": 120,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "6.35"
+            ],
+            "director": [
+                "6.22"
+            ]
+        },
+        {
+            "id": 58959,
+            "adult": 0,
+            "title": "A Better Tomorrow",
+            "budget": 8700000,
+            "genres": [
+                18,
+                28,
+                53
+            ],
+            "poster_path": "/4DIRlBmuUkwDRhdJbKnfC4duy3j.jpg",
+            "date": "2010",
+            "duration": 124,
+            "languages": [
+                "ko"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.49",
+                "6.17",
+                "6.04"
+            ],
+            "director": [
+                "6.37"
+            ]
+        },
+        {
+            "id": 13830,
+            "adult": 0,
+            "title": "Shottas",
+            "budget": 200000,
+            "genres": [
+                28,
+                12,
+                80,
+                18
+            ],
+            "poster_path": "/jX6kjMnxmRAqjLMfOKvhuVTjSwl.jpg",
+            "date": "2002",
+            "duration": 95,
+            "languages": [
+                "en",
+                "pt"
+            ],
+            "rating": 7.4,
+            "actor": [
+                "6.27",
+                "7.40",
+                "6.32"
+            ],
+            "director": [
+                "7.40"
+            ]
+        },
+        {
+            "id": 70008,
+            "adult": 0,
+            "title": "Tactical Force",
+            "budget": 8400000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/akYxkDBKozoEc9wmBzxzNddKjmu.jpg",
+            "date": "2011",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.9,
+            "actor": [
+                "5.45",
+                "6.47",
+                "5.19"
+            ],
+            "director": [
+                "4.93"
+            ]
+        },
+        {
+            "id": 284279,
+            "adult": 0,
+            "title": "Burnout",
+            "budget": 4000000,
+            "genres": [
+                28,
+                35
+            ],
+            "poster_path": "/ccEEieD3itYxpmF75vOUrhd2NdJ.jpg",
+            "date": "2014",
+            "duration": 93,
+            "languages": [
+                "no"
+            ],
+            "rating": 7.1,
+            "actor": [
+                "5.66",
+                "7.55",
+                "6.23"
+            ],
+            "director": [
+                "6.95"
+            ]
+        },
+        {
+            "id": 405924,
+            "adult": 0,
+            "title": "Janatha Garage",
+            "budget": 7000000,
+            "genres": [
+                28,
+                18
+            ],
+            "poster_path": "/9OOfabNsJSose5Z88CFJ8VE5Xf0.jpg",
+            "date": "2016",
+            "duration": 165,
+            "languages": [
+                "ml",
+                "te"
+            ],
+            "rating": 7.6,
+            "actor": [
+                "6.24",
+                "5.28",
+                "5.84"
+            ],
+            "director": [
+                "6.39"
+            ]
+        },
+        {
+            "id": 308160,
+            "adult": 0,
+            "title": "The Master Plan",
+            "budget": 3500000,
+            "genres": [
+                80,
+                28,
+                35,
+                12
+            ],
+            "poster_path": "/uUDcDA4AsUa51HRIiIfMJoqSfI3.jpg",
+            "date": "2015",
+            "duration": 88,
+            "languages": [
+                "fr",
+                "sv"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "6.34",
+                "6.40",
+                "5.91"
+            ],
+            "director": [
+                "6.70"
+            ]
+        },
+        {
+            "id": 12704,
+            "adult": 0,
+            "title": "Ishtar",
+            "budget": 55000000,
+            "genres": [
+                28,
+                12,
+                35
+            ],
+            "poster_path": "/fttHfkyvPtTP1LU8RodBIvyUN8A.jpg",
+            "date": "1987",
+            "duration": 107,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "6.31",
+                "6.71",
+                "6.23"
+            ],
+            "director": [
+                "6.03"
+            ]
+        },
+        {
+            "id": 12628,
+            "adult": 0,
+            "title": "Playing God",
+            "budget": 12000000,
+            "genres": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "poster_path": "/mZLG1QdusU9IdtQTmLkdr5t3ilv.jpg",
+            "date": "1997",
+            "duration": 94,
+            "languages": [
+                "en",
+                "fr",
+                "ru"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "6.08",
+                "5.82",
+                "5.89"
+            ],
+            "director": [
+                "7.20"
+            ]
+        },
+        {
+            "id": 34421,
+            "adult": 0,
+            "title": "The Perfect Weapon",
+            "budget": 10000000,
+            "genres": [
+                28,
+                18
+            ],
+            "poster_path": "/juqLfqdUVZrmHwOWPMCgA6cf0D9.jpg",
+            "date": "1991",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "5.05",
+                "4.28",
+                "6.15"
+            ],
+            "director": [
+                "6.10"
+            ]
+        },
+        {
+            "id": 81778,
+            "adult": 0,
+            "title": "Sabotage",
+            "budget": 5000000,
+            "genres": [
+                53,
+                28
+            ],
+            "poster_path": "/rV4fpjMuFjZAp3dg5SkAPvhcMZY.jpg",
+            "date": "1996",
+            "duration": 96,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "4.87",
+                "6.19",
+                "4.55"
+            ],
+            "director": [
+                "3.95"
+            ]
+        },
+        {
+            "id": 24746,
+            "adult": 0,
+            "title": "Six-String Samurai",
+            "budget": 2000000,
+            "genres": [
+                28,
+                12,
+                878
+            ],
+            "poster_path": "/8uTLYIaRBx1xZ1WXO5ksuAmqTW7.jpg",
+            "date": "1998",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "5.40",
+                "5.80",
+                "5.80"
+            ],
+            "director": [
+                "4.68"
+            ]
+        },
+        {
+            "id": 9727,
+            "adult": 0,
+            "title": "End Game",
+            "budget": 5000000,
+            "genres": [
+                28,
+                9648,
+                53
+            ],
+            "poster_path": "/gKNJic2GQxbLYvO07V5trjuxeBS.jpg",
+            "date": "2006",
+            "duration": 93,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.66",
+                "5.75",
+                "6.15"
+            ],
+            "director": [
+                "5.28"
+            ]
+        },
+        {
+            "id": 31172,
+            "adult": 0,
+            "title": "Diamond 13",
+            "budget": 6850000,
+            "genres": [
+                28,
+                80,
+                53
+            ],
+            "poster_path": "/hlFTgPv9T6ybRev3J75SE4PeaTf.jpg",
+            "date": "2009",
+            "duration": 102,
+            "languages": [
+                "fr"
+            ],
+            "rating": 5.2,
+            "actor": [
+                "5.84",
+                "5.89",
+                "5.23"
+            ],
+            "director": [
+                "4.67"
+            ]
+        },
+        {
+            "id": 40170,
+            "adult": 0,
+            "title": "Mortal Kombat: Rebirth",
+            "budget": 7500,
+            "genres": [
+                28,
+                14
+            ],
+            "poster_path": "/wz70GHgqNUCDsWJD3MxRHbBnOsc.jpg",
+            "date": "2010",
+            "duration": 8,
+            "languages": [
+                "en"
+            ],
+            "rating": 7,
+            "actor": [
+                "5.67",
+                "6.41",
+                "5.45"
+            ],
+            "director": [
+                "6.89"
+            ]
+        },
+        {
+            "id": 31922,
+            "adult": 0,
+            "title": "Year of the Gun",
+            "budget": 1182273,
+            "genres": [
+                28,
+                53,
+                10749
+            ],
+            "poster_path": "/iNwW3icQ2ouJYZXyycqBq1OGQJz.jpg",
+            "date": "1991",
+            "duration": 111,
+            "languages": [
+                "en",
+                "fr",
+                "it"
+            ],
+            "rating": 4.2,
+            "actor": [
+                "5.17",
+                "6.05",
+                "5.56"
+            ],
+            "director": [
+                "5.97"
+            ]
+        },
+        {
+            "id": 177566,
+            "adult": 0,
+            "title": "Jack the Giant Killer",
+            "budget": 50000,
+            "genres": [
+                28,
+                14
+            ],
+            "poster_path": "/rW3qdpO89JQ8CKIBk01wh2i0QSD.jpg",
+            "date": "2013",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.2,
+            "actor": [
+                "5.19",
+                "5.08",
+                "4.60"
+            ],
+            "director": [
+                "3.52"
+            ]
+        },
+        {
+            "id": 49852,
+            "adult": 0,
+            "title": "The Nutcracker: The Untold Story",
+            "budget": 90000000,
+            "genres": [
+                14,
+                28,
+                10751
+            ],
+            "poster_path": "/vMDLIB1cwsaOK4GJRMXIgukb9OX.jpg",
+            "date": "2010",
+            "duration": 110,
+            "languages": [
+                "da",
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "6.83",
+                "6.40",
+                "5.97"
+            ],
+            "director": [
+                "5.90"
+            ]
+        },
+        {
+            "id": 325712,
+            "adult": 0,
+            "title": "Cool Cat Saves the Kids",
+            "budget": 50000,
+            "genres": [
+                28,
+                35,
+                80,
+                18,
+                10751,
+                14,
+                10402,
+                53
+            ],
+            "poster_path": "/pPHEmogblNEQwfwaU9dwDmq4vL0.jpg",
+            "date": "2015",
+            "duration": 72,
+            "languages": [
+                "en"
+            ],
+            "rating": 2.6,
+            "actor": [
+                "5.34",
+                "4.85",
+                "2.00"
+            ],
+            "director": [
+                "2.14"
+            ]
+        },
+        {
+            "id": 14575,
+            "adult": 0,
+            "title": "The Crew",
+            "budget": 3600000,
+            "genres": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "poster_path": "/jiQXfi9Ig1fzrWLjLfEwodwaNZj.jpg",
+            "date": "2008",
+            "duration": 117,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "5.92",
+                "5.72",
+                "6.44"
+            ],
+            "director": [
+                "5.73"
+            ]
+        },
+        {
+            "id": 29410,
+            "adult": 0,
+            "title": "Mysterious Doctor Satan",
+            "budget": 147381,
+            "genres": [
+                28,
+                12,
+                80,
+                878
+            ],
+            "poster_path": "/uoX8eFhJjyHXktIbqTTEV2Epm7c.jpg",
+            "date": "1940",
+            "duration": 267,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "5.81",
+                "5.00",
+                "6.07"
+            ],
+            "director": [
+                "5.37"
+            ]
+        },
+        {
+            "id": 13072,
+            "adult": 0,
+            "title": "Brooklyn Rules",
+            "budget": 8000000,
+            "genres": [
+                18,
+                28,
+                53
+            ],
+            "poster_path": "/gIYPpdj2A6NKwtvRvuhADaqaYQT.jpg",
+            "date": "2007",
+            "duration": 99,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "6.23",
+                "5.80",
+                "5.56"
+            ],
+            "director": [
+                "5.41"
+            ]
+        },
+        {
+            "id": 242166,
+            "adult": 0,
+            "title": "Red Sky",
+            "budget": 25000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/nMDkk5mAn6K4VF5qzFjBb9weNx9.jpg",
+            "date": "2014",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.9,
+            "actor": [
+                "5.56",
+                "5.38",
+                "5.37"
+            ],
+            "director": [
+                "5.52"
+            ]
+        },
+        {
+            "id": 467373,
+            "adult": 0,
+            "title": "Adam Joan",
+            "budget": 2300000,
+            "genres": [
+                10749,
+                53,
+                28
+            ],
+            "poster_path": "/hMounspZ9lSm2qRoYqbGeJmC3Ko.jpg",
+            "date": "2017",
+            "duration": 160,
+            "languages": [
+                "en",
+                "ml"
+            ],
+            "rating": 5.1,
+            "actor": [
+                "6.03",
+                "5.50",
+                "5.40"
+            ],
+            "director": [
+                "5.60"
+            ]
+        },
+        {
+            "id": 67109,
+            "adult": 0,
+            "title": "Delhi Belly",
+            "budget": 4090000,
+            "genres": [
+                28,
+                35,
+                10769
+            ],
+            "poster_path": "/9GBSJaqLa1hkza2oCPtmK770nqF.jpg",
+            "date": "2011",
+            "duration": 102,
+            "languages": [
+                "en",
+                "hi"
+            ],
+            "rating": 7,
+            "actor": [
+                "5.99",
+                "4.98",
+                "5.66"
+            ],
+            "director": [
+                "6.13"
+            ]
+        },
+        {
+            "id": 26291,
+            "adult": 0,
+            "title": "Shakes the Clown",
+            "budget": 1400000,
+            "genres": [
+                28,
+                35
+            ],
+            "poster_path": "/nfTWQ7GfH462FVmYEGQB1oHR6H4.jpg",
+            "date": "1991",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "5.95",
+                "6.31",
+                "6.36"
+            ],
+            "director": [
+                "6.79"
+            ]
+        },
+        {
+            "id": 256766,
+            "adult": 0,
+            "title": "Heavenly Sword",
+            "budget": 6000000,
+            "genres": [
+                12,
+                28,
+                16,
+                14
+            ],
+            "poster_path": "/pwGYC7x75EzfJFrP62fS6qCQdhA.jpg",
+            "date": "2014",
+            "duration": 85,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.9,
+            "actor": [
+                "5.07",
+                "6.34",
+                "5.78"
+            ],
+            "director": [
+                "5.10"
+            ]
+        },
+        {
+            "id": 1803,
+            "adult": 0,
+            "title": "Angel",
+            "budget": 3000000,
+            "genres": [
+                28,
+                53,
+                80
+            ],
+            "poster_path": "/3O7VwsGQdgqjChRxSZwPjjYND6m.jpg",
+            "date": "1984",
+            "duration": 89,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "5.46",
+                "6.04",
+                "5.57"
+            ],
+            "director": [
+                "5.27"
+            ]
+        },
+        {
+            "id": 65994,
+            "adult": 0,
+            "title": "Prince Valiant",
+            "budget": 2970000,
+            "genres": [
+                12,
+                28,
+                10749
+            ],
+            "poster_path": "/vCxzFlX3cDOqtZjyQUFOkiYXmCa.jpg",
+            "date": "1954",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.37",
+                "6.41",
+                "6.00"
+            ],
+            "director": [
+                "5.88"
+            ]
+        },
+        {
+            "id": 430293,
+            "adult": 0,
+            "title": "Off Piste",
+            "budget": 32000,
+            "genres": [
+                28,
+                18,
+                53
+            ],
+            "poster_path": "/7srIaNwy3pYFhJ9vdey8nTK4smO.jpg",
+            "date": "2016",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.63",
+                "5.35",
+                "4.60"
+            ],
+            "director": [
+                "5.80"
+            ]
+        },
+        {
+            "id": 26583,
+            "adult": 0,
+            "title": "The Keeper",
+            "budget": 10000000,
+            "genres": [
+                28,
+                12,
+                53
+            ],
+            "poster_path": "/woe5usR12spT0S9ucvNp2njOM6v.jpg",
+            "date": "2009",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.4,
+            "actor": [
+                "5.02",
+                "5.74",
+                "4.20"
+            ],
+            "director": [
+                "5.16"
+            ]
+        },
+        {
+            "id": 32005,
+            "adult": 0,
+            "title": "Breaking Point",
+            "budget": 2500000,
+            "genres": [
+                28,
+                12,
+                18,
+                53
+            ],
+            "poster_path": "/MKYsuNDyzoAyy0nLRxkbvPJoVY.jpg",
+            "date": "2009",
+            "duration": 93,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.9,
+            "actor": [
+                "5.67",
+                "6.15",
+                "5.14"
+            ],
+            "director": [
+                "4.05"
+            ]
+        },
+        {
+            "id": 24351,
+            "adult": 0,
+            "title": "Flight of Fury",
+            "budget": 12000000,
+            "genres": [
+                28,
+                12,
+                53
+            ],
+            "poster_path": "/b0b2EY7VqDF8pp3ghTd02fiwCLx.jpg",
+            "date": "2007",
+            "duration": 98,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.4,
+            "actor": [
+                "5.02",
+                "6.27",
+                "6.05"
+            ],
+            "director": [
+                "4.70"
+            ]
+        },
+        {
+            "id": 21185,
+            "adult": 0,
+            "title": "Vibes",
+            "budget": 1884000,
+            "genres": [
+                10749,
+                28,
+                35
+            ],
+            "poster_path": "/lILGnyPFTmzeCduCm8PZczZtK1g.jpg",
+            "date": "1988",
+            "duration": 99,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.14",
+                "6.47",
+                "5.92"
+            ],
+            "director": [
+                "5.36"
+            ]
+        },
+        {
+            "id": 185497,
+            "adult": 0,
+            "title": "Assassins Run",
+            "budget": 4000000,
+            "genres": [
+                28,
+                80,
+                53
+            ],
+            "poster_path": "/9PivERaRZwxeSm9StmntQw5tw9V.jpg",
+            "date": "2013",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 4,
+            "actor": [
+                "5.73",
+                "4.08",
+                "5.81"
+            ],
+            "director": [
+                "3.97"
+            ]
+        },
+        {
+            "id": 410572,
+            "adult": 0,
+            "title": "Babu Bangaram",
+            "budget": 4200000,
+            "genres": [
+                28,
+                35,
+                10749
+            ],
+            "poster_path": "/AadxCsGFP8zXBPGjQLSxMaFQAg4.jpg",
+            "date": "2016",
+            "duration": 150,
+            "languages": [
+                "ta",
+                "te"
+            ],
+            "rating": 7,
+            "actor": [
+                "5.35",
+                "5.70",
+                "5.99"
+            ],
+            "director": [
+                "7.38"
+            ]
+        },
+        {
+            "id": 2162,
+            "adult": 0,
+            "title": "Chill Factor",
+            "budget": 70000000,
+            "genres": [
+                28,
+                35,
+                53
+            ],
+            "poster_path": "/Teyo0W5euwLChQvFT0NQDfbvcQ.jpg",
+            "date": "1999",
+            "duration": 101,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.66",
+                "5.90",
+                "5.81"
+            ],
+            "director": [
+                "5.84"
+            ]
+        },
+        {
+            "id": 65796,
+            "adult": 0,
+            "title": "Wild Bill",
+            "budget": 30000000,
+            "genres": [
+                28,
+                37
+            ],
+            "poster_path": "/qIgslXL0NDtSlcHxISACLwWbkRJ.jpg",
+            "date": "1995",
+            "duration": 98,
+            "languages": [
+                "cn",
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "6.45",
+                "6.00",
+                "6.44"
+            ],
+            "director": [
+                "6.21"
+            ]
+        },
+        {
+            "id": 147405,
+            "adult": 0,
+            "title": "Dabangg 2",
+            "budget": 13650000,
+            "genres": [
+                28,
+                35
+            ],
+            "poster_path": "/7ipmidtykeZwAp2oSCtrWkKTQ2.jpg",
+            "date": "2012",
+            "duration": 125,
+            "languages": [
+                "hi"
+            ],
+            "rating": 5.1,
+            "actor": [
+                "6.06",
+                "5.52",
+                "5.60"
+            ],
+            "director": [
+                "5.40"
+            ]
+        },
+        {
+            "id": 442000,
+            "adult": 0,
+            "title": "Angamaly Diaries",
+            "budget": 610000,
+            "genres": [
+                28,
+                18
+            ],
+            "poster_path": "/wzHtG3Sx4tauiXCsk8LAkJaKgkH.jpg",
+            "date": "2017",
+            "duration": 132,
+            "languages": [
+                "ml"
+            ],
+            "rating": 7,
+            "actor": [
+                "6.60",
+                "6.60",
+                "6.60"
+            ],
+            "director": [
+                "5.46"
+            ]
+        },
+        {
+            "id": 18860,
+            "adult": 0,
+            "title": "Swordsman",
+            "budget": 2068041,
+            "genres": [
+                28,
+                12
+            ],
+            "poster_path": "/7xQlKNJv25YCNCVTKiZFCf7lqZb.jpg",
+            "date": "1990",
+            "duration": 120,
+            "languages": [
+                "cn",
+                "zh"
+            ],
+            "rating": 6.8,
+            "actor": [
+                "5.85",
+                "5.88",
+                "6.28"
+            ],
+            "director": [
+                "6.18"
+            ]
+        },
+        {
+            "id": 1496,
+            "adult": 0,
+            "title": "Cool as Ice",
+            "budget": 6000000,
+            "genres": [
+                18,
+                28,
+                35,
+                10402,
+                10749
+            ],
+            "poster_path": "/kt6svEFscOUkisIeIlicpzmp3BC.jpg",
+            "date": "1991",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.7,
+            "actor": [
+                "4.53",
+                "5.47",
+                "5.54"
+            ],
+            "director": [
+                "4.50"
+            ]
+        },
+        {
+            "id": 41682,
+            "adult": 0,
+            "title": "Christopher Columbus: The Discovery",
+            "budget": 40000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/wJ3X1zev76KblOSVsW74eTrpLTM.jpg",
+            "date": "1992",
+            "duration": 120,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "6.65",
+                "5.86",
+                "5.82"
+            ],
+            "director": [
+                "5.41"
+            ]
+        },
+        {
+            "id": 428356,
+            "adult": 0,
+            "title": "Dance to Death",
+            "budget": 5000000,
+            "genres": [
+                28,
+                14
+            ],
+            "poster_path": "/o5kogEu3Orrxk4NK0hpb0seL8ht.jpg",
+            "date": "2017",
+            "duration": 90,
+            "languages": [
+                "ru"
+            ],
+            "rating": 3.6,
+            "actor": [
+                "4.57",
+                "5.50",
+                "3.00"
+            ],
+            "director": [
+                "4.00"
+            ]
+        },
+        {
+            "id": 98948,
+            "adult": 0,
+            "title": "Abraham Lincoln vs. Zombies",
+            "budget": 150000,
+            "genres": [
+                27,
+                28,
+                53
+            ],
+            "poster_path": "/hLy2LnHr0TZvelvSK0Dd4bmObTK.jpg",
+            "date": "2012",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.2,
+            "actor": [
+                "4.71",
+                "4.20",
+                "4.68"
+            ],
+            "director": [
+                "5.25"
+            ]
+        },
+        {
+            "id": 11244,
+            "adult": 0,
+            "title": "The Meteor Man",
+            "budget": 30,
+            "genres": [
+                14,
+                28,
+                35,
+                878,
+                10751
+            ],
+            "poster_path": "/iXaknFVXb1jU1glW5trvBRA6zZQ.jpg",
+            "date": "1993",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.6,
+            "actor": [
+                "5.74",
+                "5.86",
+                "5.52"
+            ],
+            "director": [
+                "6.03"
+            ]
+        },
+        {
+            "id": 41550,
+            "adult": 0,
+            "title": "Cyclops",
+            "budget": 6000000,
+            "genres": [
+                10770,
+                28,
+                14
+            ],
+            "poster_path": "/yCz1lDZTqVjenow7WZfiGd4UOau.jpg",
+            "date": "2008",
+            "duration": 88,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.3,
+            "actor": [
+                "3.15",
+                "3.93",
+                "5.10"
+            ],
+            "director": [
+                "3.99"
+            ]
+        },
+        {
+            "id": 37502,
+            "adult": 0,
+            "title": "Heaven's Soldiers",
+            "budget": 8000000,
+            "genres": [
+                878,
+                28,
+                35
+            ],
+            "poster_path": "/6xg3EcdFRQYLZ301NRbgT0NRTP6.jpg",
+            "date": "2005",
+            "duration": 106,
+            "languages": [
+                "ko"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "5.60",
+                "5.75",
+                "6.06"
+            ],
+            "director": [
+                "6.20"
+            ]
+        },
+        {
+            "id": 15542,
+            "adult": 0,
+            "title": "Stiletto",
+            "budget": 4000000,
+            "genres": [
+                28,
+                80,
+                18,
+                53
+            ],
+            "poster_path": "/tjwznbqClq0B6h8URmkHFkBqRdp.jpg",
+            "date": "2008",
+            "duration": 99,
+            "languages": [
+                "en",
+                "ru"
+            ],
+            "rating": 4.4,
+            "actor": [
+                "5.67",
+                "5.33",
+                "5.83"
+            ],
+            "director": [
+                "3.29"
+            ]
+        },
+        {
+            "id": 25151,
+            "adult": 0,
+            "title": "Mutants",
+            "budget": 4000000,
+            "genres": [
+                27,
+                28,
+                878,
+                10769
+            ],
+            "poster_path": "/x8CCW1ZliDkS8wCMNUS5XJ2x2vi.jpg",
+            "date": "2008",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 2.3,
+            "actor": [
+                "5.22",
+                "5.15",
+                "2.30"
+            ],
+            "director": [
+                "3.59"
+            ]
+        },
+        {
+            "id": 26300,
+            "adult": 0,
+            "title": "Fist of the North Star",
+            "budget": 7000000,
+            "genres": [
+                28,
+                878,
+                53
+            ],
+            "poster_path": "/jNvtUFMdclGuiOHGK8AybYlr5AO.jpg",
+            "date": "1995",
+            "duration": 103,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.4,
+            "actor": [
+                "5.29",
+                "5.54",
+                "4.78"
+            ],
+            "director": [
+                "5.32"
+            ]
+        },
+        {
+            "id": 32307,
+            "adult": 0,
+            "title": "Santa Claus Conquers the Martians",
+            "budget": 200000,
+            "genres": [
+                28,
+                12,
+                35,
+                10751,
+                14,
+                878
+            ],
+            "poster_path": "/7GDTDDHcdf9fiIScvbVvHbLDNzJ.jpg",
+            "date": "1964",
+            "duration": 81,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.5,
+            "actor": [
+                "6.38",
+                "5.60",
+                "5.87"
+            ],
+            "director": [
+                "4.50"
+            ]
+        },
+        {
+            "id": 19058,
+            "adult": 0,
+            "title": "Down",
+            "budget": 15000000,
+            "genres": [
+                28,
+                27,
+                9648,
+                53
+            ],
+            "poster_path": "/o25WdQiVIj5uMzeCBR20rq9wqBB.jpg",
+            "date": "2001",
+            "duration": 111,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.2,
+            "actor": [
+                "5.86",
+                "6.01",
+                "5.85"
+            ],
+            "director": [
+                "5.69"
+            ]
+        },
+        {
+            "id": 102222,
+            "adult": 0,
+            "title": "The Philly Kid",
+            "budget": 5000000,
+            "genres": [
+                18,
+                28
+            ],
+            "poster_path": "/1F3xbC29BtP06V1ACXsBF4ZCvgu.jpg",
+            "date": "2012",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.8,
+            "actor": [
+                "5.30",
+                "5.71",
+                "4.80"
+            ],
+            "director": [
+                "5.40"
+            ]
+        },
+        {
+            "id": 2036,
+            "adult": 0,
+            "title": "Avalanche Express",
+            "budget": 12,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/8hOwY3dNVDeGP3g8CXpTqZ68xnR.jpg",
+            "date": "1979",
+            "duration": 85,
+            "languages": [
+                "en",
+                "ru"
+            ],
+            "rating": 4.6,
+            "actor": [
+                "6.01",
+                "6.46",
+                "5.54"
+            ],
+            "director": [
+                "6.37"
+            ]
+        },
+        {
+            "id": 24558,
+            "adult": 0,
+            "title": "Loose Cannons",
+            "budget": 1500000,
+            "genres": [
+                28,
+                35,
+                80,
+                9648,
+                53
+            ],
+            "poster_path": "/zOjzgTymun0nX5K9jTqCvve2rrD.jpg",
+            "date": "1990",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.9,
+            "actor": [
+                "6.26",
+                "5.99",
+                "5.45"
+            ],
+            "director": [
+                "5.47"
+            ]
+        },
+        {
+            "id": 13369,
+            "adult": 0,
+            "title": "Empire",
+            "budget": 4000000,
+            "genres": [
+                80,
+                28,
+                18
+            ],
+            "poster_path": "/rTsf1SrEZJsSYAvxiReVOYTJGiB.jpg",
+            "date": "2002",
+            "duration": 90,
+            "languages": [
+                "en",
+                "de",
+                "es"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "5.92",
+                "6.15",
+                "5.48"
+            ],
+            "director": [
+                "6.54"
+            ]
+        },
+        {
+            "id": 100183,
+            "adult": 0,
+            "title": "Outpost: Black Sun",
+            "budget": 3000000,
+            "genres": [
+                28,
+                27
+            ],
+            "poster_path": "/cuEu43u2MNTJgyNIzf9z7AK6hpE.jpg",
+            "date": "2012",
+            "duration": 101,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "5.72",
+                "6.10",
+                "4.90"
+            ],
+            "director": [
+                "5.33"
+            ]
+        },
+        {
+            "id": 6470,
+            "adult": 0,
+            "title": "Fire Birds",
+            "budget": 22000000,
+            "genres": [
+                28,
+                12
+            ],
+            "poster_path": "/gyCytQdWC4t4prSw967904a0I6l.jpg",
+            "date": "1990",
+            "duration": 85,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "6.00",
+                "5.98",
+                "5.27"
+            ],
+            "director": [
+                "5.67"
+            ]
+        },
+        {
+            "id": 59120,
+            "adult": 0,
+            "title": "The Lost Tribe",
+            "budget": 1000000,
+            "genres": [
+                28,
+                12,
+                18,
+                27,
+                53
+            ],
+            "poster_path": "/oLtPvIaT1ND3j4zhkHtxHGY5oT5.jpg",
+            "date": "2009",
+            "duration": 86,
+            "languages": [
+                "en",
+                "pl"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.43",
+                "5.33",
+                "4.89"
+            ],
+            "director": [
+                "4.79"
+            ]
+        },
+        {
+            "id": 28963,
+            "adult": 0,
+            "title": "The Thief of Bagdad",
+            "budget": 1135654,
+            "genres": [
+                28,
+                12,
+                18,
+                10751,
+                14
+            ],
+            "poster_path": "/a6IzXkwZRDimfn8HATzP6Pi6Ois.jpg",
+            "date": "1924",
+            "duration": 149,
+            "languages": [
+                "xx"
+            ],
+            "rating": 7.5,
+            "actor": [
+                "6.07",
+                "6.80",
+                "6.77"
+            ],
+            "director": [
+                -1
+            ]
+        },
+        {
+            "id": 335409,
+            "adult": 0,
+            "title": "Sharkansas Women's Prison Massacre",
+            "budget": 600000,
+            "genres": [
+                10770,
+                878,
+                28,
+                27
+            ],
+            "poster_path": "/i1b3Sj1YfSWdYkAGHJlRKZlA6Qu.jpg",
+            "date": "2015",
+            "duration": 84,
+            "languages": [
+                "ru",
+                "en"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "4.85",
+                "5.20",
+                "5.20"
+            ],
+            "director": [
+                "4.76"
+            ]
+        },
+        {
+            "id": 22733,
+            "adult": 0,
+            "title": "Beat the Devil",
+            "budget": 1000000,
+            "genres": [
+                28,
+                12,
+                35,
+                80,
+                18,
+                10749
+            ],
+            "poster_path": "/kNMTqdMpTuINY2clqOdnuSN6pRS.jpg",
+            "date": "1953",
+            "duration": 89,
+            "languages": [
+                "it",
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.46",
+                "6.08",
+                "6.00"
+            ],
+            "director": [
+                "6.52"
+            ]
+        },
+        {
+            "id": 13723,
+            "adult": 0,
+            "title": "Missionary Man",
+            "budget": 2000000,
+            "genres": [
+                28,
+                12,
+                53
+            ],
+            "poster_path": "/mCyCLP1R691rXqzYz6LAeS1f8n6.jpg",
+            "date": "2007",
+            "duration": 93,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "5.12",
+                "5.38",
+                "4.25"
+            ],
+            "director": [
+                "5.15"
+            ]
+        },
+        {
+            "id": 19728,
+            "adult": 0,
+            "title": "The Blue Max",
+            "budget": 5000000,
+            "genres": [
+                10752,
+                28,
+                12,
+                18
+            ],
+            "poster_path": "/p9FVlRLaB9uoZm6UoFe7Z4p84b4.jpg",
+            "date": "1966",
+            "duration": 156,
+            "languages": [
+                "cs",
+                "en"
+            ],
+            "rating": 6.6,
+            "actor": [
+                "6.20",
+                "6.37",
+                "5.67"
+            ],
+            "director": [
+                "6.25"
+            ]
+        },
+        {
+            "id": 20049,
+            "adult": 0,
+            "title": "Ayan",
+            "budget": 3230939,
+            "genres": [
+                28,
+                10749,
+                35
+            ],
+            "poster_path": "/evUg9kwqH3VPvpnUl8XGDzp3LUP.jpg",
+            "date": "2009",
+            "duration": 162,
+            "languages": [
+                "ta"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "6.31",
+                "5.47",
+                "6.16"
+            ],
+            "director": [
+                "6.50"
+            ]
+        },
+        {
+            "id": 14452,
+            "adult": 0,
+            "title": "Kill Switch",
+            "budget": 10000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/f92hqOzLzzlnqxVNv4nAxXxZhbV.jpg",
+            "date": "2008",
+            "duration": 96,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.6,
+            "actor": [
+                "5.02",
+                "5.10",
+                "5.88"
+            ],
+            "director": [
+                "5.07"
+            ]
+        },
+        {
+            "id": 13722,
+            "adult": 0,
+            "title": "Mercenary for Justice",
+            "budget": 15000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/7oV5BkxFv7jpLiwu8q2YEMr8uVa.jpg",
+            "date": "2006",
+            "duration": 91,
+            "languages": [
+                "cs",
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "5.02",
+                "4.47",
+                "6.18"
+            ],
+            "director": [
+                "4.56"
+            ]
+        },
+        {
+            "id": 96231,
+            "adult": 0,
+            "title": "August. Eighth",
+            "budget": 16000000,
+            "genres": [
+                28,
+                18
+            ],
+            "poster_path": "/i66yrA3WydG000TUYVJ08o5arbZ.jpg",
+            "date": "2012",
+            "duration": 120,
+            "languages": [
+                "fr",
+                "ru"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "4.93",
+                "4.15",
+                "6.00"
+            ],
+            "director": [
+                "6.10"
+            ]
+        },
+        {
+            "id": 82628,
+            "adult": 0,
+            "title": "Xtinction: Predator X",
+            "budget": 2500000,
+            "genres": [
+                27,
+                28,
+                53,
+                878
+            ],
+            "poster_path": "/qhjUfXHnK8X2rA5GQqF8prOTI31.jpg",
+            "date": "2010",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.2,
+            "actor": [
+                "4.33",
+                "5.13",
+                "4.94"
+            ],
+            "director": [
+                "3.59"
+            ]
+        },
+        {
+            "id": 15493,
+            "adult": 0,
+            "title": "Star Wreck: In the Pirkinning",
+            "budget": 16398,
+            "genres": [
+                878,
+                28,
+                35
+            ],
+            "poster_path": "/p0yYeQEvaL8DHn2IespaHoqsHfL.jpg",
+            "date": "2005",
+            "duration": 103,
+            "languages": [
+                "fi"
+            ],
+            "rating": 6.6,
+            "actor": [
+                "6.80",
+                "6.60",
+                "6.60"
+            ],
+            "director": [
+                "6.20"
+            ]
+        },
+        {
+            "id": 48620,
+            "adult": 0,
+            "title": "The Mighty Macs",
+            "budget": 7000000,
+            "genres": [
+                28,
+                18
+            ],
+            "poster_path": "/yCA75LnMBhGUisZ37TCHZWIQSWl.jpg",
+            "date": "2009",
+            "duration": 102,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "6.04",
+                "6.27",
+                "5.76"
+            ],
+            "director": [
+                "5.00"
+            ]
+        },
+        {
+            "id": 42151,
+            "adult": 0,
+            "title": "Down Terrace",
+            "budget": 31192,
+            "genres": [
+                18,
+                28,
+                35
+            ],
+            "poster_path": "/Akp4JvxGDu7LrDc7WnAZs7e39Rt.jpg",
+            "date": "2009",
+            "duration": 89,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.15",
+                "5.80",
+                "6.06"
+            ],
+            "director": [
+                "6.30"
+            ]
+        },
+        {
+            "id": 34014,
+            "adult": 0,
+            "title": "Moon Over Parador",
+            "budget": 20000000,
+            "genres": [
+                28,
+                35,
+                18,
+                10749
+            ],
+            "poster_path": "/36PTBwmEVRqL7Ul8ZZvSmf5RB7C.jpg",
+            "date": "1988",
+            "duration": 103,
+            "languages": [
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "6.26",
+                "5.88",
+                "5.98"
+            ],
+            "director": [
+                "5.98"
+            ]
+        },
+        {
+            "id": 25035,
+            "adult": 0,
+            "title": "The Zombie Diaries",
+            "budget": 1000000,
+            "genres": [
+                27,
+                28,
+                53
+            ],
+            "poster_path": "/bju1CVBkYa74NBw8mIgs5Hq4nLf.jpg",
+            "date": "2006",
+            "duration": 85,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "4.50",
+                "3.75",
+                "3.35"
+            ],
+            "director": [
+                "3.82"
+            ]
+        },
+        {
+            "id": 440508,
+            "adult": 0,
+            "title": "Diamond Cartel",
+            "budget": 7000000,
+            "genres": [
+                28
+            ],
+            "poster_path": "/zkiz6Tx5wiSo2huOnKWRQrsbnoX.jpg",
+            "date": "2017",
+            "duration": 100,
+            "languages": [
+                "en",
+                "ru"
+            ],
+            "rating": 7.2,
+            "actor": [
+                "5.14",
+                "5.52",
+                "7.20"
+            ],
+            "director": [
+                "7.20"
+            ]
+        },
+        {
+            "id": 25209,
+            "adult": 0,
+            "title": "Annie Get Your Gun",
+            "budget": 3768785,
+            "genres": [
+                28,
+                35,
+                10402,
+                10749,
+                37
+            ],
+            "poster_path": "/a5wCzkq4cPp0CyFmwLrQgnCHl8x.jpg",
+            "date": "1950",
+            "duration": 107,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.3,
+            "actor": [
+                "6.18",
+                "5.80",
+                "6.00"
+            ],
+            "director": [
+                "6.08"
+            ]
+        },
+        {
+            "id": 12636,
+            "adult": 0,
+            "title": "Godzilla Against MechaGodzilla",
+            "budget": 8500000,
+            "genres": [
+                28,
+                10769,
+                27,
+                878
+            ],
+            "poster_path": "/jbFSVc8aRSguOjUCFp4YJXCDN8Z.jpg",
+            "date": "2002",
+            "duration": 88,
+            "languages": [
+                "ja"
+            ],
+            "rating": 6.8,
+            "actor": [
+                "6.14",
+                "5.70",
+                "6.80"
+            ],
+            "director": [
+                "5.60"
+            ]
+        },
+        {
+            "id": 62756,
+            "adult": 0,
+            "title": "Singam",
+            "budget": 2200000,
+            "genres": [
+                28,
+                35,
+                80
+            ],
+            "poster_path": "/1QDQjw97ivyVl4isatEgLD49xq0.jpg",
+            "date": "2010",
+            "duration": 154,
+            "languages": [
+                "ta"
+            ],
+            "rating": 6.9,
+            "actor": [
+                "6.31",
+                "5.50",
+                "5.56"
+            ],
+            "director": [
+                "5.97"
+            ]
+        },
+        {
+            "id": 23030,
+            "adult": 0,
+            "title": "Arabesque",
+            "budget": 4800000,
+            "genres": [
+                28,
+                12,
+                53
+            ],
+            "poster_path": "/guYfui9Sq4mawogNV6QyxA8ULEA.jpg",
+            "date": "1966",
+            "duration": 105,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.39",
+                "6.32",
+                "6.61"
+            ],
+            "director": [
+                "6.59"
+            ]
+        },
+        {
+            "id": 48417,
+            "adult": 0,
+            "title": "The Stool Pigeon",
+            "budget": 4000000,
+            "genres": [
+                53,
+                18,
+                28
+            ],
+            "poster_path": "/s6SM5daYJSay63FUQjMwSzGchK3.jpg",
+            "date": "2010",
+            "duration": 113,
+            "languages": [
+                "cn"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "6.03",
+                "6.03",
+                "6.28"
+            ],
+            "director": [
+                "6.06"
+            ]
+        },
+        {
+            "id": 31583,
+            "adult": 0,
+            "title": "Kill Me Again",
+            "budget": 4000000,
+            "genres": [
+                18,
+                28,
+                53,
+                80
+            ],
+            "poster_path": "/y9BYmlKVVlSpUZtCYaeT5LgguXG.jpg",
+            "date": "1989",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.77",
+                "5.80",
+                "4.93"
+            ],
+            "director": [
+                "6.23"
+            ]
+        },
+        {
+            "id": 315443,
+            "adult": 0,
+            "title": "Jamaican Mafia",
+            "budget": 1000000,
+            "genres": [
+                80,
+                28
+            ],
+            "poster_path": "/beWd3arK0JT3FeIyZ43f7FCDYT9.jpg",
+            "date": "2015",
+            "duration": 118,
+            "languages": [
+                "en"
+            ],
+            "rating": 8,
+            "actor": [
+                "6.32",
+                "8.00",
+                "8.00"
+            ],
+            "director": [
+                "8.00"
+            ]
+        },
+        {
+            "id": 16266,
+            "adult": 0,
+            "title": "2012 Doomsday",
+            "budget": 250000,
+            "genres": [
+                12,
+                28,
+                14,
+                27,
+                878,
+                53
+            ],
+            "poster_path": "/mGZqHGUAT1GCQMO4U7hhoJd2vWm.jpg",
+            "date": "2008",
+            "duration": 85,
+            "languages": [
+                "en"
+            ],
+            "rating": 2.3,
+            "actor": [
+                "5.38",
+                "5.13",
+                "4.92"
+            ],
+            "director": [
+                "3.88"
+            ]
+        },
+        {
+            "id": 352978,
+            "adult": 0,
+            "title": "Chain of Command",
+            "budget": 5000000,
+            "genres": [
+                53,
+                12,
+                28
+            ],
+            "poster_path": "/hNGCQg37UR1drSUGUXblLMOF8RJ.jpg",
+            "date": "2015",
+            "duration": 88,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "5.45",
+                "6.47",
+                "5.56"
+            ],
+            "director": [
+                "3.70"
+            ]
+        },
+        {
+            "id": 36609,
+            "adult": 0,
+            "title": "Asteroid",
+            "budget": 20000000,
+            "genres": [
+                28,
+                878,
+                53
+            ],
+            "poster_path": "/ilSXwgvYh5XjXgvbsAjSOMIF9GD.jpg",
+            "date": "1997",
+            "duration": 120,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.7,
+            "actor": [
+                "5.33",
+                "5.75",
+                "5.40"
+            ],
+            "director": [
+                "4.64"
+            ]
+        },
+        {
+            "id": 117923,
+            "adult": 0,
+            "title": "Assassin's Bullet",
+            "budget": 5000000,
+            "genres": [
+                28,
+                53
+            ],
+            "poster_path": "/c3ZacVy5OmFFTjDinpl9Px6xzTg.jpg",
+            "date": "2012",
+            "duration": 91,
+            "languages": [
+                "bg",
+                "en",
+                "pl",
+                "es"
+            ],
+            "rating": 3.3,
+            "actor": [
+                "5.73",
+                "6.14",
+                "4.13"
+            ],
+            "director": [
+                "5.60"
+            ]
+        },
+        {
+            "id": 13064,
+            "adult": 0,
+            "title": "Airborne",
+            "budget": 2600000,
+            "genres": [
+                28,
+                12,
+                35
+            ],
+            "poster_path": "/7QurLRJBO39eqwkLsGomuQqHL3b.jpg",
+            "date": "1993",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.1,
+            "actor": [
+                "6.10",
+                "6.28",
+                "5.48"
+            ],
+            "director": [
+                "5.88"
+            ]
+        },
+        {
+            "id": 36278,
+            "adult": 0,
+            "title": "Top Dog",
+            "budget": 6000000,
+            "genres": [
+                28,
+                12,
+                35,
+                10751,
+                53
+            ],
+            "poster_path": "/zPqf8FkzuHVvH9B3E1wPlIpcnf9.jpg",
+            "date": "1995",
+            "duration": 86,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "5.43",
+                "5.56",
+                "5.82"
+            ],
+            "director": [
+                "4.84"
+            ]
+        },
+        {
+            "id": 166680,
+            "adult": 0,
+            "title": "Avalanche",
+            "budget": 6500000,
+            "genres": [
+                28,
+                12,
+                18
+            ],
+            "poster_path": "/dnTXKBwUyyeDYGXz5PccaO4zYuL.jpg",
+            "date": "1978",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.2,
+            "actor": [
+                "6.04",
+                "6.07",
+                "5.57"
+            ],
+            "director": [
+                "4.34"
+            ]
+        },
+        {
+            "id": 299822,
+            "adult": 0,
+            "title": "Zhongkui: Snow Girl and the Dark Crystal",
+            "budget": 32000000,
+            "genres": [
+                28,
+                14,
+                10749
+            ],
+            "poster_path": "/6yYf0OaMJTtHog6qGaUFdSIiocp.jpg",
+            "date": "2015",
+            "duration": 118,
+            "languages": [
+                "zh"
+            ],
+            "rating": 5.2,
+            "actor": [
+                "6.00",
+                "5.94",
+                "5.66"
+            ],
+            "director": [
+                "6.30"
+            ]
+        },
+        {
+            "id": 46713,
+            "adult": 0,
+            "title": "Hunt to Kill",
+            "budget": 2300000,
+            "genres": [
+                28,
+                12,
+                53
+            ],
+            "poster_path": "/w61WF6QkcPMxw1Br5wM7AFKMlGp.jpg",
+            "date": "2010",
+            "duration": 98,
+            "languages": [
+                "en",
+                "pt"
+            ],
+            "rating": 4.9,
+            "actor": [
+                "6.47",
+                "4.70",
+                "5.56"
+            ],
+            "director": [
+                "5.16"
+            ]
+        },
+        {
+            "id": 51497,
+            "adult": 0,
+            "title": "Fast Five",
+            "budget": 125000000,
+            "genres": [
+                28,
+                53,
+                80
+            ],
+            "poster_path": "/cA81CI8odKv5KHRUUzJbj83yN7c.jpg",
+            "date": "2011",
+            "duration": 130,
+            "languages": [
+                "en",
+                "es",
+                "pt",
+                "it"
+            ],
+            "rating": 7.1,
+            "actor": [
+                "6.54",
+                "5.96",
+                "5.93"
+            ],
+            "director": [
+                "6.57"
+            ]
+        },
+        {
+            "id": 46368,
+            "adult": 0,
+            "title": "The Rig",
+            "budget": 3000000,
+            "genres": [
+                28,
+                27,
+                878,
+                53
+            ],
+            "poster_path": "/23M2svVRDTO18ByFlBf2yd7s8PA.jpg",
+            "date": "2010",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.8,
+            "actor": [
+                "5.31",
+                "3.80",
+                "5.14"
+            ],
+            "director": [
+                "4.90"
+            ]
+        },
+        {
+            "id": 12683,
+            "adult": 0,
+            "title": "Alone in the Dark 2",
+            "budget": 4600000,
+            "genres": [
+                28,
+                14,
+                27
+            ],
+            "poster_path": "/r2saH1BczLu0jsfftM7OFuBIlhV.jpg",
+            "date": "2008",
+            "duration": 88,
+            "languages": [
+                "cs",
+                "en",
+                "pt"
+            ],
+            "rating": 3.1,
+            "actor": [
+                "5.41",
+                "4.89",
+                "4.81"
+            ],
+            "director": [
+                "3.41"
+            ]
+        },
+        {
+            "id": 48314,
+            "adult": 0,
+            "title": "Scarecrow",
+            "budget": 250000,
+            "genres": [
+                28,
+                35,
+                18,
+                27
+            ],
+            "poster_path": "/zrJEDyQgcqXVF6vXuhbi0uSHVru.jpg",
+            "date": "2002",
+            "duration": 86,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.6,
+            "actor": [
+                "3.14",
+                "3.25",
+                "4.53"
+            ],
+            "director": [
+                "3.28"
+            ]
+        },
+        {
+            "id": 315509,
+            "adult": 0,
+            "title": "Helios",
+            "budget": 25784494,
+            "genres": [
+                80,
+                28
+            ],
+            "poster_path": "/3aWidBLzsfORYYmWuwW2ROqhL3H.jpg",
+            "date": "2015",
+            "duration": 118,
+            "languages": [
+                "cn",
+                "ko",
+                "zh"
+            ],
+            "rating": 5,
+            "actor": [
+                "6.28",
+                "6.03",
+                "6.17"
+            ],
+            "director": [
+                "6.03"
+            ]
+        },
+        {
+            "id": 71679,
+            "adult": 0,
+            "title": "Resident Evil: Retribution",
+            "budget": 65000000,
+            "genres": [
+                28,
+                27,
+                878
+            ],
+            "poster_path": "/qRhi9UDgfstP9aIJTCoO9u13Q7t.jpg",
+            "date": "2012",
+            "duration": 95,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.91",
+                "5.74",
+                "6.29"
+            ],
+            "director": [
+                "5.80"
+            ]
+        }
+    ],
+    "total_results": 289
+}
