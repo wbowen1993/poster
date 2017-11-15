@@ -33,7 +33,6 @@ for i in range(len(obj)):
 		imgs.append(base_url + obj[i]['poster_path'])
 	else:
 		count+=1
-print len(imgs)
 
 for i in range(len(imgs)):
 	image_url = imgs[i]
@@ -41,3 +40,4 @@ for i in range(len(imgs)):
 	subpath = 'data/poster/' + prefix_zero(i) + '.jpg'
 	with open(subpath, 'wb') as handler:
 	    handler.write(img_data)
+	    print "[",i+1,"] Successfully download"

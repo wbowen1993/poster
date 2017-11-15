@@ -41,7 +41,7 @@ def readImgParameters(filename):
 
     for x in range(0, xs):
         for y in range(0, ys):
-            [r, g, b, noidea] = img[x, y]
+            [r, g, b] = img[x, y]
             rs.append(r/255.0)
             gs.append(g/255.0)
             bs.append(b/255.0)
@@ -59,16 +59,12 @@ def readImgParameters(filename):
     output["G"] = np.average(gs)
     output["B"] = np.average(bs)
     return output
-
+    
 for f in listdir(mypath):
     count += 1
-    if(count == 20):
+    if(count > 1):
         params = readImgParameters(mypath + f)
-        # print "Max Hue for [",f,"]: ", params['R']
-        break
-
-
-
+        print "Max Hue for [",f,"]: ", params['MainHue']
 
 
     
