@@ -1,0 +1,1384 @@
+{
+    "movies": [
+        {
+            "id": 109264,
+            "adult": 0,
+            "title": "This Is Elvis",
+            "budget": 5000000,
+            "genres": [
+                18,
+                10402,
+                99
+            ],
+            "poster_path": "/xyuz0TwRdWehjdvlSfjFj72fhIx.jpg",
+            "date": "1981",
+            "duration": 144,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.9,
+            "actor": [
+                "6.31",
+                "6.90",
+                "6.90"
+            ],
+            "director": [
+                "7.12"
+            ]
+        },
+        {
+            "id": 26163,
+            "adult": 0,
+            "title": "The Decline And Fall Of America",
+            "budget": 7500,
+            "genres": [
+                99
+            ],
+            "poster_path": "/5PqvLz5SdTM3GshZeROuAXZmmBY.jpg",
+            "date": "2008",
+            "duration": 120,
+            "languages": [
+                "en"
+            ],
+            "rating": 1.7,
+            "actor": [
+                "4.50",
+                "1.70"
+            ],
+            "director": [
+                "3.13"
+            ]
+        },
+        {
+            "id": 80289,
+            "adult": 0,
+            "title": "Introduction to Permaculture Design",
+            "budget": 40000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/vVtNYUPl9XuySOFmXUo5nQIRb6R.jpg",
+            "date": "2009",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "5.75"
+            ],
+            "director": [
+                "4.90"
+            ]
+        },
+        {
+            "id": 117102,
+            "adult": 0,
+            "title": "The Perfect Human Diet",
+            "budget": 500000,
+            "genres": [
+                99,
+                36
+            ],
+            "poster_path": "/1XnLEE2KM15UGtQUppa7ylarr3w.jpg",
+            "date": "2012",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.60"
+            ],
+            "director": [
+                "5.60"
+            ]
+        },
+        {
+            "id": 154873,
+            "adult": 0,
+            "title": "Marie-Antoinette, la véritable histoire",
+            "budget": 3838827,
+            "genres": [
+                99,
+                18,
+                36
+            ],
+            "poster_path": "/yWRo59pDpG7K7tbenkxiz4bAUOP.jpg",
+            "date": "2006",
+            "duration": 90,
+            "languages": [
+                "fr"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.80",
+                "6.24",
+                "5.95"
+            ],
+            "director": [
+                "6.63"
+            ]
+        },
+        {
+            "id": 139325,
+            "adult": 0,
+            "title": "Made in Mexico",
+            "budget": 2000000,
+            "genres": [
+                10402,
+                10769,
+                99,
+                36
+            ],
+            "poster_path": "/mAf2dinqxxwkxIO4kSn2WMFgAiO.jpg",
+            "date": "2012",
+            "duration": 98,
+            "languages": [
+                "es"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "5.80",
+                "5.80",
+                "5.90"
+            ],
+            "director": [
+                "5.80"
+            ]
+        },
+        {
+            "id": 445791,
+            "adult": 0,
+            "title": "Celldweller: Start of an Empire",
+            "budget": 5000,
+            "genres": [
+                99,
+                10402,
+                878
+            ],
+            "poster_path": "/3uRNJJbNWXeEDkKmvbgK2b9kP8s.jpg",
+            "date": "2016",
+            "duration": 58,
+            "languages": [
+                "en",
+                "ru"
+            ],
+            "rating": 10,
+            "actor": [
+                "10.00",
+                "10.00",
+                "10.00"
+            ],
+            "director": [
+                "10.00"
+            ]
+        },
+        {
+            "id": 56895,
+            "adult": 0,
+            "title": "Defamation",
+            "budget": 1000000,
+            "genres": [
+                99,
+                10769
+            ],
+            "poster_path": "/cGq76HtB4tfK4ModwEv8M7XxAuj.jpg",
+            "date": "2009",
+            "duration": 91,
+            "languages": [
+                "en",
+                "he"
+            ],
+            "rating": 6.6,
+            "actor": [
+                "6.60",
+                "6.40",
+                "6.60"
+            ],
+            "director": [
+                "6.86"
+            ]
+        },
+        {
+            "id": 19275,
+            "adult": 0,
+            "title": "Future by Design",
+            "budget": 250000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/6LzhF9XOUnPwbMNZf0iyvVavhoC.jpg",
+            "date": "2006",
+            "duration": 86,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.9,
+            "actor": [
+                "5.97",
+                "6.28",
+                "7.60"
+            ],
+            "director": [
+                "7.70"
+            ]
+        },
+        {
+            "id": 23729,
+            "adult": 0,
+            "title": "The Invicible Cell",
+            "budget": 1520000,
+            "genres": [
+                80,
+                99,
+                28
+            ],
+            "poster_path": "/wkymtTQ7iZlLvWx8HbmjFw1AN3R.jpg",
+            "date": "2009",
+            "duration": 100,
+            "languages": [
+                "da"
+            ],
+            "rating": 5.7,
+            "actor": [
+                "5.70",
+                "5.70",
+                "5.70"
+            ],
+            "director": [
+                "5.70"
+            ]
+        },
+        {
+            "id": 89750,
+            "adult": 0,
+            "title": "Pink Ribbons, Inc.",
+            "budget": 900000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/n2acteNfnLoCwrEOiiN1Sk911dK.jpg",
+            "date": "2011",
+            "duration": 97,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.8,
+            "actor": [
+                "6.80",
+                "6.80",
+                "6.80"
+            ],
+            "director": [
+                "6.69"
+            ]
+        },
+        {
+            "id": 45374,
+            "adult": 0,
+            "title": "One Night in Turin",
+            "budget": 180000,
+            "genres": [
+                99,
+                10769
+            ],
+            "poster_path": "/2AUDvl44XhqSrXROjN2twXhzD9x.jpg",
+            "date": "2010",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "6.35",
+                "6.56"
+            ],
+            "director": [
+                "6.21"
+            ]
+        },
+        {
+            "id": 26224,
+            "adult": 0,
+            "title": "Global Eugenics: Using Medicine to Kill",
+            "budget": 5000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/fNdKshqFI49ju0875PUgK6vaTqH.jpg",
+            "date": "2010",
+            "duration": 124,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.2,
+            "actor": [
+                "3.20",
+                "3.70",
+                "5.40"
+            ],
+            "director": [
+                "3.13"
+            ]
+        },
+        {
+            "id": 51522,
+            "adult": 0,
+            "title": "I Need That Record",
+            "budget": 10,
+            "genres": [
+                99
+            ],
+            "poster_path": "/iOEnKnSLZiR7qQEWNXHcQwj4h8V.jpg",
+            "date": "2008",
+            "duration": 77,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "6.68",
+                "6.86",
+                "6.48"
+            ],
+            "director": [
+                "6.60"
+            ]
+        },
+        {
+            "id": 432134,
+            "adult": 0,
+            "title": "Star Wars: Heroes & Villains",
+            "budget": 12253,
+            "genres": [
+                99
+            ],
+            "poster_path": "/5FqjtzTlEv6vqVlAMFeyEzZMRmo.jpg",
+            "date": "2005",
+            "duration": 68,
+            "languages": [
+                "en"
+            ],
+            "rating": 10,
+            "actor": [
+                "6.80"
+            ],
+            "director": [
+                "10.00"
+            ]
+        },
+        {
+            "id": 290739,
+            "adult": 0,
+            "title": "Land",
+            "budget": 415000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/83VIEs0JaHcEXOTbe9RoVen4e9Z.jpg",
+            "date": "2010",
+            "duration": 76,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "4.30",
+                "4.30",
+                "5.73"
+            ],
+            "director": [
+                "3.92"
+            ]
+        },
+        {
+            "id": 417417,
+            "adult": 0,
+            "title": "Seed: The Untold Story",
+            "budget": 650000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/gUI2cyx1engVVUp5BHk2V71Fjeg.jpg",
+            "date": "2016",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "7.36",
+                "7.43",
+                "6.60"
+            ],
+            "director": [
+                "5.75"
+            ]
+        },
+        {
+            "id": 185444,
+            "adult": 0,
+            "title": "Evocateur: The Morton Downey Jr. Movie",
+            "budget": 300000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/gLjji9lo78pefb2qLmRFQ7XI2I7.jpg",
+            "date": "2013",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "5.42",
+                "6.50",
+                "6.30"
+            ],
+            "director": [
+                "8.52"
+            ]
+        },
+        {
+            "id": 485074,
+            "adult": 0,
+            "title": "Oscar Arias: Without a Shot Fired",
+            "budget": 500000,
+            "genres": [
+                99,
+                36
+            ],
+            "poster_path": "/68JSF0eQx1V8NVzkqroe7vrKrer.jpg",
+            "date": "2017",
+            "duration": 64,
+            "languages": [
+                "en",
+                "es"
+            ],
+            "rating": 6,
+            "actor": [
+                "6.00",
+                "6.00",
+                "6.30"
+            ],
+            "director": [
+                "6.00"
+            ]
+        },
+        {
+            "id": 278760,
+            "adult": 0,
+            "title": "Nine Days and Nights of Ed Sheeran",
+            "budget": 400000,
+            "genres": [
+                99,
+                10402
+            ],
+            "poster_path": "/dekbqDO8vky9d1jRmdh122XXbVo.jpg",
+            "date": "2014",
+            "duration": 40,
+            "languages": [
+                "en"
+            ],
+            "rating": 8,
+            "actor": [
+                "6.83",
+                "6.82",
+                "7.06"
+            ],
+            "director": [
+                "7.19"
+            ]
+        },
+        {
+            "id": 54894,
+            "adult": 0,
+            "title": "Modify",
+            "budget": 500000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/jrHkctUU8qNZnSIlTTsvhzTK2m0.jpg",
+            "date": "2005",
+            "duration": 85,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.1,
+            "actor": [
+                "5.10",
+                "6.12",
+                "5.55"
+            ],
+            "director": [
+                "5.10"
+            ]
+        },
+        {
+            "id": 313820,
+            "adult": 0,
+            "title": "She Makes Comics",
+            "budget": 60000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/dSTSGvpNW5V9t9OYfjakB9XVaNt.jpg",
+            "date": "2014",
+            "duration": 70,
+            "languages": [
+                "en"
+            ],
+            "rating": 10,
+            "actor": [
+                "5.70",
+                "5.63",
+                "6.20"
+            ],
+            "director": [
+                "10.00"
+            ]
+        },
+        {
+            "id": 40150,
+            "adult": 0,
+            "title": "Believe: The Eddie Izzard Story",
+            "budget": 408725,
+            "genres": [
+                35,
+                99,
+                10769
+            ],
+            "poster_path": "/50SOhEtIyKqq3ZatcGELPDNKIdF.jpg",
+            "date": "2009",
+            "duration": 102,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.3,
+            "actor": [
+                "6.24"
+            ],
+            "director": [
+                "6.82"
+            ]
+        },
+        {
+            "id": 63359,
+            "adult": 0,
+            "title": "Lolita: Slave to Entertainment",
+            "budget": 20000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/rdZHWdLq5rYhW9Ivmx7wFbZDn2Y.jpg",
+            "date": "2003",
+            "duration": 56,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.5,
+            "actor": [
+                "7.50",
+                "6.90",
+                "7.50"
+            ],
+            "director": [
+                "7.50"
+            ]
+        },
+        {
+            "id": 91911,
+            "adult": 0,
+            "title": "Behind the Burly Q",
+            "budget": 250000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/pbR1WcNwhJYh5RqgI4lC42GLYrl.jpg",
+            "date": "2010",
+            "duration": 97,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "6.52",
+                "6.13",
+                "5.50"
+            ],
+            "director": [
+                "5.80"
+            ]
+        },
+        {
+            "id": 300822,
+            "adult": 0,
+            "title": "Remaking the Legend - Halo 2 Anniversary",
+            "budget": 250,
+            "genres": [
+                878,
+                99
+            ],
+            "poster_path": "/vsFksb8Lew0jePVvjOBkuVUEf2g.jpg",
+            "date": "2014",
+            "duration": 62,
+            "languages": [
+                "en"
+            ],
+            "rating": 9,
+            "actor": [
+                "7.79",
+                "5.61",
+                "6.46"
+            ],
+            "director": [
+                "3.80"
+            ]
+        },
+        {
+            "id": 113255,
+            "adult": 0,
+            "title": "Huie's Sermon",
+            "budget": 58000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/1tBQhVnAmyxM12vpDXm0W7QI1QP.jpg",
+            "date": "1983",
+            "duration": 42,
+            "languages": [
+                "en",
+                "de"
+            ],
+            "rating": 6,
+            "actor": [
+                "6.00"
+            ],
+            "director": [
+                "6.79"
+            ]
+        },
+        {
+            "id": 373981,
+            "adult": 0,
+            "title": "The Sabinal Canyon",
+            "budget": 2500,
+            "genres": [
+                99
+            ],
+            "poster_path": "/g5uHnVXCN8pBSJc9WfF5MSLvv1v.jpg",
+            "date": "2015",
+            "duration": 43,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "4.30",
+                "4.30",
+                "4.30"
+            ],
+            "director": [
+                "4.30"
+            ]
+        },
+        {
+            "id": 19665,
+            "adult": 0,
+            "title": "The Arrow",
+            "budget": 7800000,
+            "genres": [
+                99,
+                18
+            ],
+            "poster_path": "/ifUbKmM2gPnoSkvQUxz8j5LiTwj.jpg",
+            "date": "1997",
+            "duration": 180,
+            "languages": [
+                "en",
+                "fr"
+            ],
+            "rating": 4.7,
+            "actor": [
+                "5.76",
+                "5.78",
+                "5.11"
+            ],
+            "director": [
+                "5.86"
+            ]
+        },
+        {
+            "id": 197276,
+            "adult": 0,
+            "title": "The Ghost Army",
+            "budget": 300,
+            "genres": [
+                99,
+                10752
+            ],
+            "poster_path": "/tKzNzF5fNRpgzY96PWxfi6rhUlL.jpg",
+            "date": "2013",
+            "duration": 68,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "6.40",
+                "5.87"
+            ],
+            "director": [
+                "6.40"
+            ]
+        },
+        {
+            "id": 127713,
+            "adult": 0,
+            "title": "The Story Of Short Stack",
+            "budget": 2000000,
+            "genres": [
+                99,
+                35,
+                18
+            ],
+            "poster_path": "/wkj857pWy20j1WsUHMyx7TjTXSX.jpg",
+            "date": "2011",
+            "duration": 67,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "5.40",
+                "5.40",
+                "5.40"
+            ],
+            "director": [
+                "6.50"
+            ]
+        },
+        {
+            "id": 469798,
+            "adult": 0,
+            "title": "A Good Day to Die, Hoka Hey",
+            "budget": 980000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/l8TmAawraCgW0wSzUl4if1r7gD0.jpg",
+            "date": "2017",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 8,
+            "actor": [
+                "8.00",
+                "6.57",
+                "8.00"
+            ],
+            "director": [
+                "8.00"
+            ]
+        },
+        {
+            "id": 63397,
+            "adult": 0,
+            "title": "The Big Eden",
+            "budget": 716000,
+            "genres": [
+                99,
+                18
+            ],
+            "poster_path": "/9GsNWPyQe0dbuqvuerGQgg1nYik.jpg",
+            "date": "2011",
+            "duration": 90,
+            "languages": [
+                "de",
+                "he",
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "5.61",
+                "4.56",
+                "5.90"
+            ],
+            "director": [
+                "5.13"
+            ]
+        },
+        {
+            "id": 26214,
+            "adult": 0,
+            "title": "The American Matrix - Age Of Deception",
+            "budget": 5000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/bQ4cjN4HJ96ddYVljgNQ64klN8k.jpg",
+            "date": "2010",
+            "duration": 120,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.1,
+            "actor": [
+                "4.10",
+                "4.40",
+                "5.40"
+            ],
+            "director": [
+                "3.13"
+            ]
+        },
+        {
+            "id": 115685,
+            "adult": 0,
+            "title": "You Can Heal Your Life",
+            "budget": 600,
+            "genres": [
+                99
+            ],
+            "poster_path": "/Adkgj1p2Yy2ouMfduEmeNtAPQqc.jpg",
+            "date": "2007",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.4,
+            "actor": [
+                "7.40",
+                "5.80",
+                "8.54"
+            ],
+            "director": [
+                "7.28"
+            ]
+        },
+        {
+            "id": 163959,
+            "adult": 0,
+            "title": "What Is It Worth?",
+            "budget": 2000000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/yaKnB3Y11IzaRaX1sHDcA46W9f6.jpg",
+            "date": "2005",
+            "duration": 110,
+            "languages": [
+                "pt"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.64",
+                "6.38",
+                "6.06"
+            ],
+            "director": [
+                "6.19"
+            ]
+        },
+        {
+            "id": 53436,
+            "adult": 0,
+            "title": "Tornado Alley",
+            "budget": 4000000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/18a2Gx8thZZu7Fnb5VWia2H75p0.jpg",
+            "date": "2011",
+            "duration": 40,
+            "languages": [
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "6.16"
+            ],
+            "director": [
+                "6.00"
+            ]
+        },
+        {
+            "id": 28136,
+            "adult": 0,
+            "title": "Popatopolis",
+            "budget": 250000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/4U8y7k5BMz0hVTP0MWGplw6oYjT.jpg",
+            "date": "2009",
+            "duration": 75,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.9,
+            "actor": [
+                "4.59",
+                "5.37",
+                "4.61"
+            ],
+            "director": [
+                "6.13"
+            ]
+        },
+        {
+            "id": 140595,
+            "adult": 0,
+            "title": "Elaine Stritch: At Liberty",
+            "budget": 300000,
+            "genres": [
+                35,
+                99,
+                10402,
+                10770
+            ],
+            "poster_path": "/k4HGhaRWfEl7ZWXuh3Mq2EEG9ER.jpg",
+            "date": "2002",
+            "duration": 140,
+            "languages": [
+                "en"
+            ],
+            "rating": 10,
+            "actor": [
+                "5.83"
+            ],
+            "director": [
+                "6.84"
+            ]
+        },
+        {
+            "id": 57612,
+            "adult": 0,
+            "title": "Dolphins and Whales: Tribes of the Ocean",
+            "budget": 6000000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/99LrgyPYJCXIQ6LWynwaEotJ7wN.jpg",
+            "date": "2008",
+            "duration": 42,
+            "languages": [
+                "en"
+            ],
+            "rating": 8,
+            "actor": [
+                "5.51",
+                "6.17"
+            ],
+            "director": [
+                "5.93"
+            ]
+        },
+        {
+            "id": 60557,
+            "adult": 0,
+            "title": "Playing Columbine",
+            "budget": 12000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/ynMfSSgJnndo20u2uK3sflYWUK2.jpg",
+            "date": "2008",
+            "duration": 94,
+            "languages": [
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "8.50",
+                "8.50",
+                "7.50"
+            ],
+            "director": [
+                "8.50"
+            ]
+        },
+        {
+            "id": 58919,
+            "adult": 0,
+            "title": "Recycled Life",
+            "budget": 150000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/b7ty49Q9aHj3aBBaKTmQGzvkHCs.jpg",
+            "date": "2006",
+            "duration": 38,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.5,
+            "actor": [
+                "6.09"
+            ],
+            "director": [
+                "7.88"
+            ]
+        },
+        {
+            "id": 189556,
+            "adult": 0,
+            "title": "Svyato",
+            "budget": 10000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/aHORmcfVERAr9t2hbtYxgZpDmDu.jpg",
+            "date": "2005",
+            "duration": 33,
+            "languages": [
+                "ru"
+            ],
+            "rating": 3.8,
+            "actor": [
+                "3.80"
+            ],
+            "director": [
+                "5.05"
+            ]
+        },
+        {
+            "id": 428248,
+            "adult": 0,
+            "title": "Godka cirka",
+            "budget": 10,
+            "genres": [
+                18,
+                99
+            ],
+            "poster_path": "/kQqXmQLi6RFhXWFB2TXbSBxm4Ks.jpg",
+            "date": "2013",
+            "duration": 10,
+            "languages": [
+                "so"
+            ],
+            "rating": 7,
+            "actor": [
+                "7.00",
+                "7.00",
+                "7.00"
+            ],
+            "director": [
+                "7.00"
+            ]
+        },
+        {
+            "id": 283303,
+            "adult": 0,
+            "title": "I Remember me",
+            "budget": 1000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/nfLVydzfUUQ2WiCoQP9qHPhoAgX.jpg",
+            "date": "2000",
+            "duration": 74,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.3,
+            "actor": [
+                "4.30",
+                "5.30",
+                "5.30"
+            ],
+            "director": [
+                "5.70"
+            ]
+        },
+        {
+            "id": 386070,
+            "adult": 0,
+            "title": "Terence McKenna's True Hallucinations",
+            "budget": 7200,
+            "genres": [
+                99
+            ],
+            "poster_path": "/sE3uTPAHKgW3qWC2bBTEPnhIdPV.jpg",
+            "date": "2016",
+            "duration": 169,
+            "languages": [
+                "en"
+            ],
+            "rating": 10,
+            "actor": [
+                "6.47"
+            ],
+            "director": [
+                "10.00"
+            ]
+        },
+        {
+            "id": 69696,
+            "adult": 0,
+            "title": "What Remains",
+            "budget": 1000000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/ecKdbMYmWMLTJXTXHbk2CJoK8uk.jpg",
+            "date": "2005",
+            "duration": 80,
+            "languages": [
+                "en"
+            ],
+            "rating": 8,
+            "actor": [
+                "6.75",
+                "8.00",
+                "8.00"
+            ],
+            "director": [
+                "6.18"
+            ]
+        },
+        {
+            "id": 225413,
+            "adult": 0,
+            "title": "Vietnam: American Holocaust",
+            "budget": 35000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/s336UusKKfSwpXsbGnKtVotwPTv.jpg",
+            "date": "2008",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 8.5,
+            "actor": [
+                "6.21"
+            ],
+            "director": [
+                "8.50"
+            ]
+        },
+        {
+            "id": 47564,
+            "adult": 0,
+            "title": "400 Years of the Telescope",
+            "budget": 1200000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/zbho7rviIQicvMkuHCimyOp1abz.jpg",
+            "date": "2009",
+            "duration": 56,
+            "languages": [
+                "en"
+            ],
+            "rating": 4,
+            "actor": [
+                "6.68",
+                "5.16",
+                "4.00"
+            ],
+            "director": [
+                "4.00"
+            ]
+        },
+        {
+            "id": 211317,
+            "adult": 0,
+            "title": "Standing Army",
+            "budget": 264000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/pbKuZ4oLnzJNxtgMt5H7IxUZJ3S.jpg",
+            "date": "2010",
+            "duration": 75,
+            "languages": [
+                "en",
+                "ja",
+                "it"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "6.48",
+                "6.31",
+                "5.80"
+            ],
+            "director": [
+                "4.50"
+            ]
+        },
+        {
+            "id": 46199,
+            "adult": 0,
+            "title": "Johnny Castle Rising Star",
+            "budget": 20000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/Ab1u7OsdpcDj9JLKT8QqfdJUuUL.jpg",
+            "date": "2006",
+            "duration": 65,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "4.50",
+                "6.08",
+                "4.50"
+            ],
+            "director": [
+                "4.50"
+            ]
+        },
+        {
+            "id": 305566,
+            "adult": 0,
+            "title": "Bartitsu: The Lost Martial Art of Sherlock Holmes",
+            "budget": 20000,
+            "genres": [
+                36,
+                99
+            ],
+            "poster_path": "/tc7e37bJSqa8hevYAkdDKCKIrXr.jpg",
+            "date": "2011",
+            "duration": 54,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.3,
+            "actor": [
+                "4.30",
+                "4.30"
+            ],
+            "director": [
+                "4.30"
+            ]
+        },
+        {
+            "id": 78573,
+            "adult": 0,
+            "title": "The Gerson Miracle",
+            "budget": 100,
+            "genres": [
+                99
+            ],
+            "poster_path": "/yYTCmSCzGgg2oqYXl4XME79Xgcl.jpg",
+            "date": "2004",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.8,
+            "actor": [
+                "7.93",
+                "7.05"
+            ],
+            "director": [
+                "6.28"
+            ]
+        },
+        {
+            "id": 52406,
+            "adult": 0,
+            "title": "Fresh",
+            "budget": 412000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/A5ZJvEMSJwqAbCA7XzZ2qzuQjqC.jpg",
+            "date": "2009",
+            "duration": 72,
+            "languages": [
+                "en"
+            ],
+            "rating": 8.3,
+            "actor": [
+                "6.53",
+                "8.30",
+                "8.30"
+            ],
+            "director": [
+                "8.30"
+            ]
+        },
+        {
+            "id": 84687,
+            "adult": 0,
+            "title": "A Good Band is Easy to Kill",
+            "budget": 32000,
+            "genres": [
+                99,
+                10402
+            ],
+            "poster_path": "/s2xDeNqY70LSTgHLyFDDjYEGACb.jpg",
+            "date": "2005",
+            "duration": 89,
+            "languages": [
+                "en"
+            ],
+            "rating": 8,
+            "actor": [
+                "8.00",
+                "8.00",
+                "8.00"
+            ],
+            "director": [
+                "5.77"
+            ]
+        },
+        {
+            "id": 149770,
+            "adult": 0,
+            "title": "Berg Fidel",
+            "budget": 46450,
+            "genres": [
+                99
+            ],
+            "poster_path": "/dLhoUPRpwZureLmbP0NkE8LRC7B.jpg",
+            "date": "2012",
+            "duration": 0,
+            "languages": [
+                "de"
+            ],
+            "rating": 4,
+            "actor": [
+                "4.00",
+                "4.00",
+                "4.00"
+            ],
+            "director": [
+                "4.00"
+            ]
+        },
+        {
+            "id": 319065,
+            "adult": 0,
+            "title": "Hardcore",
+            "budget": 5000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/eodIpUs4NakSnxcOX2gge9HoTNq.jpg",
+            "date": "2001",
+            "duration": 63,
+            "languages": [
+                "en"
+            ],
+            "rating": 0.5,
+            "actor": [
+                "0.50",
+                "7.38",
+                "5.25"
+            ],
+            "director": [
+                "4.05"
+            ]
+        }
+    ],
+    "total_results": 57
+}

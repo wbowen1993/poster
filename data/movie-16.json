@@ -1,0 +1,1604 @@
+{
+    "movies": [
+        {
+            "id": 33470,
+            "adult": 0,
+            "title": "American Boy: A Profile of: Steven Prince",
+            "budget": 155000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/kIRcrTmIhohmW6TNlLoNC8ankkX.jpg",
+            "date": "1978",
+            "duration": 55,
+            "languages": [
+                "en"
+            ],
+            "rating": 7,
+            "actor": [
+                "6.83",
+                "6.66",
+                "7.37"
+            ],
+            "director": [
+                "6.92"
+            ]
+        },
+        {
+            "id": 147698,
+            "adult": 0,
+            "title": "Crulic - The Path to Beyond",
+            "budget": 292,
+            "genres": [
+                16,
+                99
+            ],
+            "poster_path": "/lSXALZ4FMXDW9Vc11a5g8ExrcyX.jpg",
+            "date": "2011",
+            "duration": 73,
+            "languages": [
+                "ro"
+            ],
+            "rating": 7.3,
+            "actor": [
+                "6.48",
+                "5.94",
+                "6.51"
+            ],
+            "director": [
+                "6.68"
+            ]
+        },
+        {
+            "id": 193352,
+            "adult": 0,
+            "title": "Blood Ties: The Life and Work of Sally Mann",
+            "budget": 3000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/wptrNaIwInLIOFmE3MSH4lq2eYu.jpg",
+            "date": "1994",
+            "duration": 30,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "6.75",
+                "6.23",
+                "5.50"
+            ],
+            "director": [
+                "6.18"
+            ]
+        },
+        {
+            "id": 62428,
+            "adult": 0,
+            "title": "March of the Dinosaurs",
+            "budget": 4197250,
+            "genres": [
+                99,
+                16,
+                18
+            ],
+            "poster_path": "/rpt6TF5LqYuYAIOI6dvWSQdfHZa.jpg",
+            "date": "2011",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.35",
+                "6.30"
+            ],
+            "director": [
+                "6.56"
+            ]
+        },
+        {
+            "id": 48227,
+            "adult": 0,
+            "title": "La Soufrière",
+            "budget": 30000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/x0dhp6heho4YmsrnfC3LSszJFxJ.jpg",
+            "date": "1977",
+            "duration": 31,
+            "languages": [
+                "fr",
+                "de"
+            ],
+            "rating": 7.8,
+            "actor": [
+                "6.63"
+            ],
+            "director": [
+                "6.79"
+            ]
+        },
+        {
+            "id": 79893,
+            "adult": 0,
+            "title": "Breaking the Taboo",
+            "budget": 2000000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/3SRJKGbk3Em2nLAbxQcis98aOiB.jpg",
+            "date": "2011",
+            "duration": 0,
+            "languages": [
+                "pt"
+            ],
+            "rating": 7.3,
+            "actor": [
+                "5.57",
+                "7.18",
+                "7.47"
+            ],
+            "director": [
+                "5.33"
+            ]
+        },
+        {
+            "id": 424132,
+            "adult": 0,
+            "title": "Rush: Time Stand Still",
+            "budget": 750000,
+            "genres": [
+                10402,
+                99
+            ],
+            "poster_path": "/DaZauWoe0FAZNulz7V7Mt8kjqQ.jpg",
+            "date": "2016",
+            "duration": 97,
+            "languages": [
+                "en"
+            ],
+            "rating": 10,
+            "actor": [
+                "7.49",
+                "7.23",
+                "7.25"
+            ],
+            "director": [
+                "9.45"
+            ]
+        },
+        {
+            "id": 482821,
+            "adult": 0,
+            "title": "A Very Trite Fable: The Legacy Of Dermis Tatu",
+            "budget": 5000,
+            "genres": [
+                10402,
+                99
+            ],
+            "poster_path": "/7iUX2mfmI8oBa3Z9G3ZWXyr8UUu.jpg",
+            "date": "2017",
+            "duration": 93,
+            "languages": [
+                "es"
+            ],
+            "rating": 8,
+            "actor": [
+                "8.00",
+                "8.00",
+                "8.00"
+            ],
+            "director": [
+                "8.00"
+            ]
+        },
+        {
+            "id": 173056,
+            "adult": 0,
+            "title": "100 Yen: The Japanese Arcade Experience",
+            "budget": 32213,
+            "genres": [
+                99
+            ],
+            "poster_path": "/fXYuJR1iel7imZXjaV9P7FqqhzL.jpg",
+            "date": "2012",
+            "duration": 68,
+            "languages": [
+                "en",
+                "ja"
+            ],
+            "rating": 4.8,
+            "actor": [
+                "4.80",
+                "5.07",
+                "4.80"
+            ],
+            "director": [
+                "4.90"
+            ]
+        },
+        {
+            "id": 84179,
+            "adult": 0,
+            "title": "Bones Brigade: An Autobiography",
+            "budget": 110,
+            "genres": [
+                99
+            ],
+            "poster_path": "/f0TFjRYnn6F2wLP9pfa1N6l3rMY.jpg",
+            "date": "2012",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.9,
+            "actor": [
+                "6.59",
+                "6.37",
+                "6.88"
+            ],
+            "director": [
+                "6.91"
+            ]
+        },
+        {
+            "id": 30168,
+            "adult": 0,
+            "title": "It Came from Hollywood",
+            "budget": 5000000,
+            "genres": [
+                35,
+                99
+            ],
+            "poster_path": "/7MEflXzbne5jzOalnM7Q3LY1Cgj.jpg",
+            "date": "1982",
+            "duration": 80,
+            "languages": [
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "5.99",
+                "5.83",
+                "6.03"
+            ],
+            "director": [
+                "6.41"
+            ]
+        },
+        {
+            "id": 390353,
+            "adult": 0,
+            "title": "Traceroute",
+            "budget": 10000,
+            "genres": [
+                35,
+                99
+            ],
+            "poster_path": "/cZHQvixZRjVwYmBKG2ofvR3qPMM.jpg",
+            "date": "2016",
+            "duration": 120,
+            "languages": [
+                "en"
+            ],
+            "rating": 8.7,
+            "actor": [
+                "10.00"
+            ],
+            "director": [
+                "8.25"
+            ]
+        },
+        {
+            "id": 27645,
+            "adult": 0,
+            "title": "200 Motels",
+            "budget": 679000,
+            "genres": [
+                14,
+                35,
+                99,
+                878,
+                10402
+            ],
+            "poster_path": "/7nvkxRiMdsIrwnyHZJjXO0b3sQ5.jpg",
+            "date": "1971",
+            "duration": 98,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "5.50",
+                "6.40",
+                "5.97"
+            ],
+            "director": [
+                "5.74"
+            ]
+        },
+        {
+            "id": 39183,
+            "adult": 0,
+            "title": "Once in a Lifetime: The Extraordinary Story of the New York Cosmos",
+            "budget": 1000000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/mYpgwxTLhCTHoA0LXyRAYhTcpUi.jpg",
+            "date": "2006",
+            "duration": 97,
+            "languages": [
+                "en"
+            ],
+            "rating": 5,
+            "actor": [
+                "6.41",
+                "5.06",
+                "4.63"
+            ],
+            "director": [
+                "6.40"
+            ]
+        },
+        {
+            "id": 315839,
+            "adult": 0,
+            "title": "Above and Beyond",
+            "budget": 1300000,
+            "genres": [
+                10752,
+                99,
+                12,
+                36
+            ],
+            "poster_path": "/bajT3SbsVNgfqkxnjRjwiWtIdDT.jpg",
+            "date": "2015",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.8,
+            "actor": [
+                "6.03",
+                "7.17",
+                "7.80"
+            ],
+            "director": [
+                "8.10"
+            ]
+        },
+        {
+            "id": 36443,
+            "adult": 0,
+            "title": "The Union: The Business Behind Getting High",
+            "budget": 200000,
+            "genres": [
+                35,
+                99
+            ],
+            "poster_path": "/iPLeToJTOzpSAtDMkL5Wc23jH4A.jpg",
+            "date": "2007",
+            "duration": 104,
+            "languages": [
+                "en"
+            ],
+            "rating": 7,
+            "actor": [
+                "7.06",
+                "6.47",
+                "7.75"
+            ],
+            "director": [
+                "7.75"
+            ]
+        },
+        {
+            "id": 139945,
+            "adult": 0,
+            "title": "The Dark Glow of the Mountain",
+            "budget": 62500,
+            "genres": [
+                99
+            ],
+            "poster_path": "/x0Ab8CDJdCoLc5tnhWQcrcRoDvi.jpg",
+            "date": "1985",
+            "duration": 45,
+            "languages": [
+                "it",
+                "de",
+                "en",
+                "fa"
+            ],
+            "rating": 7.9,
+            "actor": [
+                "6.63",
+                "6.65"
+            ],
+            "director": [
+                "6.79"
+            ]
+        },
+        {
+            "id": 402919,
+            "adult": 0,
+            "title": "The Promise",
+            "budget": 300000,
+            "genres": [
+                80,
+                99
+            ],
+            "poster_path": "/dE30flsJRAf4d2eFEAgEU7mvOYN.jpg",
+            "date": "2016",
+            "duration": 131,
+            "languages": [
+                "en",
+                "de"
+            ],
+            "rating": 4.9,
+            "actor": [
+                "6.14",
+                "6.35",
+                "4.50"
+            ],
+            "director": [
+                "5.58"
+            ]
+        },
+        {
+            "id": 23451,
+            "adult": 0,
+            "title": "Videocracy",
+            "budget": 700000,
+            "genres": [
+                99,
+                10769
+            ],
+            "poster_path": "/eh63zxHA9C0iw6J1Pltwe387sQ7.jpg",
+            "date": "2009",
+            "duration": 85,
+            "languages": [
+                "en",
+                "it"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "7.10",
+                "5.60",
+                "5.20"
+            ],
+            "director": [
+                "6.27"
+            ]
+        },
+        {
+            "id": 92117,
+            "adult": 0,
+            "title": "Like Water",
+            "budget": 325,
+            "genres": [
+                99
+            ],
+            "poster_path": "/Aqkfp70MjcuztqhX8g6mRnYD552.jpg",
+            "date": "2011",
+            "duration": 0,
+            "languages": [
+                "en",
+                "pt"
+            ],
+            "rating": 6.4,
+            "actor": [
+                "6.13",
+                "6.40",
+                "6.25"
+            ],
+            "director": [
+                "6.40"
+            ]
+        },
+        {
+            "id": 139948,
+            "adult": 0,
+            "title": "Burn",
+            "budget": 225000,
+            "genres": [
+                10769,
+                99
+            ],
+            "poster_path": "/cG2QmVsBboBlz9YVy2eUZxHGhgO.jpg",
+            "date": "2012",
+            "duration": 86,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.1,
+            "actor": [
+                "6.90",
+                "6.90",
+                "6.90"
+            ],
+            "director": [
+                "5.13"
+            ]
+        },
+        {
+            "id": 47491,
+            "adult": 0,
+            "title": "The Beales of Grey Gardens",
+            "budget": 400000,
+            "genres": [
+                99,
+                18
+            ],
+            "poster_path": "/3RVvpy9x7JlphOUSMymUPr9Zjto.jpg",
+            "date": "2006",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "6.85",
+                "6.22",
+                "6.63"
+            ],
+            "director": [
+                "6.10"
+            ]
+        },
+        {
+            "id": 285434,
+            "adult": 0,
+            "title": "Holy Ghost",
+            "budget": 357655,
+            "genres": [
+                99
+            ],
+            "poster_path": "/qDER6XczDZQTodSs44ouPdDgLkR.jpg",
+            "date": "2014",
+            "duration": 113,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.8,
+            "actor": [
+                "6.48",
+                "4.47",
+                "5.37"
+            ],
+            "director": [
+                "7.70"
+            ]
+        },
+        {
+            "id": 397403,
+            "adult": 0,
+            "title": "Brexit: The Movie",
+            "budget": 430000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/31gnW5UCXKZO4sby1Gh6uI9mnHX.jpg",
+            "date": "2016",
+            "duration": 71,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.30",
+                "6.30",
+                "6.30"
+            ],
+            "director": [
+                "6.50"
+            ]
+        },
+        {
+            "id": 55858,
+            "adult": 0,
+            "title": "Reclaiming the Blade",
+            "budget": 300000,
+            "genres": [
+                28,
+                12,
+                99,
+                18,
+                878
+            ],
+            "poster_path": "/qxF2eKl4ZoWHOiUjvZroczylWRG.jpg",
+            "date": "2009",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.41",
+                "5.30",
+                "6.49"
+            ],
+            "director": [
+                "5.70"
+            ]
+        },
+        {
+            "id": 50789,
+            "adult": 0,
+            "title": "Sympathy for the Devil",
+            "budget": 500000,
+            "genres": [
+                99,
+                10402
+            ],
+            "poster_path": "/5qe9bmpW7at9pTGqIVXRLmG7AIK.jpg",
+            "date": "1968",
+            "duration": 115,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.5,
+            "actor": [
+                "6.50",
+                "7.03",
+                "7.17"
+            ],
+            "director": [
+                "6.70"
+            ]
+        },
+        {
+            "id": 52903,
+            "adult": 0,
+            "title": "Steam of Life",
+            "budget": 580000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/lSFunfO2xjfRJIQTi89L6iK3EL0.jpg",
+            "date": "2010",
+            "duration": 80,
+            "languages": [
+                "fi"
+            ],
+            "rating": 6.9,
+            "actor": [
+                "6.90",
+                "6.90",
+                "6.90"
+            ],
+            "director": [
+                "6.27"
+            ]
+        },
+        {
+            "id": 277765,
+            "adult": 0,
+            "title": "Art as a Weapon",
+            "budget": 34000,
+            "genres": [
+                12,
+                99
+            ],
+            "poster_path": "/xvRyoVkOxPSQmfuqZLpmo2CcXHj.jpg",
+            "date": "2014",
+            "duration": 59,
+            "languages": [
+                "my",
+                "en"
+            ],
+            "rating": 6,
+            "actor": [
+                "6.88",
+                "6.00",
+                "6.00"
+            ],
+            "director": [
+                "5.47"
+            ]
+        },
+        {
+            "id": 180383,
+            "adult": 0,
+            "title": "Deceptive Practice: The Mysteries and Mentors of Ricky Jay",
+            "budget": 500000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/aKBOd961Y6j58nIXn1uW5JJhNle.jpg",
+            "date": "2012",
+            "duration": 88,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.1,
+            "actor": [
+                "6.64",
+                "6.93",
+                "7.10"
+            ],
+            "director": [
+                "7.10"
+            ]
+        },
+        {
+            "id": 22427,
+            "adult": 0,
+            "title": "Blue Collar Comedy Tour Rides Again",
+            "budget": 2500000,
+            "genres": [
+                35,
+                99
+            ],
+            "poster_path": "/ffBIln2qp2EjGORbW66CgIYy1oT.jpg",
+            "date": "2004",
+            "duration": 106,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.46",
+                "6.02",
+                "5.65"
+            ],
+            "director": [
+                "5.50"
+            ]
+        },
+        {
+            "id": 421402,
+            "adult": 0,
+            "title": "La vallée des loups",
+            "budget": 700000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/kcG2JbpRCL2uY12NkaCkUKDMIy2.jpg",
+            "date": "2017",
+            "duration": null,
+            "languages": [
+                "fr"
+            ],
+            "rating": 7.2,
+            "actor": [
+                "7.20"
+            ],
+            "director": [
+                "7.20"
+            ]
+        },
+        {
+            "id": 71932,
+            "adult": 0,
+            "title": "What Is Brazil?",
+            "budget": 15,
+            "genres": [
+                99
+            ],
+            "poster_path": "/oBfFpZTSjb30XKfblSqDNPKrlCj.jpg",
+            "date": "1985",
+            "duration": 30,
+            "languages": [
+                "fr"
+            ],
+            "rating": 7.5,
+            "actor": [
+                "6.34",
+                "6.59",
+                "5.87"
+            ],
+            "director": [
+                "5.48"
+            ]
+        },
+        {
+            "id": 37003,
+            "adult": 0,
+            "title": "U2 3D",
+            "budget": 15000000,
+            "genres": [
+                10402,
+                99
+            ],
+            "poster_path": "/tKvY6Gh5LY60WXNb0BOW2JIngZL.jpg",
+            "date": "2007",
+            "duration": 85,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "6.89",
+                "7.09",
+                "6.82"
+            ],
+            "director": [
+                "6.70"
+            ]
+        },
+        {
+            "id": 78394,
+            "adult": 0,
+            "title": "Sea Rex 3D: Journey to a Prehistoric World",
+            "budget": 5000000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/swZfa27SB9NXmyqjbyp8xLFITmw.jpg",
+            "date": "2010",
+            "duration": 41,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.37",
+                "5.60",
+                "6.30"
+            ],
+            "director": [
+                "5.10"
+            ]
+        },
+        {
+            "id": 173165,
+            "adult": 0,
+            "title": "The King of Arcades",
+            "budget": 175000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/2msxsliNYPDyYI2WkxmzTcRFKnx.jpg",
+            "date": "2014",
+            "duration": 100,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.6,
+            "actor": [
+                "5.93",
+                "5.40",
+                "6.75"
+            ],
+            "director": [
+                "5.68"
+            ]
+        },
+        {
+            "id": 57436,
+            "adult": 0,
+            "title": "The Erotic Man",
+            "budget": 1400000,
+            "genres": [
+                99,
+                18
+            ],
+            "poster_path": "/iItsqHoVZaGb8lwTpcQvCv9dSvc.jpg",
+            "date": "2010",
+            "duration": 85,
+            "languages": [
+                "da",
+                "en",
+                "fr",
+                "pt"
+            ],
+            "rating": 7,
+            "actor": [
+                "6.88",
+                "7.17",
+                "7.00"
+            ],
+            "director": [
+                "6.89"
+            ]
+        },
+        {
+            "id": 139302,
+            "adult": 0,
+            "title": "The Bitter Buddha",
+            "budget": 250000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/caqIC68vRZJzHtxQnRlF4EVoMDi.jpg",
+            "date": "2012",
+            "duration": 92,
+            "languages": [
+                "en"
+            ],
+            "rating": 8,
+            "actor": [
+                "6.26",
+                "6.31",
+                "6.36"
+            ],
+            "director": [
+                "6.87"
+            ]
+        },
+        {
+            "id": 241693,
+            "adult": 0,
+            "title": "Beyond Beauty: Taiwan from Above",
+            "budget": 3400000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/uUmB3ka3yX7z3pGICjgplLgyZF6.jpg",
+            "date": "2013",
+            "duration": 93,
+            "languages": [
+                "zh"
+            ],
+            "rating": 6.9,
+            "actor": [
+                "7.11",
+                "6.90",
+                "6.90"
+            ],
+            "director": [
+                "6.90"
+            ]
+        },
+        {
+            "id": 388875,
+            "adult": 0,
+            "title": "War and Peace of Mind",
+            "budget": 230000,
+            "genres": [
+                99,
+                10752
+            ],
+            "poster_path": "/41k6uSgkIOhH07bfjlPVodUuTTQ.jpg",
+            "date": "2016",
+            "duration": 72,
+            "languages": [
+                "fi"
+            ],
+            "rating": 6,
+            "actor": [
+                "6.00",
+                "6.00"
+            ],
+            "director": [
+                "6.50"
+            ]
+        },
+        {
+            "id": 180691,
+            "adult": 0,
+            "title": "David Bowie & the Story of Ziggy Stardust",
+            "budget": 150000,
+            "genres": [
+                99,
+                10402
+            ],
+            "poster_path": "/knFiIER9zd9d0A3Vk7hwB9AHKU3.jpg",
+            "date": "2012",
+            "duration": 60,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "6.85"
+            ],
+            "director": [
+                "6.70"
+            ]
+        },
+        {
+            "id": 8930,
+            "adult": 0,
+            "title": "Modern Life",
+            "budget": 88,
+            "genres": [
+                99
+            ],
+            "poster_path": "/eNk3gxTpkuDfWkFyajD7lgrN75E.jpg",
+            "date": "2008",
+            "duration": 88,
+            "languages": [
+                "fr"
+            ],
+            "rating": 8.8,
+            "actor": [
+                "9.30",
+                "9.30",
+                "9.30"
+            ],
+            "director": [
+                "6.40"
+            ]
+        },
+        {
+            "id": 47753,
+            "adult": 0,
+            "title": "William S. Burroughs: A Man Within",
+            "budget": 160000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/14UGRWoXhwpTZFwunW7m2huRnPW.jpg",
+            "date": "2010",
+            "duration": 88,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "5.49",
+                "6.94",
+                "6.31"
+            ],
+            "director": [
+                "6.09"
+            ]
+        },
+        {
+            "id": 56777,
+            "adult": 0,
+            "title": "At the Edge of the World",
+            "budget": 1100000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/znedUUcXH00elpwQB5xVKzQLlqU.jpg",
+            "date": "2008",
+            "duration": 90,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.3,
+            "actor": [
+                "6.60",
+                "6.30"
+            ],
+            "director": [
+                "4.80"
+            ]
+        },
+        {
+            "id": 354421,
+            "adult": 0,
+            "title": "The Confessions of Thomas Quick",
+            "budget": 1250000,
+            "genres": [
+                80,
+                99
+            ],
+            "poster_path": "/41d2miYUuPQM8E78l7rsLlhXJJu.jpg",
+            "date": "2015",
+            "duration": 95,
+            "languages": [
+                "sv",
+                "en"
+            ],
+            "rating": 6.6,
+            "actor": [
+                "6.60",
+                "6.60",
+                "8.30"
+            ],
+            "director": [
+                "6.60"
+            ]
+        },
+        {
+            "id": 393629,
+            "adult": 0,
+            "title": "Pure Pwnage: Teh Movie",
+            "budget": 220093,
+            "genres": [
+                35,
+                99
+            ],
+            "poster_path": "/sXVLUcjCmhyQs5QWr0vMbdeDQzd.jpg",
+            "date": "2016",
+            "duration": 91,
+            "languages": [
+                "en"
+            ],
+            "rating": 8.4,
+            "actor": [
+                "8.40",
+                "8.40",
+                "8.13"
+            ],
+            "director": [
+                "8.40"
+            ]
+        },
+        {
+            "id": 61634,
+            "adult": 0,
+            "title": "War Dogs of the Pacific",
+            "budget": 125000,
+            "genres": [
+                99,
+                36,
+                10752
+            ],
+            "poster_path": "/FJVk7j3UmhiYU4k9lJyBRqdAjI.jpg",
+            "date": "2009",
+            "duration": 46,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.8,
+            "actor": [
+                "6.06",
+                "4.80"
+            ],
+            "director": [
+                "5.42"
+            ]
+        },
+        {
+            "id": 257019,
+            "adult": 0,
+            "title": "Juguetes rotos",
+            "budget": 17845,
+            "genres": [
+                99
+            ],
+            "poster_path": "/ixn1DudjbRvthJXjrWZ8SuMDQEm.jpg",
+            "date": "1966",
+            "duration": 80,
+            "languages": [
+                "es"
+            ],
+            "rating": 7,
+            "actor": [
+                "7.00",
+                "7.00",
+                "7.00"
+            ],
+            "director": [
+                "4.83"
+            ]
+        },
+        {
+            "id": 268917,
+            "adult": 0,
+            "title": "The Past Is a Grotesque Animal",
+            "budget": 100,
+            "genres": [
+                99,
+                10402
+            ],
+            "poster_path": "/lfqgMmTEv7Bm7qMa6aM3LSnHYkJ.jpg",
+            "date": "2014",
+            "duration": 77,
+            "languages": [
+                "en"
+            ],
+            "rating": 5.5,
+            "actor": [
+                "5.50",
+                "5.50",
+                "5.50"
+            ],
+            "director": [
+                "5.50"
+            ]
+        },
+        {
+            "id": 216529,
+            "adult": 0,
+            "title": "Doomed! The Untold Story of Roger Corman's The Fantastic Four",
+            "budget": 50000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/hQM9gV6ffxSJKOfp2bgn8lUIF6y.jpg",
+            "date": "2015",
+            "duration": 85,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.8,
+            "actor": [
+                "6.68",
+                "5.07",
+                "5.66"
+            ],
+            "director": [
+                "6.05"
+            ]
+        },
+        {
+            "id": 286933,
+            "adult": 0,
+            "title": "Inside the Hunt for the Boston Bombers",
+            "budget": 10000000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/mgJxGZiq1qUz4TDYDCYeSqdaT7y.jpg",
+            "date": "2014",
+            "duration": 87,
+            "languages": [
+                "en"
+            ],
+            "rating": 8,
+            "actor": [
+                "8.00",
+                "8.00",
+                "5.47"
+            ],
+            "director": [
+                "6.20"
+            ]
+        },
+        {
+            "id": 147476,
+            "adult": 0,
+            "title": "The Love Epidemic",
+            "budget": 25000,
+            "genres": [
+                35,
+                99
+            ],
+            "poster_path": "/6GYMtp23kcBhpKwkQAmX32elR0P.jpg",
+            "date": "1975",
+            "duration": 83,
+            "languages": [
+                "en"
+            ],
+            "rating": 4.5,
+            "actor": [
+                "4.50",
+                "5.90",
+                "5.30"
+            ],
+            "director": [
+                "4.79"
+            ]
+        },
+        {
+            "id": 412776,
+            "adult": 0,
+            "title": "Making a Marathon",
+            "budget": 30,
+            "genres": [
+                99
+            ],
+            "poster_path": "/oNmY3dVdOtL15OEu3EnYPs9TG7d.jpg",
+            "date": "2016",
+            "duration": 174,
+            "languages": [
+                "en"
+            ],
+            "rating": 8,
+            "actor": [
+                "9.00",
+                "9.00",
+                "9.00"
+            ],
+            "director": [
+                "9.14"
+            ]
+        },
+        {
+            "id": 116835,
+            "adult": 0,
+            "title": "Pink Floyd: The Story of Wish You Were Here",
+            "budget": 15732,
+            "genres": [
+                99,
+                10402
+            ],
+            "poster_path": "/nMW6BOGhSeTuBviwsEll2ziYtAA.jpg",
+            "date": "2012",
+            "duration": 85,
+            "languages": [
+                "en",
+                "fr"
+            ],
+            "rating": 6.7,
+            "actor": [
+                "6.42",
+                "7.15",
+                "6.58"
+            ],
+            "director": [
+                "7.97"
+            ]
+        },
+        {
+            "id": 139860,
+            "adult": 0,
+            "title": "Ancient Aliens Debunked",
+            "budget": 15000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/nGEcWhfP28tKETgCx5JRTSrwhGo.jpg",
+            "date": "2012",
+            "duration": 191,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "7.27",
+                "6.20",
+                "6.20"
+            ],
+            "director": [
+                "7.80"
+            ]
+        },
+        {
+            "id": 214431,
+            "adult": 0,
+            "title": "Bianca Beauchamp All Access 2: Rubberized",
+            "budget": 41000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/7PliiajofJ62B6yFuwHUZwRioji.jpg",
+            "date": "2008",
+            "duration": 92,
+            "languages": [
+                "en",
+                "fr"
+            ],
+            "rating": 8.5,
+            "actor": [
+                "8.25",
+                "8.25",
+                "8.50"
+            ],
+            "director": [
+                "8.31"
+            ]
+        },
+        {
+            "id": 183910,
+            "adult": 0,
+            "title": "Adjust Your Tracking: The Untold Story of the VHS Collector",
+            "budget": 5000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/xbSOTqH6Z46Jw33j3Boe3srudqf.jpg",
+            "date": "2013",
+            "duration": 84,
+            "languages": [
+                "en"
+            ],
+            "rating": 7.6,
+            "actor": [
+                "4.98",
+                "6.90",
+                "7.80"
+            ],
+            "director": [
+                "7.60"
+            ]
+        },
+        {
+            "id": 102691,
+            "adult": 0,
+            "title": "Bells from the Deep",
+            "budget": 517000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/zx7qrbsmd175rOVoGrzDo920Rj7.jpg",
+            "date": "1993",
+            "duration": 60,
+            "languages": [
+                "de",
+                "ru"
+            ],
+            "rating": 6.6,
+            "actor": [
+                "6.60",
+                "6.60"
+            ],
+            "director": [
+                "6.79"
+            ]
+        },
+        {
+            "id": 450739,
+            "adult": 0,
+            "title": "Premier homme",
+            "budget": 4,
+            "genres": [
+                36,
+                99,
+                12
+            ],
+            "poster_path": "/nymB30HC4jCYTYSiQxqNHd0vzOI.jpg",
+            "date": "2017",
+            "duration": null,
+            "languages": [
+                "fr"
+            ],
+            "rating": 7.5,
+            "actor": [
+                "6.22"
+            ],
+            "director": [
+                "7.50"
+            ]
+        },
+        {
+            "id": 447319,
+            "adult": 0,
+            "title": "The Common Touch",
+            "budget": 350,
+            "genres": [
+                99
+            ],
+            "poster_path": "/wgQG0Z97sm7Nn3garvLGYZdy9DF.jpg",
+            "date": "2017",
+            "duration": 40,
+            "languages": [
+                "en"
+            ],
+            "rating": 10,
+            "actor": [
+                "10.00",
+                "10.00",
+                "10.00"
+            ],
+            "director": [
+                "10.00"
+            ]
+        },
+        {
+            "id": 328840,
+            "adult": 0,
+            "title": "The Primary Instinct",
+            "budget": 50234,
+            "genres": [
+                18,
+                99
+            ],
+            "poster_path": "/iineJgv8ZEwe81ALRYMEtNxMUPx.jpg",
+            "date": "2015",
+            "duration": 73,
+            "languages": [
+                "en"
+            ],
+            "rating": 7,
+            "actor": [
+                "5.69"
+            ],
+            "director": [
+                "8.50"
+            ]
+        },
+        {
+            "id": 100224,
+            "adult": 0,
+            "title": "How Much Wood Would a Woodchuck Chuck",
+            "budget": 34000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/ml1eAXCUvXCFInzL2oAtnjWDd6F.jpg",
+            "date": "1976",
+            "duration": 44,
+            "languages": [
+                "en",
+                "de"
+            ],
+            "rating": 7.3,
+            "actor": [
+                "6.63",
+                "7.30",
+                "7.20"
+            ],
+            "director": [
+                "6.79"
+            ]
+        },
+        {
+            "id": 54499,
+            "adult": 0,
+            "title": "No Maps for These Territories",
+            "budget": 250000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/gyofT9f6mD4Y75I6YrOj2CHTtcf.jpg",
+            "date": "2000",
+            "duration": 89,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.1,
+            "actor": [
+                "6.30",
+                "6.89",
+                "7.09"
+            ],
+            "director": [
+                "6.90"
+            ]
+        },
+        {
+            "id": 234158,
+            "adult": 0,
+            "title": "Bruce Willis: Why the Legend Never Dies",
+            "budget": 125000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/wjB67E1UOD17Y08fqi2Zji9T4IL.jpg",
+            "date": "2013",
+            "duration": 90,
+            "languages": [
+                "de",
+                "en"
+            ],
+            "rating": 5.9,
+            "actor": [
+                "6.12",
+                "6.15",
+                "6.41"
+            ],
+            "director": [
+                "5.90"
+            ]
+        },
+        {
+            "id": 29465,
+            "adult": 0,
+            "title": "Sex, Drugs & Religion",
+            "budget": 5000,
+            "genres": [
+                35,
+                99
+            ],
+            "poster_path": "/qYM1HpPqSJrzb22NuEckc83iiRg.jpg",
+            "date": "2010",
+            "duration": 72,
+            "languages": [
+                "en"
+            ],
+            "rating": 3.5,
+            "actor": [
+                "3.50",
+                "3.50",
+                "5.81"
+            ],
+            "director": [
+                "3.13"
+            ]
+        },
+        {
+            "id": 36738,
+            "adult": 0,
+            "title": "Boy Interrupted",
+            "budget": 350000,
+            "genres": [
+                99
+            ],
+            "poster_path": "/zQZgn6HPIJeyMuvIUtkFUPyOX3l.jpg",
+            "date": "2009",
+            "duration": 92,
+            "languages": [
+                "en"
+            ],
+            "rating": 6.2,
+            "actor": [
+                "6.20"
+            ],
+            "director": [
+                "6.20"
+            ]
+        }
+    ],
+    "total_results": 65
+}

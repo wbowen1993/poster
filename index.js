@@ -68,6 +68,7 @@ function getMovieIdByGenre(genre){
         	var verified_res = verify(obj['results'][i]);
         	if(id_set.indexOf(obj['results'][i]['id'])==-1&&verified_res==0){
         		movie_ids.push(obj['results'][i]['id']);
+        		id_set.push(obj['results'][i]['id']);
         		console.log('\x1b[32m%s\x1b[0m','[ADDED]');
         		count.added++;
         	}

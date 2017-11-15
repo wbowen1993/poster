@@ -159,7 +159,7 @@ function getPeopleRating(id,type){
 
 function main(){
 
-	movie_ids = movie_ids.slice(0,12500);
+	movie_ids = movie_ids.slice(12600,30000);
 	var sub = Math.ceil(movie_ids.length/n_folds);
 	for(var i = 0;i<n_folds;i++){
 		movie = [];
@@ -176,7 +176,7 @@ function main(){
 			"total_results":movie.length
 		};
 		var content = JSON.stringify(obj,null,4);
-		var path = movie_path + i +'.json';
+		var path = movie_path + parseInt(10 + i) +'.json';
 		fs.writeFileSync(path,content);
 		console.log('\x1b[36m%s\x1b[0m','[Write Successfully]:'+path)
 	}
