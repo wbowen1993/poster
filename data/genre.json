@@ -75,6 +75,11 @@
         {
             "id": 37,
             "name": "Western"
+        },
+        {
+            "id": 10769,
+            "name": "Foreign"
         }
+
     ]
 }
