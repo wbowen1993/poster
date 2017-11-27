@@ -91,8 +91,8 @@ obj = obj['movie']
 movie_list = []
 id_set = []
 for i in range(len(obj)):
-	if(len(obj[i]['languages'])>0 and obj[i]['budget']!=0 and len(obj[i]['genres'])>0 and len(obj[i]['actor'])==3):
-		if(obj[i]['id'] not in id_set):
+	if(len(obj[i]['languages'])>0 and obj[i]['budget']!=0 and len(obj[i]['genres'])>0 and len(obj[i]['actor'])==3 and obj[i]['duration'] != None):
+		if obj[i]['id'] not in id_set:
 			id_set.append(obj[i]['id'])
 		else:
 			continue
